@@ -7,11 +7,17 @@
 <a href="https://github.com/Panmani/Awesome-VLA/issues"><img src="https://img.shields.io/github/issues/Panmani/Awesome-VLA" alt="Issues Badge"/></a>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Yueen Ma<sup>1</sup>, Zixing Song<sup>1</sup>, Yuzheng Zhuang<sup>2</sup>, Jianye Hao<sup>2</sup>, Irwin King<sup>1</sup>
+
+1. The Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong, China (Email: {yema21, zxsong, king}@cse.cuhk.edu.hk)
+
+2. Huawei Noah's Ark Lab, Shenzhen, China (Email: {zhuangyuzheng, haojianye}@huawei.com)
+
 The official repo of the survey, containing a curative list of papers using **Vision-Language-Action Models for Embodied AI**. 
 
 <img src="imgs/arch.png" alt="Architecture" width="450"/>
 
-Please feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/how-to-PR.md) or [email](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
+Please feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
