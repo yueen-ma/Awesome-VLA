@@ -361,7 +361,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 
 ## Citation
-Thank you for your interest! If you find our work interesting, please consider citing us with:
+Thank you for your interest! If you find our work helpful, please consider citing us with:
 ```bibtex
 @article{DBLP:journals/corr/abs-2405-14093,
   author       = {Yueen Ma and
