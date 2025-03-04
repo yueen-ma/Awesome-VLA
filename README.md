@@ -9,7 +9,7 @@
 
 The official repo of the survey, containing a curative list of papers using **Vision-Language-Action Models for Embodied AI**. 
 
-<img src="imgs/arch.png" alt="Architecture" height="200"/>
+<img src="imgs/arch.png" alt="Architecture" width="450"/>
 
 Please feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/how-to-PR.md) or [email](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
 
@@ -57,7 +57,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 - **Large VLA**  
   A special type of generalized VLA that is adapted from large VLMs. (Same as VLA defined by RT-2.)
 
-<img src="imgs/venn.png" alt="Venn" height="200"/>
+<img src="imgs/venn.png" alt="Venn" width="240"/>
 
 ## Taxonomy
 
