@@ -19,7 +19,7 @@ The official repo of the survey, containing a curative list of papers using **Vi
 
 Please feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
 
-If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
+If you find this repository useful, please consider [citing](#citation), staring, and sharing with others!
 
 ## Content
 
