@@ -2,10 +2,10 @@
 
 * If possible, please specify the category in which your work belongs. If you believe the taxonomy requires updates, feel free to open an issue.
 
-* Modify the README.md by creating *pull requests* and follow the format 
-    ``` 
-    * ** Short Title**: "TITLE", CONFERENCE, YEAR. [[Paper](link)] [[Code](link)] [[Website](link)]
-    ``` 
+* Modify the README.md by creating *[pull requests](https://github.com/yueen-ma/Awesome-VLA/pulls)* and follow the format 
+    ```
+    * **ABBREVIATION**: "TITLE", CONFERENCE, YEAR. [[Paper](LINK)] [[Code](LINK)] [[Website](LINK)]
+    ```
 
 * If possible, use arXiv links rather than custom links at other servers, and link to the *abstract* not PDF. For example:
 

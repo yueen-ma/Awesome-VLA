@@ -13,11 +13,11 @@ Yueen Ma<sup>1</sup>, Zixing Song<sup>1</sup>, Yuzheng Zhuang<sup>2</sup>, Jiany
 
 2. Huawei Noah's Ark Lab, Shenzhen, China (Email: {zhuangyuzheng, haojianye}@huawei.com)
 
-The official repo of the survey, containing a curative list of papers using **Vision-Language-Action Models for Embodied AI**. 
+The official repo of the survey, containing a curated list of papers on **Vision-Language-Action Models for Embodied AI**. 
 
 <img src="imgs/arch.png" alt="Architecture" width="450"/>
 
-Please feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
+Feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation), staring, and sharing with others!
 
