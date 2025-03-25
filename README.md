@@ -287,7 +287,7 @@ If you find this repository useful, please consider [citing](#citation), staring
 <!-- DBLP:journals/corr/abs-2310-08864, Open X-Embodiment: Robotic Learning Datasets and RT-X Models -->
 * **RT-X, OXE**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, Oct 2023* [[Paper](http://arxiv.org/abs/2310.08864v8)][[Website](https://robotics-transformer-x.github.io)][[Code](https://github.com/google-deepmind/open_x_embodiment)]
 <!-- DBLP:journals/corr/abs-2406-09246, OpenVLA: An Open-Source Vision-Language-Action Model -->
-* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv, Jun 2024* [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io)][[Code](https://github.com/openvla/openvla)]
+* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io)][[Code](https://github.com/openvla/openvla)]
 <!-- DBLP:journals/corr/abs-2410-24164, \(\pi\)\(_\mbox0\): A Vision-Language-Action Flow Model for General Robot Control -->
 * **π0**: "π0: A Vision-Language-Action Flow Model for General Robot Control", *arXiv, Oct 2024* [[Paper](https://arxiv.org/abs/2410.24164)][[Website](https://www.physicalintelligence.company/blog/pi0)]
 

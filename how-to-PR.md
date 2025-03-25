@@ -8,5 +8,10 @@
     ```
 
 * If possible, use arXiv links rather than custom links at other servers, and link to the *abstract* not PDF. For example:
+    ```
+    * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io)][[Code](https://github.com/openvla/openvla)]
+    ```
 
-    * **ZSP**: "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *arXiv, 2022*. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
+    It renders as:
+    * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io)][[Code](https://github.com/openvla/openvla)]
+
