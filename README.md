@@ -106,6 +106,8 @@ If you find this repository useful, please consider [citing](#citation), staring
 <!-- shang2024theia, Theia: Distilling Diverse Vision Foundation Models for Robot Learning -->
 * **Theia**: "Theia: Distilling Diverse Vision Foundation Models for Robot Learning", *CoRL, 2024* [[Paper](http://arxiv.org/abs/2407.20179v2)]
 
+* **HRP**: "HRP: Human Affordances for Robotic Pre-Training", *RSS, 2024* [[Paper](https://arxiv.org/abs/2407.18911)][[Website](https://hrp-robot.github.io)][[Code](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)]
+
 
 ### Video Representations
 <!-- DBLP:conf/corl/ShenYYWKI23, Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation -->
