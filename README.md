@@ -51,6 +51,10 @@ If you find this repository useful, please consider [citing](#citation), staring
     - [Language-based Task Planners](#language-based-task-planners)
     - [Code-based Task Planners](#code-based-task-planners)
 - [Related Surveys](#related-surveys)
+- [Latest Developments](#latest-developments)
+  - [Humanoid Robot](#humanoid-robot)
+  - [Quadruped Robot](#quadruped-robot)
+  - [Dexterous Hand](#dexterous-hand)
 - [Citation](#citation)
 
 
@@ -69,6 +73,9 @@ If you find this repository useful, please consider [citing](#citation), staring
 
 <img src="imgs/taxonomy.png" alt="Taxonomy"/>
 
+## Timelines
+
+<img src="imgs/timelines.png" alt="Timelines"/>
 
 ## Components of VLA
 
@@ -107,6 +114,9 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **Theia**: "Theia: Distilling Diverse Vision Foundation Models for Robot Learning", *CoRL, 2024* [[Paper](http://arxiv.org/abs/2407.20179v2)]
 
 * **HRP**: "HRP: Human Affordances for Robotic Pre-Training", *RSS, 2024* [[Paper](https://arxiv.org/abs/2407.18911)][[Website](https://hrp-robot.github.io)][[Code](https://github.com/SudeepDasari/data4robotics/tree/hrp_release)]
+
+<!-- v5-TODO -->
+* **HPT**: "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers", *NeurIPS, 2024* [[Paper](https://arxiv.org/abs/2409.20537)][[Website](https://liruiw.github.io/hpt)][[Code](https://github.com/liruiw/HPT)]
 
 
 ### Video Representations
@@ -180,14 +190,18 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **ReAct**: "ReAct: Synergizing Reasoning and Acting in Language Models", *ICLR, 2023* [[Paper](http://arxiv.org/abs/2210.03629v3)]
 <!-- DBLP:journals/corr/abs-2403-05313, RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation -->
 * **RAT**: "RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation", *arXiv, Mar 2024* [[Paper](http://arxiv.org/abs/2403.05313v1)]
-<!-- DBLP:journals/corr/abs-2407-08693, Robotic Control via Embodied Chain-of-Thought Reasoning -->
-* **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv, Jul 2024* [[Paper](http://arxiv.org/abs/2407.08693v2)]
 <!-- DBLP:conf/iclr/HuMYD0SC00024, Tree-Planner: Efficient Close-loop Task Planning with Large Language Models -->
 * **Tree-Planner**: "Tree-Planner: Efficient Close-loop Task Planning with Large Language Models", *ICLR, 2024* [[Paper](https://arxiv.org/abs/2310.08582)]
-<!-- DBLP:journals/corr/abs-2406-09246, OpenVLA: An Open-Source Vision-Language-Action Model -->
-* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv, Jun 2024* [[Paper](https://arxiv.org/abs/2406.09246)]
+
+<!-- DBLP:journals/corr/abs-2407-08693, Robotic Control via Embodied Chain-of-Thought Reasoning -->
+* **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv, Jul 2024* [[Paper](http://arxiv.org/abs/2407.08693v2)]
+<!-- v5-TODO -->
+* **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models", *CVPR, 2025* [[Paper](https://arxiv.org/abs/2503.22020)][[Website](https://cot-vla.github.io)]
+
 
 ## Low-level Control Policies
+
+<img src="imgs/low.png" alt="Control Policy Architectures"/>
 
 ### Non-Transformer Control Policies
 <!-- DBLP:conf/corl/ZengFTWCAAKDSL20, Transporter Networks: Rearranging the Visual World for Robotic Manipulation -->
@@ -258,6 +272,8 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **Octo**: "Octo: An Open-Source Generalist Robot Policy", *Robotics: Science and Systems, 2024* [[Paper](https://arxiv.org/abs/2405.12213)][[Website](https://octo-models.github.io)][[Code](https://github.com/octo-models/octo)]
 <!-- DBLP:conf/corl/HaFS23, Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition -->
 * **SUDD**: "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition", *CoRL, 2023* [[Paper](http://arxiv.org/abs/2307.14535v2)][[Code](https://github.com/real-stanford/scalingup)]
+<!-- v5-TODO -->
+* **ScaleDP**: "Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation", *ICRA, 2025* [[Paper](https://arxiv.org/abs/2409.14411)][[Website](https://scaling-diffusion-policy.github.io)][[Code](https://github.com/juruobenruo/DexVLA)]
 
 ### Diffusion-based Control Policies with 3D Vision
 <!-- DBLP:journals/corr/abs-2402-10885, 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations -->
@@ -288,12 +304,50 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **RT-H**: "RT-H: Action Hierarchies Using Language", *Robotics: Science and Systems, 2024* [[Paper](http://arxiv.org/abs/2403.01823v2)][[Website](https://rt-hierarchy.github.io)]
 <!-- DBLP:journals/corr/abs-2310-08864, Open X-Embodiment: Robotic Learning Datasets and RT-X Models -->
 * **RT-X, OXE**: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, Oct 2023* [[Paper](http://arxiv.org/abs/2310.08864v8)][[Website](https://robotics-transformer-x.github.io)][[Code](https://github.com/google-deepmind/open_x_embodiment)]
+<!-- v5-TODO -->
+* **RT-A**: "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation", *ICRA, 2025* [[Paper](https://arxiv.org/abs/2411.02704)][[Website](https://snasiriany.me/rt-affordance)]
 <!-- DBLP:journals/corr/abs-2406-09246, OpenVLA: An Open-Source Vision-Language-Action Model -->
 * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io)][[Code](https://github.com/openvla/openvla)]
+* **OpenVLA-OFT**: "OpenVLA-OFT: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success", *arXiv, 2025* [[Paper](https://arxiv.org/abs/2502.19645)][[Website](https://openvla-oft.github.io)][[Code](https://github.com/moojink/openvla-oft)]
+* **TraceVLA**: "TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies", *ICLR, 2025* [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/8667f264f88c7938a73a53ab01eb1327-Abstract-Conference.html)]
 <!-- DBLP:journals/corr/abs-2410-24164, \(\pi\)\(_\mbox0\): A Vision-Language-Action Flow Model for General Robot Control -->
 * **π0**: "π0: A Vision-Language-Action Flow Model for General Robot Control", *arXiv, Oct 2024* [[Paper](https://arxiv.org/abs/2410.24164)][[Website](https://www.physicalintelligence.company/blog/pi0)]
+<!-- v5-TODO -->
+* **π0.5**: "π0.5: a Vision-Language-Action Model with Open-World Generalization", *arXiv, Apr 2025* [[Paper](https://arxiv.org/abs/2504.16054)][[Website](https://pi.website/blog/pi05)]
+
+* **RoboMamba**: "RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation", *NeurIPS, 2024* [[Paper](https://arxiv.org/abs/2406.04339)][[Website](https://sites.google.com/view/robomamba-web)]
+
+* **SpatialVLA**: "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model", *arXiv, 2025* [[Paper](https://arxiv.org/abs/2501.15830)][[Website](https://spatialvla.github.io)]
+
+* **LAPA**: "Latent Action Pretraining from Videos", *ICLR, 2025* [[Paper](https://arxiv.org/abs/2410.11758)][[Website](https://latentactionpretraining.github.io)][[Code](https://github.com/LatentActionPretraining/LAPA)]
+
+* **TinyVLA**: "TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation", *arXiv, 2024* [[Paper](https://arxiv.org/abs/2409.12514)][[Website](https://tiny-vla.github.io)][[Code](https://github.com/liyaxuanliyaxuan/TinyVLA)]
+
+* **CogACT**: "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation", *arXiv, 2024* [[Paper](https://arxiv.org/abs/2411.19650)][[Website](https://cogact.github.io)][[Code](https://github.com/microsoft/CogACT)]
+
+* **DexVLA**: "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control", *CoRL, 2025* [[Paper](https://arxiv.org/abs/2502.05855)][[Website](https://dex-vla.github.io)][[Code](https://github.com/juruobenruo/DexVLA)]
+
+* **HybridVLA**: "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model", *arXiv, 2025* [[Paper](https://arxiv.org/abs/2503.10631)][[Website](https://hybrid-vla.github.io)][[Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
+
+* **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", *arXiv, Jun 2025* [[Paper](https://arxiv.org/abs/2506.21539)][[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
+
+* **UniVLA**: "Unified Vision-Language-Action Model", *arXiv, Jun 2025* [[Paper](https://arxiv.org/abs/2506.19850)][[Website](https://robertwyq.github.io/univla.github.io/)][[Code](https://github.com/baaivision/UniVLA)]
+
+* **Instruct2Act**: "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, 2023* [[Paper](https://arxiv.org/abs/2305.11176)][[Code](https://github.com/OpenGVLab/Instruct2Act)]
+
+<!-- v5-TODO -->
+* **VLA-Adapter**: "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model", *arXiv, 2025* [[Paper](https://arxiv.org/abs/2509.09372)][[Website](https://vla-adapter.github.io)][[Code](https://github.com/OpenHelix-Team/VLA-Adapter)]
+<!-- v5-TODO -->
+* **SmolVLA**: "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics", *arXiv, 2025* [[Paper](https://arxiv.org/abs/2506.01844)]
+<!-- v5-TODO -->
+* **UP-VLA**: "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent", *arXiv, Jan 2025* [[Paper](https://arxiv.org/abs/2501.18867)][[Code](https://github.com/CladernyJorn/UP-VLA)]
+<!-- v5-TODO -->
+* **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", *arXiv, Jul 2025* [[Paper](https://arxiv.org/abs/2507.04447)][[Website](https://zhangwenyao1.github.io/DreamVLA/)][[Code](https://github.com/Zhangwenyao1/DreamVLA/)]
+
 
 # Task Planners
+
+<img src="imgs/hierarchy.png" alt="Hierarchical Policy"/>
 
 ## Monolithic Task Planners
 
@@ -322,6 +376,8 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", *ECCV, 2024* [[Paper](http://arxiv.org/abs/2402.17766v3)][[Website](https://qizekun.github.io/shapellm/)][[Code](https://github.com/qizekun/ShapeLLM)]
 
 ## Modular Task Planners
+
+<img src="imgs/high.png" alt="Modular Task Planners" width="400"/>
 
 ### Language-based Task Planners
 <!-- DBLP:conf/iclr/YaoZYDSN023, ReAct: Synergizing Reasoning and Acting in Language Models -->
@@ -366,6 +422,33 @@ If you find this repository useful, please consider [citing](#citation), staring
 
 <!-- DBLP:journals/corr/abs-2405-03520, Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond -->
 * "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", *arXiv, May 2024* [[Paper](http://arxiv.org/abs/2405.03520v1)]
+
+<!-- * "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *arXiv, Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)] -->
+
+# Latest Developments
+
+* **LLaRA**: "LLaRA: Supercharging Robot Learning Data for Vision-Language Policy", *ICLR, 2025* [[Paper](https://arxiv.org/abs/2406.20095)][[Code](https://github.com/LostXine/LLaRA)]
+
+* **Mobility VLA**: "Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2407.07775)]
+
+## Humanoid Robot
+* **GR00T N1**: "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots", *arXiv, Mar 2025* [[Paper](https://arxiv.org/abs/2503.14734)][[Code](https://github.com/NVIDIA/Isaac-GR00T)]
+
+* **Humanoid-VLA**: "Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration", *arXiv, Feb 2025* [[Paper](https://arxiv.org/abs/2312.14457)]
+
+## Quadruped Robot
+
+* **QUAR-VLA**: "QUAR-VLA: Vision-Language-Action Model for Quadruped Robots", *ECCV, 2024* [[Paper](https://arxiv.org/abs/2502.14795)]
+
+* **QUART-Online**: "QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning", *ICRA, 2025* [[Paper](https://arxiv.org/abs/2412.15576)][[Website](https://quart-online.github.io)][[Code](https://github.com/yuan48/QUART-Online)]
+
+* **MoRE**: "MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models", *ICRA, 2025* [[Paper](https://arxiv.org/abs/2503.08007)]
+
+## Dexterous Hand
+
+<!-- v5-TODO -->
+* **DexGraspVLA**: "DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping", *arXiv, Feb 2025* [[Paper](https://arxiv.org/abs/2502.20900)][[Website](https://dexgraspvla.github.io)][[Code](https://github.com/Psi-Robot/DexGraspVLA)]
+
 
 
 ## Citation
