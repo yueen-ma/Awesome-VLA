@@ -42,7 +42,7 @@ If you find this repository useful, please consider [citing](#citation), staring
     - [Control Policies for Motion Planning](#control-policies-for-motion-planning)
     - [Control Policies with Point-based Action](#control-policies-with-point-based-action)
     - [Large VLA](#large-vla)
-- [Task Planners](#task-planners)
+- [High-level Task Planners](#high-level-task-planners)
   - [Monolithic Task Planners](#monolithic-task-planners)
     - [Grounded Task Planners](#grounded-task-planners)
     - [End-to-end Task Planners](#end-to-end-task-planners)
@@ -345,7 +345,7 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", *arXiv, Jul 2025* [[Paper](https://arxiv.org/abs/2507.04447)][[Website](https://zhangwenyao1.github.io/DreamVLA/)][[Code](https://github.com/Zhangwenyao1/DreamVLA/)]
 
 
-# Task Planners
+## High-level Task Planners
 
 <img src="imgs/hierarchy.png" alt="Hierarchical Policy"/>
 
@@ -425,18 +425,18 @@ If you find this repository useful, please consider [citing](#citation), staring
 
 <!-- * "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *arXiv, Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)] -->
 
-# Latest Developments
+## Latest Developments
 
 * **LLaRA**: "LLaRA: Supercharging Robot Learning Data for Vision-Language Policy", *ICLR, 2025* [[Paper](https://arxiv.org/abs/2406.20095)][[Code](https://github.com/LostXine/LLaRA)]
 
 * **Mobility VLA**: "Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2407.07775)]
 
-## Humanoid Robot
+### Humanoid Robot
 * **GR00T N1**: "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots", *arXiv, Mar 2025* [[Paper](https://arxiv.org/abs/2503.14734)][[Code](https://github.com/NVIDIA/Isaac-GR00T)]
 
 * **Humanoid-VLA**: "Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration", *arXiv, Feb 2025* [[Paper](https://arxiv.org/abs/2312.14457)]
 
-## Quadruped Robot
+### Quadruped Robot
 
 * **QUAR-VLA**: "QUAR-VLA: Vision-Language-Action Model for Quadruped Robots", *ECCV, 2024* [[Paper](https://arxiv.org/abs/2502.14795)]
 
@@ -444,7 +444,7 @@ If you find this repository useful, please consider [citing](#citation), staring
 
 * **MoRE**: "MoRE: Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models", *ICRA, 2025* [[Paper](https://arxiv.org/abs/2503.08007)]
 
-## Dexterous Hand
+### Dexterous Hand
 
 <!-- v5-TODO -->
 * **DexGraspVLA**: "DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping", *arXiv, Feb 2025* [[Paper](https://arxiv.org/abs/2502.20900)][[Website](https://dexgraspvla.github.io)][[Code](https://github.com/Psi-Robot/DexGraspVLA)]
