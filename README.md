@@ -343,6 +343,9 @@ If you find this repository useful, please consider [citing](#citation), staring
 * **UP-VLA**: "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent", *arXiv, Jan 2025* [[Paper](https://arxiv.org/abs/2501.18867)][[Code](https://github.com/CladernyJorn/UP-VLA)]
 <!-- v5-TODO -->
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", *arXiv, Jul 2025* [[Paper](https://arxiv.org/abs/2507.04447)][[Website](https://zhangwenyao1.github.io/DreamVLA/)][[Code](https://github.com/Zhangwenyao1/DreamVLA/)]
+<!-- v5-TODO -->
+* **HiMoE-VLA**: "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies", *arXiv, Jul 2025* [[Paper](https://www.arxiv.org/abs/2512.05693)][[Code](https://github.com/ZhiyingDu/HiMoE-VLA)]
+
 
 
 ## High-level Task Planners
