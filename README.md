@@ -3,9 +3,12 @@
 ## A Survey on Vision-Language-Action Models for Embodied AI
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093)
-<a href="https://github.com/Panmani/Awesome-VLA/pulls"><img src="https://img.shields.io/github/issues-pr/Panmani/Awesome-VLA" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Panmani/Awesome-VLA/issues"><img src="https://img.shields.io/github/issues/Panmani/Awesome-VLA" alt="Issues Badge"/></a>
+<img alt="License" src="https://img.shields.io/badge/License-CC%20BY%204.0-blue">
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub stars](https://img.shields.io/github/stars/yueen-ma/Awesome-VLA?style=social)](https://github.com/yueen-ma/Awesome-VLA)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=yueen-ma/Awesome-VLA&label=visitors&countColor=%23263759&style=flat)
+<a href="https://github.com/yueen-ma/Awesome-VLA/pulls"><img src="https://img.shields.io/github/issues-pr/yueen-ma/Awesome-VLA" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/yueen-ma/Awesome-VLA/issues"><img src="https://img.shields.io/github/issues/yueen-ma/Awesome-VLA" alt="Issues Badge"/></a>
 
 Yueen Ma<sup>1</sup>, Zixing Song<sup>1</sup>, Yuzheng Zhuang<sup>2</sup>, Jianye Hao<sup>2</sup>, Irwin King<sup>1</sup>
 
@@ -17,9 +20,50 @@ The official repo of the survey, containing a curated list of papers on **Vision
 
 <img src="imgs/arch.png" alt="Architecture" width="450"/>
 
-Feel free to send us [pull requests](https://github.com/Panmani/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
+Feel free to send us [pull requests](https://github.com/yueen-ma/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation), staring, and sharing with others!
+
+## Related Repositories
+There are many other lists related to Embodied AI that are actively being updated. You may also want to check them out:
+
+*   **Awesome World Models**  
+    https://github.com/leofan90/Awesome-World-Models
+*   **Awesome Embodied VLA**  
+    https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
+*   **Awesome LLM Robotics**  
+    https://github.com/GT-RIPL/Awesome-LLM-Robotics
+*   **Embodied AI Paper List**  
+    https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
+*   **Awesome RL VLA**  
+    https://github.com/Denghaoyuan123/Awesome-RL-VLA
+*   **3D Gaussian Splatting Papers**  
+    https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers
+*   **VLM Survey**  
+    https://github.com/jingyi0000/VLM_survey
+
+## Related Surveys
+A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
+
+### VLA
+* "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications", *Oct, 2025* [[Paper](https://arxiv.org/abs/2510.07077)]
+* "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul, 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
+* "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul, 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
+* "Vision-Language-Action Models: Concepts, Progress, Applications and Challenges", *May, 2025* [[Paper](https://arxiv.org/abs/2505.04769)]
+
+### Robotics & Embodied AI
+* "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", *Aug, 2025* [[Paper](https://arxiv.org/abs/2407.06886)]
+* "Real-World Robot Applications of Foundation Models: A Review", *Feb, 2024* [[Paper](https://arxiv.org/abs/2402.05741)]
+* "Large Language Models for Robotics: Opportunities, Challenges, and Perspectives", *Jan, 2024* [[Paper](https://arxiv.org/abs/2401.04334)]
+* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *Dec, 2023* [[Paper](https://arxiv.org/abs/2312.08782)]
+* "Foundation Models in Robotics: Applications, Challenges, and the Future", *Dec, 2023* [[Paper](https://arxiv.org/abs/2312.07843)]
+* "A Survey of Embodied AI: From Simulators to Research Tasks", *Jan, 2022* [[Paper](https://arxiv.org/abs/2103.04918)]
+
+### Others
+* "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", *May, 2024* [[Paper](https://arxiv.org/abs/2405.03520)]
+* "Understanding the planning of LLM agents: A survey", *Feb, 2024* [[Paper](https://arxiv.org/abs/2402.02716)]
+* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *Mar, 2023* [[Paper](https://arxiv.org/abs/2303.04129)]
+* "Neural Fields in Robotics: A Survey", *Oct, 2024* [[Paper](https://arxiv.org/abs/2410.20220)]
 
 ## Content
 
@@ -452,7 +496,8 @@ If you find this repository useful, please consider [citing](#citation), staring
 <!-- v5-TODO -->
 * **DexGraspVLA**: "DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping", *arXiv, Feb 2025* [[Paper](https://arxiv.org/abs/2502.20900)][[Website](https://dexgraspvla.github.io)][[Code](https://github.com/Psi-Robot/DexGraspVLA)]
 
-
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=yueen-ma/Awesome-VLA&type=Date)](https://star-history.com/#yueen-ma/Awesome-VLA&Date)
 
 ## Citation
 Thank you for your interest! If you find our work helpful, please consider citing us with:
