@@ -47,6 +47,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 
 ### VLA
 * "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation", *Dec 2025* [[Paper](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)]
+* "An Anatomy of Vision-Language-Action Models- From Modules to Milestones and Challenges", *Dec 2025* [[Paper](https://arxiv.org/abs/2512.11362)]
 * "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications", *Oct 2025* [[Paper](https://arxiv.org/abs/2510.07077)]
 * "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
 * "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
