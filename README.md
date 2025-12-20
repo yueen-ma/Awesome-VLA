@@ -52,6 +52,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
 * "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
 * "Vision-Language-Action Models: Concepts, Progress, Applications and Challenges", *May 2025* [[Paper](https://arxiv.org/abs/2505.04769)]
+* "Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models", *Dec 2024* [[Paper](https://arxiv.org/abs/2412.14058)]
 
 ### Robotics & Embodied AI
 * "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", *Aug 2025* [[Paper](https://arxiv.org/abs/2407.06886)]
