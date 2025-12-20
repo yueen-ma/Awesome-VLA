@@ -46,24 +46,25 @@ There are many other lists related to Embodied AI that are actively being update
 A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
 
 ### VLA
-* "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications", *Oct, 2025* [[Paper](https://arxiv.org/abs/2510.07077)]
-* "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul, 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
-* "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul, 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
-* "Vision-Language-Action Models: Concepts, Progress, Applications and Challenges", *May, 2025* [[Paper](https://arxiv.org/abs/2505.04769)]
+* "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation", *Dec 2025* [[Paper](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)]
+* "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications", *Oct 2025* [[Paper](https://arxiv.org/abs/2510.07077)]
+* "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
+* "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
+* "Vision-Language-Action Models: Concepts, Progress, Applications and Challenges", *May 2025* [[Paper](https://arxiv.org/abs/2505.04769)]
 
 ### Robotics & Embodied AI
-* "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", *Aug, 2025* [[Paper](https://arxiv.org/abs/2407.06886)]
-* "Real-World Robot Applications of Foundation Models: A Review", *Feb, 2024* [[Paper](https://arxiv.org/abs/2402.05741)]
-* "Large Language Models for Robotics: Opportunities, Challenges, and Perspectives", *Jan, 2024* [[Paper](https://arxiv.org/abs/2401.04334)]
-* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *Dec, 2023* [[Paper](https://arxiv.org/abs/2312.08782)]
-* "Foundation Models in Robotics: Applications, Challenges, and the Future", *Dec, 2023* [[Paper](https://arxiv.org/abs/2312.07843)]
-* "A Survey of Embodied AI: From Simulators to Research Tasks", *Jan, 2022* [[Paper](https://arxiv.org/abs/2103.04918)]
+* "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", *Aug 2025* [[Paper](https://arxiv.org/abs/2407.06886)]
+* "Real-World Robot Applications of Foundation Models: A Review", *Feb 2024* [[Paper](https://arxiv.org/abs/2402.05741)]
+* "Large Language Models for Robotics: Opportunities, Challenges, and Perspectives", *Jan 2024* [[Paper](https://arxiv.org/abs/2401.04334)]
+* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *Dec 2023* [[Paper](https://arxiv.org/abs/2312.08782)]
+* "Foundation Models in Robotics: Applications, Challenges, and the Future", *Dec 2023* [[Paper](https://arxiv.org/abs/2312.07843)]
+* "A Survey of Embodied AI: From Simulators to Research Tasks", *Jan 2022* [[Paper](https://arxiv.org/abs/2103.04918)]
 
 ### Others
-* "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", *May, 2024* [[Paper](https://arxiv.org/abs/2405.03520)]
-* "Understanding the planning of LLM agents: A survey", *Feb, 2024* [[Paper](https://arxiv.org/abs/2402.02716)]
-* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *Mar, 2023* [[Paper](https://arxiv.org/abs/2303.04129)]
-* "Neural Fields in Robotics: A Survey", *Oct, 2024* [[Paper](https://arxiv.org/abs/2410.20220)]
+* "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", *May 2024* [[Paper](https://arxiv.org/abs/2405.03520)]
+* "Understanding the planning of LLM agents: A survey", *Feb 2024* [[Paper](https://arxiv.org/abs/2402.02716)]
+* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *Mar 2023* [[Paper](https://arxiv.org/abs/2303.04129)]
+* "Neural Fields in Robotics: A Survey", *Oct 2024* [[Paper](https://arxiv.org/abs/2410.20220)]
 
 ## Content
 
