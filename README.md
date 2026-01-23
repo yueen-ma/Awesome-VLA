@@ -79,6 +79,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
     - [LLM-induced World Models](#llm-induced-world-models)
     - [Visual World Models](#visual-world-models)
   - [Reasoning](#reasoning)
+  - [Policy Steering](#policy-steering)
 - [Low-level Control Policies](#low-level-control-policies)
   - [Non-Transformer Control Policies](#non-transformer-control-policies)
   - [Transformer-based Control Policies](#transformer-based-control-policies)
@@ -244,6 +245,11 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv, Jul 2024* [[Paper](http://arxiv.org/abs/2407.08693v2)]
 <!-- v5-TODO -->
 * **CoT-VLA**: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models", *CVPR, 2025* [[Paper](https://arxiv.org/abs/2503.22020)][[Website](https://cot-vla.github.io)]
+
+
+### Policy Steering
+* **V-GPS**: "Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2410.13816)][[Website](https://nakamotoo.github.io/V-GPS)][[Code](https://github.com/nakamotoo/V-GPS)]
+* **RoboMonkey**: "RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models", *arXiv, Oct 2024* [[Paper](https://arxiv.org/abs/2506.17811)][[Website](https://robomonkey-vla.github.io)][[Code](https://github.com/robomonkey-vla/RoboMonkey)]
 
 
 ## Low-level Control Policies
