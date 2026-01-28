@@ -18,7 +18,7 @@ Yueen Ma<sup>1</sup>, Zixing Song<sup>1</sup>, Yuzheng Zhuang<sup>2</sup>, Jiany
 
 The official repo of the survey, containing a curated list of papers on **Vision-Language-Action Models for Embodied AI**. 
 
-<img src="imgs/arch.png" alt="Architecture" width="450"/>
+<div align="center"><img src="imgs/arch.png" alt="Architecture" width="450"/></div>
 
 Feel free to send us [pull requests](https://github.com/yueen-ma/Awesome-VLA/blob/main/how-to-PR.md) or [emails](mailto:yema21@cse.cuhk.edu.hk) to add papers! <br>
 
@@ -78,7 +78,7 @@ If you find this repository useful, please consider [citing](#citation), staring
 - **Large VLA**  
   A special type of generalized VLA that is adapted from large VLMs. (Same as VLA defined by RT-2.)
 
-<img src="imgs/venn.png" alt="Venn" width="240"/>
+<div align="center"><img src="imgs/venn.png" alt="Venn" width="240"/></div>
 
 
 ## Latest
@@ -90,13 +90,13 @@ The raw data for these visualizations are available in the `data` folder:
   * [`data/vla_models.json`](data/vla_models.json): VLA models data
   * [`data/institute_abbr.json`](data/institute_abbr.json): Institute abbreviations
 
-<img src="imgs/timeline2025.png" alt="Timeline_2025"/>
+<div align="center"><img src="imgs/timeline2025.png" alt="Timeline_2025"/></div>
 
-<img src="imgs/landscape.png" alt="Landscape"/>
+<div align="center"><img src="imgs/landscape.png" alt="Landscape"/></div>
 
-<img src="imgs/stats.png" alt="Stats"/>
+<div align="center"><img src="imgs/stats.png" alt="Stats"/></div>
 
-<img src="imgs/institutes.png" alt="Institutes"/>
+<div align="center"><img src="imgs/institutes.png" alt="Institutes"/></div>
 
 ### VLA Development Platforms
 
@@ -154,12 +154,12 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 
 ## Taxonomy
 
-<img src="imgs/taxonomy.png" alt="Taxonomy"/>
+<div align="center"><img src="imgs/taxonomy.png" alt="Taxonomy"/></div>
 
 
 ## Timelines
 
-<img src="imgs/timelines.png" alt="Timelines"/>
+<div align="center"><img src="imgs/timelines.png" alt="Timelines"/></div>
 
 
 ## Components of VLA
@@ -291,7 +291,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 
 ## Low-level Control Policies
 
-<img src="imgs/low.png" alt="Control Policy Architectures"/>
+<div align="center"><img src="imgs/low.png" alt="Control Policy Architectures"/></div>
 
 ### Non-Transformer Control Policies
 <!-- DBLP:conf/corl/ZengFTWCAAKDSL20, Transporter Networks: Rearranging the Visual World for Robotic Manipulation -->
@@ -441,7 +441,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 
 ## High-level Task Planners
 
-<img src="imgs/hierarchy.png" alt="Hierarchical Policy"/>
+<div align="center"><img src="imgs/hierarchy.png" alt="Hierarchical Policy"/></div>
 
 ## Monolithic Task Planners
 
@@ -471,7 +471,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 
 ## Modular Task Planners
 
-<img src="imgs/high.png" alt="Modular Task Planners" width="400"/>
+<div align="center"><img src="imgs/high.png" alt="Modular Task Planners" width="400"/></div>
 
 ### Language-based Task Planners
 <!-- DBLP:conf/iclr/YaoZYDSN023, ReAct: Synergizing Reasoning and Acting in Language Models -->
