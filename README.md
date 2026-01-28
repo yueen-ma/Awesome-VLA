@@ -80,6 +80,7 @@ If you find this repository useful, please consider [citing](#citation), staring
 
 <img src="imgs/venn.png" alt="Venn" width="240"/>
 
+
 ## Latest
 
 ### Trends
@@ -99,8 +100,8 @@ The raw data for these visualizations are available in the `data` folder:
 
 ### VLA Development Platforms
 
-*   **starVLA**  
-  https://github.com/starVLA/starVLA
+*   **StarVLA**  
+    https://github.com/starVLA/starVLA
 *   **EmbodiChain**  
     https://github.com/DexForce/EmbodiChain
 
@@ -148,13 +149,16 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *Mar 2023* [[Paper](https://arxiv.org/abs/2303.04129)]
 * "Neural Fields in Robotics: A Survey", *Oct 2024* [[Paper](https://arxiv.org/abs/2410.20220)]
 
+
 ## Taxonomy
 
 <img src="imgs/taxonomy.png" alt="Taxonomy"/>
 
+
 ## Timelines
 
 <img src="imgs/timelines.png" alt="Timelines"/>
+
 
 ## Components of VLA
 
