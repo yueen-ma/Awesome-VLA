@@ -24,52 +24,15 @@ Feel free to send us [pull requests](https://github.com/yueen-ma/Awesome-VLA/blo
 
 If you find this repository useful, please consider [citing](#citation), staring, and sharing with others!
 
-## Related Repositories
-There are many other lists related to Embodied AI that are actively being updated. You may also want to check them out:
-
-*   **Awesome World Models**  
-    https://github.com/leofan90/Awesome-World-Models
-*   **Awesome Embodied VLA**  
-    https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
-*   **Awesome LLM Robotics**  
-    https://github.com/GT-RIPL/Awesome-LLM-Robotics
-*   **Embodied AI Paper List**  
-    https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
-*   **Awesome RL VLA**  
-    https://github.com/Denghaoyuan123/Awesome-RL-VLA
-*   **3D Gaussian Splatting Papers**  
-    https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers
-*   **VLM Survey**  
-    https://github.com/jingyi0000/VLM_survey
-
-## Related Surveys
-A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
-
-### VLA
-* "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation", *Dec 2025* [[Paper](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)]
-* "An Anatomy of Vision-Language-Action Models- From Modules to Milestones and Challenges", *Dec 2025* [[Paper](https://arxiv.org/abs/2512.11362)]
-* "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications", *Oct 2025* [[Paper](https://arxiv.org/abs/2510.07077)]
-* "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
-* "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
-* "Vision-Language-Action Models: Concepts, Progress, Applications and Challenges", *May 2025* [[Paper](https://arxiv.org/abs/2505.04769)]
-* "Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models", *Dec 2024* [[Paper](https://arxiv.org/abs/2412.14058)]
-
-### Robotics & Embodied AI
-* "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", *Aug 2025* [[Paper](https://arxiv.org/abs/2407.06886)]
-* "Real-World Robot Applications of Foundation Models: A Review", *Feb 2024* [[Paper](https://arxiv.org/abs/2402.05741)]
-* "Large Language Models for Robotics: Opportunities, Challenges, and Perspectives", *Jan 2024* [[Paper](https://arxiv.org/abs/2401.04334)]
-* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *Dec 2023* [[Paper](https://arxiv.org/abs/2312.08782)]
-* "Foundation Models in Robotics: Applications, Challenges, and the Future", *Dec 2023* [[Paper](https://arxiv.org/abs/2312.07843)]
-* "A Survey of Embodied AI: From Simulators to Research Tasks", *Jan 2022* [[Paper](https://arxiv.org/abs/2103.04918)]
-
-### Others
-* "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", *May 2024* [[Paper](https://arxiv.org/abs/2405.03520)]
-* "Understanding the planning of LLM agents: A survey", *Feb 2024* [[Paper](https://arxiv.org/abs/2402.02716)]
-* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *Mar 2023* [[Paper](https://arxiv.org/abs/2303.04129)]
-* "Neural Fields in Robotics: A Survey", *Oct 2024* [[Paper](https://arxiv.org/abs/2410.20220)]
-
 ## Content
 
+- [Definitions](#definitions)
+- [Latest](#latest)
+  - [Trends](#trends)
+  - [VLA Development Platforms](#vla-development-platforms)
+  - [Related Repositories](#related-repositories)
+  - [Related Surveys](#related-surveys)
+- [Taxonomy](#taxonomy)
 - [Components of VLA](#components-of-vla)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Pretrained Visual Representations](#pretrained-visual-representations)
@@ -116,6 +79,74 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
   A special type of generalized VLA that is adapted from large VLMs. (Same as VLA defined by RT-2.)
 
 <img src="imgs/venn.png" alt="Venn" width="240"/>
+
+## Latest
+
+### Trends
+We utilize various charts to visualize key aspects of VLA developments from 2020 to 2025. To supplement the VLAs discussed in the main text, we employed a hybrid approach combining automated scripting and manual searching to retrieve VLA-related papers published between January 2020 and December 2025. We queried the keywords "VLA", "Vision-language-action", and "Vision language action", filtering false positives based on their relevance to "embodied AI" and "robotics". This pipeline yielded approximately 400 VLA-related papers. Acknowledging the potential for automated errors, we welcome feedback and requests for corrections regarding the included data.
+
+The raw data for these visualizations are available in the `data` folder:
+  * [`data/vla_models.json`](data/vla_models.json): VLA models data
+  * [`data/institute_abbr.json`](data/institute_abbr.json): Institute abbreviations
+
+<img src="imgs/timeline2025.png" alt="Timeline_2025"/>
+
+<img src="imgs/landscape.png" alt="Landscape"/>
+
+<img src="imgs/stats.png" alt="Stats"/>
+
+<img src="imgs/institutes.png" alt="Institutes"/>
+
+### VLA Development Platforms
+
+*   **starVLA**  
+  https://github.com/starVLA/starVLA
+*   **EmbodiChain**  
+    https://github.com/DexForce/EmbodiChain
+
+### Related Repositories
+There are many other lists related to Embodied AI that are actively being updated. You may also want to check them out:
+
+*   **Awesome World Models**  
+    https://github.com/leofan90/Awesome-World-Models
+*   **Awesome Embodied VLA**  
+    https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
+*   **Awesome LLM Robotics**  
+    https://github.com/GT-RIPL/Awesome-LLM-Robotics
+*   **Embodied AI Paper List**  
+    https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
+*   **Awesome RL VLA**  
+    https://github.com/Denghaoyuan123/Awesome-RL-VLA
+*   **3D Gaussian Splatting Papers**  
+    https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers
+*   **VLM Survey**  
+    https://github.com/jingyi0000/VLM_survey
+
+### Related Surveys
+A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
+
+#### VLA
+* "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation", *Dec 2025* [[Paper](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)]
+* "An Anatomy of Vision-Language-Action Models- From Modules to Milestones and Challenges", *Dec 2025* [[Paper](https://arxiv.org/abs/2512.11362)]
+* "Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications", *Oct 2025* [[Paper](https://arxiv.org/abs/2510.07077)]
+* "Vision Language Action Models in Robotic Manipulation: A Systematic Review", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.10672)]
+* "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective", *Jul 2025* [[Paper](https://arxiv.org/abs/2507.01925)]
+* "Vision-Language-Action Models: Concepts, Progress, Applications and Challenges", *May 2025* [[Paper](https://arxiv.org/abs/2505.04769)]
+* "Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models", *Dec 2024* [[Paper](https://arxiv.org/abs/2412.14058)]
+
+#### Robotics & Embodied AI
+* "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI", *Aug 2025* [[Paper](https://arxiv.org/abs/2407.06886)]
+* "Real-World Robot Applications of Foundation Models: A Review", *Feb 2024* [[Paper](https://arxiv.org/abs/2402.05741)]
+* "Large Language Models for Robotics: Opportunities, Challenges, and Perspectives", *Jan 2024* [[Paper](https://arxiv.org/abs/2401.04334)]
+* "Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis", *Dec 2023* [[Paper](https://arxiv.org/abs/2312.08782)]
+* "Foundation Models in Robotics: Applications, Challenges, and the Future", *Dec 2023* [[Paper](https://arxiv.org/abs/2312.07843)]
+* "A Survey of Embodied AI: From Simulators to Research Tasks", *Jan 2022* [[Paper](https://arxiv.org/abs/2103.04918)]
+
+#### Others
+* "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond", *May 2024* [[Paper](https://arxiv.org/abs/2405.03520)]
+* "Understanding the planning of LLM agents: A survey", *Feb 2024* [[Paper](https://arxiv.org/abs/2402.02716)]
+* "Foundation Models for Decision Making: Problems, Methods, and Opportunities", *Mar 2023* [[Paper](https://arxiv.org/abs/2303.04129)]
+* "Neural Fields in Robotics: A Survey", *Oct 2024* [[Paper](https://arxiv.org/abs/2410.20220)]
 
 ## Taxonomy
 
@@ -398,7 +429,8 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * **DreamVLA**: "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge", *arXiv, Jul 2025* [[Paper](https://arxiv.org/abs/2507.04447)][[Website](https://zhangwenyao1.github.io/DreamVLA/)][[Code](https://github.com/Zhangwenyao1/DreamVLA/)]
 <!-- v5-TODO -->
 * **HiMoE-VLA**: "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies", *arXiv, Jul 2025* [[Paper](https://www.arxiv.org/abs/2512.05693)][[Code](https://github.com/ZhiyingDu/HiMoE-VLA)]
-
+<!-- v5-TODO -->
+* **InternVLA-M1**: "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy", *arXiv, Oct 2025* [[Paper](https://arxiv.org/abs/2510.13778)][[Website](https://internrobotics.github.io/internvla-m1.github.io/)][[Code](https://github.com/InternRobotics/InternVLA-M1)]
 
 
 ## High-level Task Planners

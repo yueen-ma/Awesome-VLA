@@ -1,0 +1,3539 @@
+{
+  "AI2Robotics": {
+    "abbreviation": "AI2Robotics",
+    "papers": [
+      "Fast-in-Slow",
+      "RoboMamba",
+      "Video2Act"
+    ]
+  },
+  "AIR": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "DiffVLA"
+    ]
+  },
+  "AIR, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "IRL-VLA",
+      "Impromptu VLA"
+    ]
+  },
+  "AMAP, Alibaba Group": {
+    "abbreviation": "Alibaba",
+    "papers": [
+      "AutoDrive-R2"
+    ]
+  },
+  "Academy for Engineering & Technology, Fudan University": {
+    "abbreviation": "Fudan",
+    "papers": [
+      "OccLLaMA"
+    ]
+  },
+  "Advanced Institute of Big Data": {
+    "abbreviation": "AIBD",
+    "papers": [
+      "ActDistill"
+    ]
+  },
+  "AgiBot": {
+    "abbreviation": "AgiBot",
+    "papers": [
+      "ERIQ",
+      "RoboDual",
+      "WholeBodyVLA"
+    ]
+  },
+  "AgiBot Research": {
+    "abbreviation": "AgiBot",
+    "papers": [
+      "ERIQ"
+    ]
+  },
+  "AiRiA": {
+    "abbreviation": "AiRiA",
+    "papers": [
+      "RoboNeuron"
+    ]
+  },
+  "Alexandria University": {
+    "abbreviation": "Alexandria Univ.",
+    "papers": [
+      "LAWM"
+    ]
+  },
+  "Alibaba Group": {
+    "abbreviation": "Alibaba",
+    "papers": [
+      "CombatVLA",
+      "SSM-VLA"
+    ]
+  },
+  "Allen Institute for AI": {
+    "abbreviation": "AI2",
+    "papers": [
+      "LAPA",
+      "Unified-IO 2"
+    ]
+  },
+  "Allen Institute for Artificial Intelligence": {
+    "abbreviation": "AI2",
+    "papers": [
+      "RoboPoint"
+    ]
+  },
+  "Amap": {
+    "abbreviation": "Amap",
+    "papers": [
+      "SSM-VLA"
+    ]
+  },
+  "Anyverse Intelligence": {
+    "abbreviation": "Anyverse",
+    "papers": [
+      "AutoPrune",
+      "EfficientVLA"
+    ]
+  },
+  "Artificial Intelligence Institute, Hangzhou Dianzi University": {
+    "abbreviation": "HDU",
+    "papers": [
+      "GF-VLA"
+    ]
+  },
+  "Astribot": {
+    "abbreviation": "Astribot",
+    "papers": [
+      "ControlVLA",
+      "DuoCore-FS",
+      "Mind to Hand"
+    ]
+  },
+  "Australian National University": {
+    "abbreviation": "ANU",
+    "papers": [
+      "PixelVLA",
+      "UnderwaterVLA"
+    ]
+  },
+  "AutoLab": {
+    "abbreviation": "AutoLab",
+    "papers": [
+      "AutoPrune"
+    ]
+  },
+  "BAAI": {
+    "abbreviation": "BAAI",
+    "papers": [
+      "UniVLA",
+      "UrbanVLA",
+      "VLA-Pruner"
+    ]
+  },
+  "BNRist": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "DeeR-VLA"
+    ]
+  },
+  "BUAA": {
+    "abbreviation": "BUAA",
+    "papers": [
+      "Genie Envisioner"
+    ]
+  },
+  "BUPT": {
+    "abbreviation": "BUPT",
+    "papers": [
+      "VLA-RFT"
+    ]
+  },
+  "Beihang University": {
+    "abbreviation": "BUAA",
+    "papers": [
+      "Diagnose Correct and Learn from Manipulation Failures via Visual Symbols",
+      "EmbodiedCoder",
+      "RoboOS-NeXT",
+      "RobustVLA",
+      "TrackVLA",
+      "XR-1"
+    ]
+  },
+  "Beijing Academy of Artificial Intelligence": {
+    "abbreviation": "BAAI",
+    "papers": [
+      "GraspVLA",
+      "RoboOS-NeXT",
+      "StereoVLA",
+      "TrackVLA",
+      "Uni-NaVid"
+    ]
+  },
+  "Beijing Academy of Artificial Intelligence (BAAI)": {
+    "abbreviation": "BAAI",
+    "papers": [
+      "Fast-in-Slow",
+      "HybridVLA",
+      "RoboMamba"
+    ]
+  },
+  "Beijing Academy of Artificial Intelligence, BAAI": {
+    "abbreviation": "BAAI",
+    "papers": [
+      "TA-VLA"
+    ]
+  },
+  "Beijing Innovation Center of Humanoid Robotics": {
+    "abbreviation": "BICHR",
+    "papers": [
+      "MLA",
+      "ScaleDP",
+      "TinyVLA",
+      "WristWorld",
+      "XR-1"
+    ]
+  },
+  "Beijing Institute of Technology": {
+    "abbreviation": "BIT",
+    "papers": [
+      "MUVLA",
+      "RoboMatrix",
+      "VLMimic",
+      "ViVLA"
+    ]
+  },
+  "Beijing Key Laboratory of Embodied Intelligence Systems": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "MoTo"
+    ]
+  },
+  "Beijing Key Laboratory of Super Intelligent Security of Multi-Modal Information": {
+    "abbreviation": "BKLSISMI",
+    "papers": [
+      "AutoPrune"
+    ]
+  },
+  "Beijing National Research Center for Information Science and Technology": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "MoTo"
+    ]
+  },
+  "Beijing Normal University": {
+    "abbreviation": "BNU",
+    "papers": [
+      "TrackVLA"
+    ]
+  },
+  "Beijing University of Posts and Telecommunications": {
+    "abbreviation": "BUPT",
+    "papers": [
+      "MAP-VLA",
+      "MoManipVLA",
+      "VLA-Adapter"
+    ]
+  },
+  "Beijing University of Technology": {
+    "abbreviation": "BJUT",
+    "papers": [
+      "ManiAgent"
+    ]
+  },
+  "Beijing Xiaomi Robot Technology Co., Ltd.": {
+    "abbreviation": "Xiaomi",
+    "papers": [
+      "Dual-Actor Fine-Tuning of VLA Models"
+    ]
+  },
+  "Beijing Zhongke Huiling Robot Technology Co": {
+    "abbreviation": "Zhongke Huiling",
+    "papers": [
+      "QDepth-VLA"
+    ]
+  },
+  "BeingBeyond": {
+    "abbreviation": "BeingBeyond",
+    "papers": [
+      "Being-H0"
+    ]
+  },
+  "Bosch": {
+    "abbreviation": "Bosch",
+    "papers": [
+      "DiffVLA",
+      "Mantis",
+      "Motus"
+    ]
+  },
+  "Bosch Center for Artificial Intelligence": {
+    "abbreviation": "Bosch",
+    "papers": [
+      "Towards Natural Language-Driven Assembly Using Foundation Models"
+    ]
+  },
+  "Bosch Corporate Research": {
+    "abbreviation": "Bosch",
+    "papers": [
+      "IRL-VLA"
+    ]
+  },
+  "Bosch Mobility Solutions, Robert Bosch GmbH": {
+    "abbreviation": "Bosch",
+    "papers": [
+      "IRL-VLA"
+    ]
+  },
+  "Bosch Research": {
+    "abbreviation": "Bosch",
+    "papers": [
+      "Impromptu VLA"
+    ]
+  },
+  "Bretagne INP - ENIB": {
+    "abbreviation": "Bretagne",
+    "papers": [
+      "GraSP-VLA"
+    ]
+  },
+  "Brown University": {
+    "abbreviation": "Brown",
+    "papers": [
+      "Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping"
+    ]
+  },
+  "ByteDance": {
+    "abbreviation": "ByteDance",
+    "papers": [
+      "DeeR-VLA"
+    ]
+  },
+  "ByteDance Research": {
+    "abbreviation": "ByteDance",
+    "papers": [
+      "RoboFlamingo",
+      "RoboVLMs"
+    ]
+  },
+  "ByteDance Seed": {
+    "abbreviation": "ByteDance",
+    "papers": [
+      "BridgeVLA",
+      "DexGrasp-VLA",
+      "GR-Dexter",
+      "GR-RL",
+      "UniUGP",
+      "VST",
+      "WMPO"
+    ]
+  },
+  "CASIA": {
+    "parent_institute": "CAS",
+    "abbreviation": "CASIA",
+    "papers": [
+      "AutoPrune",
+      "MimicDreamer",
+      "UniVLA",
+      "VLA-R1"
+    ]
+  },
+  "CASIA MAIS-NLPR": {
+    "parent_institute": "CAS",
+    "abbreviation": "CASIA",
+    "papers": [
+      "RoboVLMs"
+    ]
+  },
+  "CCAI": {
+    "abbreviation": "CCAI",
+    "papers": [
+      "VER"
+    ]
+  },
+  "CFCS, School of Computer Science, Peking University": {
+    "abbreviation": "PKU",
+    "papers": [
+      "3DS-VLA",
+      "Uni-NaVid"
+    ]
+  },
+  "CMU": {
+    "abbreviation": "CMU",
+    "papers": [
+      "Embodied-SlotSSM"
+    ]
+  },
+  "CNRS": {
+    "abbreviation": "CNRS",
+    "papers": [
+      "Hiveformer"
+    ]
+  },
+  "CNRS IRL 2010 CROSSING": {
+    "abbreviation": "CNRS",
+    "papers": [
+      "GraSP-VLA"
+    ]
+  },
+  "CUHK": {
+    "abbreviation": "CUHK",
+    "papers": [
+      "3DS-VLA",
+      "DualVLA",
+      "HybridVLA",
+      "MoH"
+    ]
+  },
+  "CUHK MMLab": {
+    "abbreviation": "MMLab",
+    "papers": [
+      "A3VLM",
+      "ColaVLA"
+    ]
+  },
+  "California Institute of Technology": {
+    "abbreviation": "Caltech",
+    "papers": [
+      "FLARE",
+      "GR00T N1",
+      "Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving"
+    ]
+  },
+  "Caltech": {
+    "abbreviation": "Caltech",
+    "papers": [
+      "NitroGen",
+      "VIMA"
+    ]
+  },
+  "Cambridge University": {
+    "abbreviation": "Cambridge",
+    "papers": [
+      "ERMV"
+    ]
+  },
+  "Capital One": {
+    "abbreviation": "Capital One",
+    "papers": [
+      "TraceVLA"
+    ]
+  },
+  "Carnegie Mellon University": {
+    "abbreviation": "CMU",
+    "papers": [
+      "3D Diffuser Actor",
+      "Act3D",
+      "ExpReS-VLA",
+      "MT-ACT",
+      "Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations",
+      "MetaVLA",
+      "Octo",
+      "SITCOM",
+      "ThinkBot",
+      "V-GPS",
+      "π_RL"
+    ]
+  },
+  "Case Western Reserve University": {
+    "abbreviation": "CWRU",
+    "papers": [
+      "AutoDrive-R2"
+    ]
+  },
+  "Center for Artificial Intelligence and Robotics, HKISI, CAS": {
+    "abbreviation": "CAS",
+    "papers": [
+      "Diffusion Transformer Policy"
+    ]
+  },
+  "Central South University": {
+    "abbreviation": "CSU",
+    "papers": [
+      "Discover Learn and Reinforce"
+    ]
+  },
+  "Centre for Artificial Intelligence, UCL": {
+    "abbreviation": "UCL",
+    "papers": [
+      "Oat-VLA"
+    ]
+  },
+  "Chair of Robotics, Artificial Intelligence and Embedded Systems": {
+    "abbreviation": "TUM",
+    "papers": [
+      "PLA"
+    ]
+  },
+  "China Mobile (Hangzhou) Information Technology Co., Ltd.,": {
+    "abbreviation": "China Mobile",
+    "papers": [
+      "VLA-RAIL"
+    ]
+  },
+  "Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "RoboMatrix"
+    ]
+  },
+  "Chinese University of Hong Kong": {
+    "abbreviation": "CUHK",
+    "papers": [
+      "EmbodiedCoder",
+      "MLA"
+    ]
+  },
+  "City University of Hong Kong": {
+    "abbreviation": "CityU",
+    "papers": [
+      "CCoL",
+      "Dual-Actor Fine-Tuning of VLA Models",
+      "TabVLA"
+    ]
+  },
+  "City University of Hongkong": {
+    "abbreviation": "CityU",
+    "papers": [
+      "DeeAD"
+    ]
+  },
+  "Clark Atlanta University": {
+    "abbreviation": "CAU",
+    "papers": [
+      "Lite VLA"
+    ]
+  },
+  "Cognitive AI Lab": {
+    "abbreviation": "Cognitive AI",
+    "papers": [
+      "Dont Blind Your VLA"
+    ]
+  },
+  "College of Computer Science and Technology, Zhejiang University": {
+    "abbreviation": "ZJU",
+    "papers": [
+      "Diffusion Transformer Policy"
+    ]
+  },
+  "College of Computing and Data Science, Nanyang Technological University": {
+    "abbreviation": "NTU",
+    "papers": [
+      "RoVer"
+    ]
+  },
+  "College of Transportation, Tongji University": {
+    "abbreviation": "Tongji",
+    "papers": [
+      "CoReVLA"
+    ]
+  },
+  "Columbia University": {
+    "abbreviation": "Columbia",
+    "papers": [
+      "Confidence Calibration in Vision-Language-Action Models",
+      "Diffusion Policy",
+      "ReKep",
+      "SUDD"
+    ]
+  },
+  "Cornell University": {
+    "abbreviation": "Cornell",
+    "papers": [
+      "Demo2Code"
+    ]
+  },
+  "Czech Technical University in Prague": {
+    "abbreviation": "CTU",
+    "papers": [
+      "Bridging Language Vision and Action"
+    ]
+  },
+  "D-Robotics": {
+    "abbreviation": "D-Robotics",
+    "papers": [
+      "AdaMoE"
+    ]
+  },
+  "D3 Center": {
+    "abbreviation": "D3 Center",
+    "papers": [
+      "Bi-VLA"
+    ]
+  },
+  "DAMO Academy": {
+    "abbreviation": "Alibaba",
+    "papers": [
+      "RynnVLA-002"
+    ]
+  },
+  "DAMO Academy, Alibaba Group": {
+    "abbreviation": "Alibaba",
+    "papers": [
+      "WorldVLA"
+    ]
+  },
+  "DSO National Laboratories": {
+    "abbreviation": "DSO",
+    "papers": [
+      "UPA-RFAS"
+    ]
+  },
+  "Dalian University of Technology": {
+    "abbreviation": "DUT",
+    "papers": [
+      "Look Zoom Understand"
+    ]
+  },
+  "DeepCybo": {
+    "abbreviation": "DeepCybo",
+    "papers": [
+      "PhysBrain"
+    ]
+  },
+  "DeepMind": {
+    "abbreviation": "Google",
+    "papers": [
+      "Gato"
+    ]
+  },
+  "Deepmind": {
+    "abbreviation": "Google",
+    "papers": [
+      "EMMA"
+    ]
+  },
+  "Department of Advanced Robotics, Istituto Italiano di Tecnologia": {
+    "abbreviation": "IIT",
+    "papers": [
+      "VLA-Pilot"
+    ]
+  },
+  "Department of Automation, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "MoTo",
+      "ThinkBot"
+    ]
+  },
+  "Department of Biological Systems Engineering": {
+    "parent_institute": "Virginia Tech",
+    "abbreviation": "Virginia Tech",
+    "papers": [
+      "SeqVLA"
+    ]
+  },
+  "Department of Computer Science": {
+    "parent_institute": "Princeton",
+    "abbreviation": "Princeton",
+    "papers": [
+      "VLM2VLA"
+    ]
+  },
+  "Department of Computer Science and Engineering, Sungkyunkwan University": {
+    "abbreviation": "SKKU",
+    "papers": [
+      "Embodied CoT Distillation From LLM To Off-the-shelf Agents"
+    ]
+  },
+  "University College London": {
+    "abbreviation": "UCL",
+    "papers": [
+      "RoboTAP"
+    ]
+  },
+  "Department of Computer Science at University College London": {
+    "abbreviation": "UCL",
+    "papers": [
+      "RoboTAP"
+    ]
+  },
+  "Department of Electrical Engineering and Computer Sciences": {
+    "abbreviation": "MIT",
+    "papers": [
+      "Mechanistic interpretability for steering vision-language-action models"
+    ]
+  },
+  "Department of Electronic Engineering, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "What Can RL Bring to VLA Generalization? An Empirical Study"
+    ]
+  },
+  "Department of Mathematics, National University of Kyiv-Mohyla Academy": {
+    "abbreviation": "NaUKMA",
+    "papers": [
+      "MoIRA"
+    ]
+  },
+  "Department of Mechanical and Aerospace Engineering": {
+    "parent_institute": "Princeton",
+    "abbreviation": "Princeton",
+    "papers": [
+      "VLM2VLA"
+    ]
+  },
+  "Department of Multimedia Systems, National University of Kyiv-Mohyla Academy": {
+    "abbreviation": "NaUKMA",
+    "papers": [
+      "MoIRA"
+    ]
+  },
+  "Department of Surgery, The Chinese University of Hong Kong": {
+    "abbreviation": "CUHK",
+    "papers": [
+      "RoboNurse-VLA"
+    ]
+  },
+  "Dexmal": {
+    "abbreviation": "Dexmal",
+    "papers": [
+      "Dexbotic",
+      "IntentionVLA",
+      "MUVLA",
+      "MemoryVLA",
+      "Running VLAs at Real-time Speed"
+    ]
+  },
+  "Differential Robotics": {
+    "abbreviation": "Differential Robotics",
+    "papers": [
+      "VLA-AN"
+    ]
+  },
+  "Drexel University": {
+    "abbreviation": "Drexel",
+    "papers": [
+      "CLAW",
+      "SeqVLA"
+    ]
+  },
+  "Duke University": {
+    "abbreviation": "Duke",
+    "papers": [
+      "ClutterDexGrasp"
+    ]
+  },
+  "ETH AI Center": {
+    "abbreviation": "ETH",
+    "papers": [
+      "mimic-video"
+    ]
+  },
+  "ETH Zurich": {
+    "abbreviation": "ETH",
+    "papers": [
+      "MotoVLA",
+      "Robotic Assistant",
+      "mimic-video"
+    ]
+  },
+  "ETRI": {
+    "abbreviation": "ETRI",
+    "papers": [
+      "DP-VLA"
+    ]
+  },
+  "East China Normal University": {
+    "abbreviation": "ECNU",
+    "papers": [
+      "ChatVLA-2",
+      "DexVLA",
+      "Diffusion-VLA",
+      "ScaleDP",
+      "TinyVLA"
+    ]
+  },
+  "Eastern Institute of Technology": {
+    "abbreviation": "EIT",
+    "papers": [
+      "DreamVLA"
+    ]
+  },
+  "Everyday Robots": {
+    "abbreviation": "ER",
+    "papers": [
+      "RT-1"
+    ]
+  },
+  "FAIR-MetaAI": {
+    "abbreviation": "Meta",
+    "papers": [
+      "MT-ACT"
+    ]
+  },
+  "FieldAI": {
+    "abbreviation": "FieldAI",
+    "papers": [
+      "GLUESTICK"
+    ]
+  },
+  "FiveAges": {
+    "abbreviation": "FiveAges",
+    "papers": [
+      "BridgeVLA"
+    ]
+  },
+  "Fudan University": {
+    "abbreviation": "Fudan",
+    "papers": [
+      "4D-VLA - Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration",
+      "ForceVLA",
+      "FreezeVLA",
+      "HiMoE-VLA",
+      "LoHoVLA",
+      "MM-ACT",
+      "Mantis",
+      "OccVLA",
+      "OneTwoVLA",
+      "Prophet",
+      "RoboOmni",
+      "TabVLA",
+      "TriVLA",
+      "VLA-RFT",
+      "VideoVLA",
+      "Vlaser",
+      "WAM-Flow",
+      "WholeBodyVLA"
+    ]
+  },
+  "GSAI": {
+    "abbreviation": "GSAI",
+    "papers": [
+      "Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting"
+    ]
+  },
+  "Galaxea": {
+    "abbreviation": "Galaxea",
+    "papers": [
+      "G0"
+    ]
+  },
+  "Galaxea AI": {
+    "abbreviation": "Galaxea",
+    "papers": [
+      "DepthVLA"
+    ]
+  },
+  "Galbot": {
+    "abbreviation": "Galbot",
+    "papers": [
+      "DreamVLA",
+      "GraspVLA",
+      "StereoVLA",
+      "TrackVLA",
+      "Uni-NaVid",
+      "UrbanVLA"
+    ]
+  },
+  "Gemini Robotics Team": {
+    "abbreviation": "Google",
+    "papers": [
+      "Gemini Robotics 1.5"
+    ]
+  },
+  "Generalist AI": {
+    "abbreviation": "Generalist AI",
+    "papers": [
+      "GEN-0"
+    ]
+  },
+  "Georgia Institute of Technology": {
+    "abbreviation": "Georgia Tech",
+    "papers": [
+      "ANNIE",
+      "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+      "Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving",
+      "R2R2R"
+    ]
+  },
+  "Georgia Tech": {
+    "abbreviation": "Georgia Tech",
+    "papers": [
+      "UniPi"
+    ]
+  },
+  "GigaAI": {
+    "abbreviation": "GigaAI",
+    "papers": [
+      "MimicDreamer",
+      "SwiftVLA",
+      "VLA-R1"
+    ]
+  },
+  "Google": {
+    "abbreviation": "Google",
+    "papers": [
+      "SARA-RT"
+    ]
+  },
+  "Google DeepMind": {
+    "abbreviation": "Google",
+    "papers": [
+      "Emma-X",
+      "Gemini Robotics 1.5",
+      "Mobility VLA",
+      "PIVOT",
+      "Q-Transformer",
+      "RT-2",
+      "RT-A",
+      "RT-H",
+      "RT-Trajectory",
+      "ReAct",
+      "RoboCat",
+      "RoboTAP",
+      "SUDD",
+      "UniPi"
+    ]
+  },
+  "Google Deepmind": {
+    "abbreviation": "Google",
+    "papers": [
+      "OpenVLA"
+    ]
+  },
+  "Google Research, Brain Team": {
+    "abbreviation": "Google",
+    "papers": [
+      "RT-1"
+    ]
+  },
+  "Kobe University,": {
+    "abbreviation": "Kobe Univ.",
+    "papers": [
+      "Bi-VLA"
+    ]
+  },
+  "Graduate School of Information Science and Technology, Kobe University,": {
+    "abbreviation": "Kobe Univ.",
+    "papers": [
+      "Bi-VLA"
+    ]
+  },
+  "Guangdong Key Laboratory of Big Data Analysis and Processing": {
+    "parent_institute": "SYSU",
+    "abbreviation": "GDBigData",
+    "papers": [
+      "Epsilon0",
+      "FTM, FLA",
+      "MoRE"
+    ]
+  },
+  "Guangdong University of Technology": {
+    "abbreviation": "GDUT",
+    "papers": [
+      "Epsilon0"
+    ]
+  },
+  "HKISI": {
+    "parent_institute": "CAS",
+    "abbreviation": "HKISI",
+    "papers": [
+      "UniVLA"
+    ]
+  },
+  "HKUST(GZ)": {
+    "abbreviation": "HKUST(GZ)",
+    "papers": [
+      "FlowVLA",
+      "HiF-VLA",
+      "UD-VLA"
+    ]
+  },
+  "HKUST-GZ": {
+    "abbreviation": "HKUST(GZ)",
+    "papers": [
+      "UniUGP"
+    ]
+  },
+  "HUAWEI Noah''s Ark Lab": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "4D-VLA"
+    ]
+  },
+  "HUAWEI Noah's Ark Lab": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "4D-VLA - Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration"
+    ]
+  },
+  "Hangzhou Dianzi University": {
+    "abbreviation": "HDU",
+    "papers": [
+      "GF-VLA"
+    ]
+  },
+  "Hanyang University": {
+    "abbreviation": "Hanyang Univ.",
+    "papers": [
+      "QAIL+QBC"
+    ]
+  },
+  "Harbin Institute of Technology": {
+    "abbreviation": "HIT",
+    "papers": [
+      "CogVLA",
+      "EfficientVLA",
+      "MemoryVLA",
+      "PhysBrain",
+      "Tree-Planner"
+    ]
+  },
+  "Harbin Institute of Technology (Shenzhen)": {
+    "abbreviation": "HIT(SZ)",
+    "papers": [
+      "EO-1",
+      "F1",
+      "IntentionVLA",
+      "VLA-Pruner"
+    ]
+  },
+  "Harvard": {
+    "abbreviation": "Harvard",
+    "papers": [
+      "LVP"
+    ]
+  },
+  "Harvard University": {
+    "abbreviation": "Harvard",
+    "papers": [
+      "GLUESTICK",
+      "Moxin-VLA"
+    ]
+  },
+  "Hebei University of Technology": {
+    "abbreviation": "HBUT",
+    "papers": [
+      "VLA-RFT"
+    ]
+  },
+  "Hillbot": {
+    "abbreviation": "Hillbot",
+    "papers": [
+      "Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations"
+    ]
+  },
+  "Hong Kong Center for Logistics Robotics": {
+    "parent_institute": "CUHK",
+    "abbreviation": "HKCLR",
+    "papers": [
+      "VLA-Pilot"
+    ]
+  },
+  "Hong Kong University of Science and Technology": {
+    "abbreviation": "HKUST",
+    "papers": [
+      "Video2Act",
+      "WMPO",
+      "WristWorld"
+    ]
+  },
+  "Hong Kong University of Science and Technology (Guangzhou)": {
+    "abbreviation": "HKUST(GZ)",
+    "papers": [
+      "DexGraspVLA"
+    ]
+  },
+  "Horizon Robotics": {
+    "abbreviation": "Horizon",
+    "papers": [
+      "MonoDream",
+      "Motus"
+    ]
+  },
+  "Huawei": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "GraphCoT-VLA"
+    ]
+  },
+  "Huawei Canada": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "NICE"
+    ]
+  },
+  "Huazhong University of Science and Technology": {
+    "abbreviation": "HUST",
+    "papers": [
+      "BadVLA",
+      "MindDrive",
+      "PhysBrain"
+    ]
+  },
+  "Hugging Face": {
+    "abbreviation": "HuggingFace",
+    "papers": [
+      "SmolVLA"
+    ]
+  },
+  "Humanoids and Human-Centered Mechatronics (HHCM)": {
+    "abbreviation": "IIT",
+    "papers": [
+      "RoboNurse-VLA"
+    ]
+  },
+  "Hupan Lab": {
+    "abbreviation": "Hupan Lab",
+    "papers": [
+      "RynnVLA-002",
+      "WorldVLA"
+    ]
+  },
+  "Hyundai Motor Company": {
+    "abbreviation": "Hyundai",
+    "papers": [
+      "QAIL+QBC"
+    ]
+  },
+  "IAI MIPT": {
+    "abbreviation": "MIPT",
+    "papers": [
+      "Dont Blind Your VLA"
+    ]
+  },
+  "IAIR": {
+    "abbreviation": "IAIR",
+    "papers": [
+      "VideoVLA"
+    ]
+  },
+  "IEIT SYSTEMS Co., Ltd.": {
+    "abbreviation": "IEIT",
+    "papers": [
+      "ActionFlow"
+    ]
+  },
+  "IIIS, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "Impromptu VLA"
+    ]
+  },
+  "IIIT Hyderabad": {
+    "abbreviation": "IIIT-H",
+    "papers": [
+      "Hiveformer"
+    ]
+  },
+  "IME": {
+    "abbreviation": "IME",
+    "papers": [
+      "Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting"
+    ]
+  },
+  "IMT Atlantique": {
+    "abbreviation": "IMT",
+    "papers": [
+      "GraSP-VLA"
+    ]
+  },
+  "INSAIT": {
+    "abbreviation": "INSAIT",
+    "papers": [
+      "MotoVLA",
+      "ReVLA"
+    ]
+  },
+  "Imperial College London": {
+    "abbreviation": "IC",
+    "papers": [
+      "Evo-1",
+      "STARE-VLA"
+    ]
+  },
+  "Infinigence AI": {
+    "abbreviation": "Infinigence",
+    "papers": [
+      "Spec-VLA",
+      "π_RL"
+    ]
+  },
+  "Infinigence-AI": {
+    "abbreviation": "Infinigence",
+    "papers": [
+      "SpecPrune-VLA"
+    ]
+  },
+  "Innovation Center for Future Blockchain and Privacy Computing, Beijing": {
+    "abbreviation": "BACFBC",
+    "papers": [
+      "MonoDream"
+    ]
+  },
+  "Inria": {
+    "abbreviation": "Inria",
+    "papers": [
+      "Hiveformer"
+    ]
+  },
+  "Institute for AI Industry Research": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "DIPOLE",
+      "ReflectDrive"
+    ]
+  },
+  "Institute for AI Industry Research (AIR), Tsinghua Univeristy": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "TA-VLA"
+    ]
+  },
+  "Institute for AI Industry Research (AIR), Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "DIPOLE",
+      "PhysiAgent",
+      "X-VLA"
+    ]
+  },
+  "Institute for AI Industry Research, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "OccLLaMA"
+    ]
+  },
+  "Institute for Artificial Intelligence, Peking University": {
+    "abbreviation": "PKU",
+    "papers": [
+      "DexGraspVLA"
+    ]
+  },
+  "Institute for Interdisciplinary Information Sciences, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "HiRT",
+      "MotionTrans",
+      "UniCoD",
+      "What Can RL Bring to VLA Generalization? An Empirical Study"
+    ]
+  },
+  "Institute of Artificial Intelligence, China Telecom": {
+    "abbreviation": "China Telecom",
+    "papers": [
+      "ATE",
+      "TACO"
+    ]
+  },
+  "Institute of Automation, Chinese Academy of Science": {
+    "abbreviation": "CAS",
+    "papers": [
+      "QDepth-VLA"
+    ]
+  },
+  "Institute of Automation, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "ANNIE",
+      "BridgeVLA",
+      "Look Zoom Understand",
+      "RoboNeuron",
+      "RoboOS-NeXT",
+      "StereoVLA",
+      "USIM & U0",
+      "π_RL"
+    ]
+  },
+  "Institute of Automation, Chinese Academy of Sciences (CASIA)": {
+    "abbreviation": "CAS",
+    "papers": [
+      "EmbodiedCoder"
+    ]
+  },
+  "Institute of Computing Technology, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "ANNIE"
+    ]
+  },
+  "Institute of Microelectronics, CAS": {
+    "abbreviation": "CAS",
+    "papers": [
+      "CogACT"
+    ]
+  },
+  "Institute of Microelectronics, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "LatBot",
+      "LoLA"
+    ]
+  },
+  "Institute of Science Tokyo": {
+    "abbreviation": "Science Tokyo",
+    "papers": [
+      "Developing Vision-Language-Action Model from Egocentric Videos"
+    ]
+  },
+  "Intern Robotics": {
+    "abbreviation": "Intern Robotics",
+    "papers": [
+      "InternVLA-M1"
+    ]
+  },
+  "Intrinsic": {
+    "abbreviation": "Intrinsic",
+    "papers": [
+      "RT-Trajectory"
+    ]
+  },
+  "Istituto Italiano di Tecnologia": {
+    "abbreviation": "IIT",
+    "papers": [
+      "RoboNurse-VLA"
+    ]
+  },
+  "Jet Propulsion Laboratory": {
+    "abbreviation": "JPL",
+    "papers": [
+      "Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving"
+    ]
+  },
+  "Jilin University": {
+    "abbreviation": "JLU",
+    "papers": [
+      "Beyond Success"
+    ]
+  },
+  "John Hopcropt Center for Computer Science": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "VLA-Cache"
+    ]
+  },
+  "John Hopcropt Center for Computer Science, Shanghai Jiao Tong University": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "AFI"
+    ]
+  },
+  "Johns Hopkins University": {
+    "abbreviation": "JHU",
+    "papers": [
+      "RT-RAS"
+    ]
+  },
+  "KAIST": {
+    "abbreviation": "KAIST",
+    "papers": [
+      "DEAS",
+      "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",
+      "LAPA",
+      "MG-Select",
+      "RS-CL",
+      "VLA-R"
+    ]
+  },
+  "KAIST AI": {
+    "abbreviation": "KAIST",
+    "papers": [
+      "ACG"
+    ]
+  },
+  "KargoBot": {
+    "abbreviation": "KargoBot",
+    "papers": [
+      "AutoPrune"
+    ]
+  },
+  "Karlsruhe Institute of Technology": {
+    "abbreviation": "KIT",
+    "papers": [
+      "FLOWER",
+      "FORGE-Tree",
+      "MDT"
+    ]
+  },
+  "Key Laboratory of Cognition and Decision Intelligence for Complex Systems": {
+    "abbreviation": "CAS",
+    "papers": [
+      "USIM & U0"
+    ]
+  },
+  "Key Laboratory of General Artificial Intelligence": {
+    "parent_institute": "PKU",
+    "abbreviation": "PKU",
+    "papers": [
+      "SafeVLA"
+    ]
+  },
+  "Key Laboratory of System Control and Information Processing": {
+    "parent_institute": "SJTU",
+    "abbreviation": "ISC",
+    "papers": [
+      "AdaMoE",
+      "ERMV"
+    ]
+  },
+  "Korea University": {
+    "abbreviation": "Korea Univ.",
+    "papers": [
+      "VINE"
+    ]
+  },
+  "NAVER AI Lab": {
+    "abbreviation": "NAVER",
+    "papers": [
+      "VINE"
+    ]
+  },
+  "LV-NUS Lab": {
+    "parent_institute": "NUS",
+    "abbreviation": "LV-NUS",
+    "papers": [
+      "Genie Envisioner"
+    ]
+  },
+  "Lanzhou University": {
+    "abbreviation": "LZU",
+    "papers": [
+      "AutoDrive-R2",
+      "CoC-VLA",
+      "Reasoning-VLA"
+    ]
+  },
+  "Lehigh University": {
+    "abbreviation": "Lehigh Univ.",
+    "papers": [
+      "BadVLA"
+    ]
+  },
+  "LiAuto Inc.": {
+    "abbreviation": "LiAuto",
+    "papers": [
+      "AVA-VLA"
+    ]
+  },
+  "LimX Dynamics": {
+    "abbreviation": "LimX",
+    "papers": [
+      "ViVLA"
+    ]
+  },
+  "LindenBot": {
+    "abbreviation": "LindenBot",
+    "papers": [
+      "iFlyBot-VLA"
+    ]
+  },
+  "Logos Robotics": {
+    "abbreviation": "Logos",
+    "papers": [
+      "Prophet"
+    ]
+  },
+  "Lumina Group": {
+    "abbreviation": "Lumina",
+    "papers": [
+      "Control Your Robot"
+    ]
+  },
+  "Lumos Robotics": {
+    "abbreviation": "Lumos",
+    "papers": [
+      "AsyncVLA"
+    ]
+  },
+  "MBZUAI": {
+    "abbreviation": "MBZUAI",
+    "papers": [
+      "GLaD"
+    ]
+  },
+  "MEGVII Technology": {
+    "abbreviation": "MEGVII",
+    "papers": [
+      "MemoryVLA",
+      "RoboMatrix"
+    ]
+  },
+  "MICRO": {
+    "abbreviation": "MICRO",
+    "papers": [
+      "RoboNeuron"
+    ]
+  },
+  "MIT": {
+    "abbreviation": "MIT",
+    "papers": [
+      "CoT-VLA",
+      "Diffusion Policy",
+      "LVP",
+      "Language costs",
+      "OpenVLA",
+      "Robotic Assistant",
+      "UniPi",
+      "VLASH"
+    ]
+  },
+  "MIT CSAIL": {
+    "abbreviation": "MIT",
+    "papers": [
+      "HAMSTER"
+    ]
+  },
+  "MIT-IBM Watson AI Lab": {
+    "abbreviation": "MIT",
+    "papers": [
+      "Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations"
+    ]
+  },
+  "MMLab": {
+    "abbreviation": "MMLab",
+    "papers": [
+      "WholeBodyVLA"
+    ]
+  },
+  "MMLab, The Chinese University of Hong Kong": {
+    "abbreviation": "MMLab",
+    "papers": [
+      "Diffusion Transformer Policy"
+    ]
+  },
+  "Macalester College": {
+    "abbreviation": "Macalester",
+    "papers": [
+      "VIMA"
+    ]
+  },
+  "Machine Learning and I-health International Cooperation Base of Zhejiang Province": {
+    "abbreviation": "HDU",
+    "papers": [
+      "GF-VLA"
+    ]
+  },
+  "Massachusetts Institute of Technology": {
+    "abbreviation": "MIT",
+    "papers": [
+      "Reflexion"
+    ]
+  },
+  "Meituan": {
+    "abbreviation": "Meituan",
+    "papers": [
+      "RoboUniView"
+    ]
+  },
+  "Meta": {
+    "abbreviation": "Meta",
+    "papers": [
+      "ACT",
+      "AINA"
+    ]
+  },
+  "Meta AI": {
+    "abbreviation": "Meta",
+    "papers": [
+      "OTTER"
+    ]
+  },
+  "Meta Reality Labs, USA": {
+    "abbreviation": "Meta",
+    "papers": [
+      "MetaVLA"
+    ]
+  },
+  "MiLAB": {
+    "parent_institute": "Westlake Univ.",
+    "abbreviation": "Westlake Univ.",
+    "papers": [
+      "GeRM"
+    ]
+  },
+  "Microsoft": {
+    "abbreviation": "Microsoft",
+    "papers": [
+      "ShowUI",
+      "Text2Motion"
+    ]
+  },
+  "Microsoft Research": {
+    "abbreviation": "Microsoft",
+    "papers": [
+      "Discover Learn and Reinforce",
+      "FLOWER",
+      "LAPA",
+      "LatBot",
+      "LoLA",
+      "TraceVLA"
+    ]
+  },
+  "Microsoft Research Asia": {
+    "abbreviation": "Microsoft",
+    "papers": [
+      "Beyond Success",
+      "CogACT",
+      "HiMoE-VLA",
+      "VideoVLA"
+    ]
+  },
+  "Microsoft Zurich": {
+    "abbreviation": "Microsoft",
+    "papers": [
+      "mimic-video"
+    ]
+  },
+  "Midea Group": {
+    "abbreviation": "Midea",
+    "papers": [
+      "ChatVLA-2",
+      "DexVLA",
+      "Diffusion-VLA",
+      "ScaleDP"
+    ]
+  },
+  "Midea Group AI Lab": {
+    "abbreviation": "Midea",
+    "papers": [
+      "TinyVLA"
+    ]
+  },
+  "Mila — Quebec AI Institute": {
+    "abbreviation": "Mila",
+    "papers": [
+      "VLAPS"
+    ]
+  },
+  "MoE Key Laboratory of Brain-inspired Intelligent Perception and Cognition": {
+    "abbreviation": "USTC",
+    "papers": [
+      "DualVLA"
+    ]
+  },
+  "Mohamed bin Zayed University of Artificial Intelligence": {
+    "abbreviation": "MBZUAI",
+    "papers": [
+      "DeeAD",
+      "GeoAware-VLA",
+      "LAWM",
+      "PixelVLA"
+    ]
+  },
+  "Monash University": {
+    "abbreviation": "Monash Univ.",
+    "papers": [
+      "UD-VLA"
+    ]
+  },
+  "Moxin (Huzhou) Technology Co., Ltd.": {
+    "abbreviation": "Moxin",
+    "papers": [
+      "SwiftVLA"
+    ]
+  },
+  "Multi-Scale Medical Robotics Centre, Ltd.": {
+    "parent_institute": "CUHK",
+    "abbreviation": "MRC",
+    "papers": [
+      "RoboNurse-VLA"
+    ]
+  },
+  "Munich Research Center, Huawei Technologies": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "STARE-VLA"
+    ]
+  },
+  "NICS-EFC Lab": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "Spec-VLA"
+    ]
+  },
+  "NII LLMC": {
+    "abbreviation": "NII LLMC",
+    "papers": [
+      "Developing Vision-Language-Action Model from Egocentric Videos"
+    ]
+  },
+  "NJUST": {
+    "abbreviation": "NJUST",
+    "papers": [
+      "MimicDreamer"
+    ]
+  },
+  "NLP2CT Lab": {
+    "parent_institute": "UM",
+    "abbreviation": "UM",
+    "papers": [
+      "Spec-VLA"
+    ]
+  },
+  "NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA)": {
+    "parent_institute": "CAS",
+    "abbreviation": "CAS",
+    "papers": [
+      "DriveVLA-W0"
+    ]
+  },
+  "NUS": {
+    "abbreviation": "NUS",
+    "papers": [
+      "Vlaser",
+      "X-Humanoid"
+    ]
+  },
+  "NVIDIA": {
+    "abbreviation": "NVIDIA",
+    "papers": [
+      "CLIPort",
+      "CoT-VLA",
+      "Counterfactual VLA",
+      "DEAS",
+      "LAPA",
+      "Language costs",
+      "NaVILA",
+      "NitroGen",
+      "PerAct",
+      "RVT",
+      "RVT-2",
+      "RoboPoint",
+      "SEAL",
+      "SurgWorld",
+      "ThinkAct",
+      "VIMA"
+    ]
+  },
+  "NVIDIA Research": {
+    "abbreviation": "NVIDIA",
+    "papers": [
+      "RoboMonkey"
+    ]
+  },
+  "Nanjing University": {
+    "abbreviation": "NJU",
+    "papers": [
+      "BridgeVLA",
+      "HiF-VLA",
+      "IntentionVLA",
+      "ManiAgent",
+      "OC-VLA",
+      "Vlaser"
+    ]
+  },
+  "Nanjing University of Posts and Telecommunications": {
+    "abbreviation": "NJUPT",
+    "papers": [
+      "Mantis"
+    ]
+  },
+  "Nankai University": {
+    "abbreviation": "NKU",
+    "papers": [
+      "CCoL",
+      "FPC-VLA"
+    ]
+  },
+  "Nanyang Technological University": {
+    "abbreviation": "NTU",
+    "papers": [
+      "MAP-VLA",
+      "MoManipVLA",
+      "NORA-1.5",
+      "SOLAMI",
+      "TA-VLA",
+      "TVVE",
+      "UPA-RFAS",
+      "VLA-OS"
+    ]
+  },
+  "National Taiwan University": {
+    "abbreviation": "Taiwan Univ.",
+    "papers": [
+      "ThinkAct"
+    ]
+  },
+  "National University of Singapore": {
+    "abbreviation": "NUS",
+    "papers": [
+      "Alpamayo-R1",
+      "CoC-VLA",
+      "Ego-PM",
+      "ForceVLA",
+      "MonoDream",
+      "Reasoning-VLA",
+      "RoboFlamingo",
+      "RoboVLMs",
+      "SurgWorld",
+      "VLA-OS",
+      "WristWorld"
+    ]
+  },
+  "New Laboratory of Pattern Recognition (NLPR)": {
+    "parent_institute": "CAS",
+    "abbreviation": "NLPR",
+    "papers": [
+      "EmbodiedCoder"
+    ]
+  },
+  "New York University": {
+    "abbreviation": "NYU",
+    "papers": [
+      "AINA",
+      "VLM See Robot Do"
+    ]
+  },
+  "Noah’s Ark Lab": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "GraphCoT-VLA"
+    ]
+  },
+  "Noah’s Ark Laboratory": {
+    "abbreviation": "Huawei",
+    "papers": [
+      "Tree-Planner"
+    ]
+  },
+  "Noematrix Intelligence": {
+    "abbreviation": "Noematrix",
+    "papers": [
+      "ForceVLA"
+    ]
+  },
+  "Northeastern University": {
+    "abbreviation": "NEU",
+    "papers": [
+      "Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping",
+      "Reflexion",
+      "Vlaser"
+    ]
+  },
+  "Northeastern University Shenyang": {
+    "abbreviation": "NEU",
+    "papers": [
+      "FPC-VLA"
+    ]
+  },
+  "Northwestern Polytechnical University": {
+    "abbreviation": "NPU",
+    "papers": [
+      "ATE"
+    ]
+  },
+  "Northwestern University": {
+    "abbreviation": "NWU",
+    "papers": [
+      "DreamTacVLA",
+      "Reason for Future, Act for Now"
+    ]
+  },
+  "Nvidia": {
+    "abbreviation": "NVIDIA",
+    "papers": [
+      "HAMSTER",
+      "VLA-0"
+    ]
+  },
+  "Open X-Embodiment Collaboration": {
+    "abbreviation": "OXE Team",
+    "papers": [
+      "RT-X, OXE"
+    ]
+  },
+  "OpenDriveLab": {
+    "abbreviation": "HKU",
+    "papers": [
+      "WholeBodyVLA"
+    ]
+  },
+  "OpenHelix Team": {
+    "abbreviation": "OpenHelix",
+    "papers": [
+      "VLA-Adapter",
+      "VLA-RFT"
+    ]
+  },
+  "PKU": {
+    "abbreviation": "PKU",
+    "papers": [
+      "A3VLM",
+      "Instruct2Act"
+    ]
+  },
+  "PKU-Agibot Lab": {
+    "parent_institute": ["PKU", "Agibot"],
+    "abbreviation": "PKU",
+    "papers": [
+      "3DS-VLA",
+      "Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation"
+    ]
+  },
+  "PKU-PsiBot Joint Lab": {
+    "parent_institute": ["PKU", "Psibot"],
+    "abbreviation": "PKU",
+    "papers": [
+      "DexGraspVLA"
+    ]
+  },
+  "PKU-Psibot Lab": {
+    "parent_institute": ["PKU", "Psibot"],
+    "abbreviation": "PKU",
+    "papers": [
+      "RobustVLA"
+    ]
+  },
+  "POSTECH": {
+    "abbreviation": "POSTECH",
+    "papers": [
+      "Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting"
+    ]
+  },
+  "PSL Research University": {
+    "abbreviation": "PSL",
+    "papers": [
+      "Hiveformer"
+    ]
+  },
+  "Paul G. Allen School of Computer Science and Engineering, University of Washington": {
+    "abbreviation": "UW",
+    "papers": [
+      "UWM"
+    ]
+  },
+  "Peking University": {
+    "abbreviation": "PKU",
+    "papers": [
+      "Being-H0",
+      "CoT4AD",
+      "ControlVLA",
+      "Diffusion Transformer Policy",
+      "DreamVLA",
+      "EBT-Policy",
+      "FastDriveVLA",
+      "GraspVLA",
+      "HybridVLA",
+      "JARVIS-VLA",
+      "Motus",
+      "Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation",
+      "OmniJARVIS",
+      "OpenHA",
+      "PhysiAgent",
+      "RAT",
+      "RobustVLA",
+      "RynnVLA-001",
+      "SC-VLA",
+      "SafeVLA",
+      "SimpleVLA-RL",
+      "StereoVLA",
+      "SwiftVLA",
+      "TrackVLA",
+      "UniCoD",
+      "UrbanVLA",
+      "VLMimic",
+      "WristWorld",
+      "X-VLA",
+      "XR-1",
+      "dVLA",
+      "π_RL"
+    ]
+  },
+  "Peng Cheng Laboratory": {
+    "abbreviation": "PCL",
+    "papers": [
+      "RoVer"
+    ]
+  },
+  "Pengcheng Laboratory": {
+    "abbreviation": "PCL",
+    "papers": [
+      "TVVE"
+    ]
+  },
+  "Pennsylvania State University": {
+    "abbreviation": "Penn State",
+    "papers": [
+      "VLA-Fool"
+    ]
+  },
+  "Physical Intelligence": {
+    "abbreviation": "PI",
+    "papers": [
+      "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+      "FAST",
+      "Hi Robot",
+      "LITEN",
+      "OpenVLA",
+      "π0",
+      "π0.5",
+      "π0.6*"
+    ]
+  },
+  "Princeton University": {
+    "abbreviation": "Princeton",
+    "papers": [
+      "BYOVLA",
+      "Reflexion",
+      "VLM2VLA"
+    ]
+  },
+  "PrioriAnalytica": {
+    "abbreviation": "PrioriAnalytica",
+    "papers": [
+      "GraSP-VLA"
+    ]
+  },
+  "Purdue University": {
+    "abbreviation": "Purdue",
+    "papers": [
+      "Receive, Reason, and React"
+    ]
+  },
+  "QSS AI and Robotics Lab": {
+    "abbreviation": "QSS",
+    "papers": [
+      "Towards Accessible Physical AI"
+    ]
+  },
+  "Qualcomm AI Research": {
+    "abbreviation": "Qualcomm",
+    "papers": [
+      "Oat-VLA"
+    ]
+  },
+  "RIX": {
+    "abbreviation": "RIX",
+    "papers": [
+      "DiffVLA"
+    ]
+  },
+  "RLWRLD": {
+    "abbreviation": "RLWRLD",
+    "papers": [
+      "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",
+      "MG-Select",
+      "RS-CL"
+    ]
+  },
+  "RUC": {
+    "abbreviation": "RUC",
+    "papers": [
+      "MoH"
+    ]
+  },
+  "ReLER": {
+    "abbreviation": "ReLER",
+    "papers": [
+      "VER"
+    ]
+  },
+  "Renmin University of China": {
+    "abbreviation": "RUC",
+    "papers": [
+      "Being-H0",
+      "MonoDream"
+    ]
+  },
+  "Robotics at Google": {
+    "abbreviation": "Google",
+    "papers": [
+      "Interactive Language",
+      "MCIL",
+      "MOO",
+      "RT-1",
+      "Transporter Networks"
+    ]
+  },
+  "Ruijin Hospital": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "SurgWorld"
+    ]
+  },
+  "Rutgers University": {
+    "abbreviation": "RU",
+    "papers": [
+      "A3VLM"
+    ]
+  },
+  "S-Lab": {
+    "abbreviation": "S-Lab",
+    "papers": [
+      "SOLAMI"
+    ]
+  },
+  "SII": {
+    "abbreviation": "SII",
+    "papers": [
+      "Mantis",
+      "SpecPrune-VLA",
+      "WholeBodyVLA"
+    ]
+  },
+  "SJTU": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "A3VLM"
+    ]
+  },
+  "SKL-MAIS, Institute of Automation, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "ConRFT"
+    ]
+  },
+  "SUTD": {
+    "abbreviation": "SUTD",
+    "papers": [
+      "Emma-X"
+    ]
+  },
+  "Salesforce": {
+    "abbreviation": "Salesforce",
+    "papers": [
+      "Robotic VLA Benefits from Joint Learning with Motion Image Diffusion"
+    ]
+  },
+  "ScaleLab": {
+    "abbreviation": "ScaleLab",
+    "papers": [
+      "Control Your Robot"
+    ]
+  },
+  "School of AI, Shanghai Jiao Tong University": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "VLA-Pruner"
+    ]
+  },
+  "School of Artificial Intelligence and Automation, Huazhong University of Science and Technology": {
+    "abbreviation": "HUST",
+    "papers": [
+      "VLA-4D"
+    ]
+  },
+  "School of Artificial Intelligence, Shanghai Jiao Tong University": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "EfficientVLA"
+    ]
+  },
+  "School of Artificial Intelligence, University of Chinese Academy of Sciences": {
+    "abbreviation": "UCAS",
+    "papers": [
+      "AutoPrune",
+      "BridgeVLA",
+      "ConRFT"
+    ]
+  },
+  "School of Artificial Intelligence, University of the Chinese Academy of Sciences": {
+    "abbreviation": "UCAS",
+    "papers": [
+      "QDepth-VLA"
+    ]
+  },
+  "School of Automation Science and Engineering, South China University of Technology": {
+    "abbreviation": "SCUT",
+    "papers": [
+      "PixelVLA"
+    ]
+  },
+  "School of Communication and Information Engineering, Shanghai University": {
+    "abbreviation": "SHU",
+    "papers": [
+      "IRL-VLA"
+    ]
+  },
+  "School of Computer Science and Engineering, Sun Yat-sen University": {
+    "abbreviation": "SYSU",
+    "papers": [
+      "RoVer"
+    ]
+  },
+  "School of Computer Science and Technology, Harbin Institute of Technology": {
+    "abbreviation": "HIT",
+    "papers": [
+      "CogVLA"
+    ]
+  },
+  "School of Computer Science and Technology, University of Science and Technology of China": {
+    "abbreviation": "USTC",
+    "papers": [
+      "ActionFlow"
+    ]
+  },
+  "School of Computer Science, Peking University": {
+    "abbreviation": "PKU",
+    "papers": [
+      "DualVLA",
+      "Fast-in-Slow",
+      "MLA",
+      "ManualVLA",
+      "RoboMamba",
+      "RoboOS-NeXT"
+    ]
+  },
+  "School of Computer Science, The University of Sydney": {
+    "abbreviation": "USYD",
+    "papers": [
+      "ADP"
+    ]
+  },
+  "School of Computing, Gachon University": {
+    "abbreviation": "Gachon Univ.",
+    "papers": [
+      "RetoVLA"
+    ]
+  },
+  "School of Computing, National University of Singapore": {
+    "abbreviation": "NUS",
+    "papers": [
+      "VLA-4D"
+    ]
+  },
+  "School of Data Science, The Chinese University of Hong Kong, Shenzhen": {
+    "abbreviation": "CUHK(SZ)",
+    "papers": [
+      "AVA-VLA"
+    ]
+  },
+  "School of Electrical and Electronic Engineering, Nanyang Technological University": {
+    "abbreviation": "NTU",
+    "papers": [
+      "MoTo"
+    ]
+  },
+  "School of Electronic Science and Engineering, Nanjing University": {
+    "abbreviation": "NJU",
+    "papers": [
+      "SQAP-VLA"
+    ]
+  },
+  "School of IEA, Beijing University of Posts and Telecommunications": {
+    "abbreviation": "BUPT",
+    "papers": [
+      "MoTo"
+    ]
+  },
+  "School of Information Science and Technology, Beijing University of Technology": {
+    "abbreviation": "BJUT",
+    "papers": [
+      "AVA-VLA"
+    ]
+  },
+  "School of Information Science and Technology, ShanghaiTech University": {
+    "abbreviation": "STU",
+    "papers": [
+      "AutoPrune"
+    ]
+  },
+  "School of Mechanical Engineering, Shanghai Jiao Tong University": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "IRL-VLA"
+    ]
+  },
+  "School of Software Engineering, Xi’an Jiaotong University": {
+    "abbreviation": "XJTU",
+    "papers": [
+      "SSM-VLA"
+    ]
+  },
+  "Sea AI Lab": {
+    "abbreviation": "Sea AI",
+    "papers": [
+      "FreezeVLA"
+    ]
+  },
+  "SenseTime Research": {
+    "abbreviation": "SenseTime",
+    "papers": [
+      "Diffusion Transformer Policy",
+      "OC-VLA",
+      "SOLAMI"
+    ]
+  },
+  "Seoul National University": {
+    "abbreviation": "SNU",
+    "papers": [
+      "CLIP-RT",
+      "VINE",
+      "MG-Select"
+    ]
+  },
+  "Shanghai AI Lab": {
+    "abbreviation": "SH AI Lab",
+    "papers": [
+      "A3VLM",
+      "DP3",
+      "Diffusion Transformer Policy",
+      "ForceVLA",
+      "FreezeVLA",
+      "OC-VLA",
+      "RoboDual",
+      "UniCoD",
+      "X-VLA"
+    ]
+  },
+  "Shanghai AI Laboratory": {
+    "abbreviation": "SH AI Lab",
+    "papers": [
+      "AsyncVLA",
+      "F1",
+      "Instruct2Act",
+      "InternVLA-M1",
+      "MM-ACT",
+      "RoVer",
+      "SpatialVLA",
+      "Tree-Planner",
+      "Vlaser"
+    ]
+  },
+  "Shanghai Artificial Intelligence Laboratory": {
+    "abbreviation": "SH AI Lab",
+    "papers": [
+      "InstructVLA",
+      "OneTwoVLA"
+    ]
+  },
+  "Shanghai Innovation Institute": {
+    "abbreviation": "SII",
+    "papers": [
+      "Diagnose Correct and Learn from Manipulation Failures via Visual Symbols",
+      "ERIQ",
+      "ForceVLA",
+      "Prophet",
+      "TrajBooster",
+      "TriVLA"
+    ]
+  },
+  "Shanghai Jiao Tong Univeristy": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "RoboDual"
+    ]
+  },
+  "Shanghai Jiao Tong University": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "AMS",
+      "AdaMoE",
+      "AgentWorld",
+      "AutoPrune",
+      "Control Your Robot",
+      "DP3",
+      "Dejavu",
+      "Diagnose Correct and Learn from Manipulation Failures via Visual Symbols",
+      "DiffVLA",
+      "DreamVLA",
+      "ERMV",
+      "FlowVLA",
+      "ForceVLA",
+      "HumanVLA",
+      "Instruct2Act",
+      "LoHoVLA",
+      "Look Zoom Understand",
+      "MM-ACT",
+      "Mantis",
+      "MotionTrans",
+      "OccVLA",
+      "Point-VLA",
+      "RoboFlamingo",
+      "RoboVLMs",
+      "SpecPrune-VLA",
+      "Tactile-VLA",
+      "TrajBooster",
+      "VLA-Cache",
+      "Vlaser"
+    ]
+  },
+  "Shanghai Jiaotong University": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "dVLA"
+    ]
+  },
+  "Shanghai Key Laboratory of Integrated Administration Technologies for Information Security": {
+    "abbreviation": "SJTU",
+    "papers": [
+      "AdaMoE"
+    ]
+  },
+  "Shanghai Qi Zhi Institute": {
+    "abbreviation": "Qi Zhi",
+    "papers": [
+      "DP3",
+      "Improving Vision-Language-Action Model with Online Reinforcement Learning",
+      "MotionTrans",
+      "OccVLA",
+      "OneTwoVLA",
+      "UP-VLA",
+      "iRe-VLA"
+    ]
+  },
+  "Shanghai Qizhi Institute": {
+    "abbreviation": "Qi Zhi",
+    "papers": [
+      "HiRT",
+      "UniCoD"
+    ]
+  },
+  "Shanghai University": {
+    "abbreviation": "SHU",
+    "papers": [
+      "ChatVLA-2",
+      "Diffusion-VLA",
+      "ET-VLA",
+      "ForceVLA",
+      "ScaleDP",
+      "TinyVLA"
+    ]
+  },
+  "ShanghaiTech": {
+    "abbreviation": "STU",
+    "papers": [
+      "SpatialVLA"
+    ]
+  },
+  "ShanghaiTech University": {
+    "abbreviation": "STU",
+    "papers": [
+      "LoHoVLA"
+    ]
+  },
+  "Shenyang Institute of Automation, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "PixelVLA"
+    ]
+  },
+  "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "RoVer"
+    ]
+  },
+  "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences": {
+    "abbreviation": "CAS",
+    "papers": [
+      "TVVE"
+    ]
+  },
+  "Shenzhen International Graduate School, Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "What Can RL Bring to VLA Generalization? An Empirical Study"
+    ]
+  },
+  "Shenzhen University": {
+    "abbreviation": "SZU",
+    "papers": [
+      "Vlaser"
+    ]
+  },
+  "Show Lab": {
+    "abbreviation": "Show Lab",
+    "papers": [
+      "Ego-PM"
+    ]
+  },
+  "Siemens Corporation": {
+    "abbreviation": "Siemens",
+    "papers": [
+      "Lite VLA"
+    ]
+  },
+  "Simplexity Robotics": {
+    "abbreviation": "Simplexity",
+    "papers": [
+      "ManualVLA"
+    ]
+  },
+  "Singapore University of Technology and Design": {
+    "abbreviation": "SUTD",
+    "papers": [
+      "EMMA",
+      "NORA-1.5"
+    ]
+  },
+  "Sofia University “St. Kliment Ohridski”": {
+    "abbreviation": "Sofia Univ.",
+    "papers": [
+      "MotoVLA",
+      "ReVLA"
+    ]
+  },
+  "Sony Interactive Entertainment": {
+    "abbreviation": "Sony",
+    "papers": [
+      "Developing Vision-Language-Action Model from Egocentric Videos"
+    ]
+  },
+  "Sony Research": {
+    "abbreviation": "Sony",
+    "papers": [
+      "VLA-Fool"
+    ]
+  },
+  "Sorbonne University": {
+    "abbreviation": "Sorbonne Univ.",
+    "papers": [
+      "SmolVLA"
+    ]
+  },
+  "South China University of Technolog": {
+    "abbreviation": "SCUT",
+    "papers": [
+      "MAP-VLA"
+    ]
+  },
+  "South China University of Technology": {
+    "abbreviation": "SCUT",
+    "papers": [
+      "Spatial Forcing"
+    ]
+  },
+  "Southern University of Science and Technology": {
+    "abbreviation": "SUST",
+    "papers": [
+      "AMS",
+      "Diagnose Correct and Learn from Manipulation Failures via Visual Symbols"
+    ]
+  },
+  "Spirit AI": {
+    "abbreviation": "Spirit",
+    "papers": [
+      "OneTwoVLA",
+      "Point-VLA"
+    ]
+  },
+  "Stanford": {
+    "abbreviation": "Stanford",
+    "papers": [
+      "ECoT-Lite",
+      "FAST",
+      "NitroGen",
+      "Octo",
+      "VIMA"
+    ]
+  },
+  "Stanford University": {
+    "abbreviation": "Stanford",
+    "papers": [
+      "ACT",
+      "BC-Z",
+      "CoT-VLA",
+      "Counterfactual VLA",
+      "ECoT",
+      "Hi Robot",
+      "MemER",
+      "MoMaGen",
+      "OpenVLA",
+      "OpenVLA-OFT",
+      "PIVOT",
+      "RT-Trajectory",
+      "ReKep",
+      "RoboMonkey",
+      "Robotic Assistant",
+      "Robotic VLA Benefits from Joint Learning with Motion Image Diffusion",
+      "Text2Motion",
+      "VoxPoser"
+    ]
+  },
+  "State Key Lab of General Artiﬁcial Intelligence, BIGAI": {
+    "abbreviation": "BIGAI",
+    "papers": [
+      "ControlVLA"
+    ]
+  },
+  "State Key Laboratory of Multimedia Information Processing": {
+    "abbreviation": "PKU",
+    "papers": [
+      "DualVLA",
+      "Fast-in-Slow",
+      "FastDriveVLA",
+      "MLA",
+      "ManualVLA",
+      "RoboMamba",
+      "RoboOS-NeXT",
+      "SC-VLA",
+      "WristWorld",
+      "XR-1"
+    ]
+  },
+  "State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University": {
+    "abbreviation": "PKU",
+    "papers": [
+      "3DS-VLA",
+      "MotionTrans",
+      "Video2Act"
+    ]
+  },
+  "State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)": {
+    "abbreviation": "CAS",
+    "papers": [
+      "AutoPrune",
+      "EmbodiedCoder"
+    ]
+  },
+  "State Key Laboratory of Networking and Switching Technology": {
+    "abbreviation": "BUPT",
+    "papers": [
+      "VLA-Adapter"
+    ]
+  },
+  "State Key Laboratory of Virtual Reality Technology and Systems": {
+    "abbreviation": "BUAA",
+    "papers": [
+      "XR-1"
+    ]
+  },
+  "StepFun": {
+    "abbreviation": "StepFun",
+    "papers": [
+      "Dexbotic",
+      "MemoryVLA",
+      "Running VLAs at Real-time Speed"
+    ]
+  },
+  "Stony Brook University": {
+    "abbreviation": "SBU",
+    "papers": [
+      "LLaRA"
+    ]
+  },
+  "Sun Yat-sen University": {
+    "abbreviation": "SYSU",
+    "papers": [
+      "CycleManip",
+      "Epsilon0",
+      "FTM, FLA",
+      "MoRE",
+      "STORM",
+      "TVVE",
+      "Video2Act"
+    ]
+  },
+  "Sung Kyun Kwan University": {
+    "abbreviation": "SKKU",
+    "papers": [
+      "SurgWorld"
+    ]
+  },
+  "Sungkyunkwan University": {
+    "abbreviation": "SKKU",
+    "papers": [
+      "Embodied CoT Distillation From LLM To Off-the-shelf Agents"
+    ]
+  },
+  "Suzhou Institute for Advanced Research, University of Science and Technology of China": {
+    "abbreviation": "USTC",
+    "papers": [
+      "ActionFlow"
+    ]
+  },
+  "Swiss Federal Institute of Technology Lausanne": {
+    "abbreviation": "EPFL",
+    "papers": [
+      "Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand"
+    ]
+  },
+  "Syracuse University": {
+    "abbreviation": "Syracuse",
+    "papers": [
+      "TinyVLA"
+    ]
+  },
+  "T-Stone Robotics Institute": {
+    "abbreviation": "T-Stone",
+    "papers": [
+      "VLA-Pilot"
+    ]
+  },
+  "TGAI Lab": {
+    "abbreviation": "TGAI",
+    "papers": [
+      "When Alignment Fails"
+    ]
+  },
+  "THU": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "UniVLA"
+    ]
+  },
+  "TUM School of Computation, Information and Technology": {
+    "abbreviation": "TUM",
+    "papers": [
+      "CRISP"
+    ]
+  },
+  "Technical University of Munich": {
+    "abbreviation": "TUM",
+    "papers": [
+      "EndoVLA",
+      "PLA",
+      "STARE-VLA"
+    ]
+  },
+  "Technical University of Munich (TUM)": {
+    "abbreviation": "TUM",
+    "papers": [
+      "CRISP"
+    ]
+  },
+  "Tel Aviv University": {
+    "abbreviation": "TAU",
+    "papers": [
+      "Towards Natural Language-Driven Assembly Using Foundation Models"
+    ]
+  },
+  "TeleAI": {
+    "abbreviation": "TeleAI",
+    "papers": [
+      "SpatialVLA"
+    ]
+  },
+  "Tencent Robotics X": {
+    "abbreviation": "Tencent",
+    "papers": [
+      "AgentWorld",
+      "Hi-ORS",
+      "HumanVLA"
+    ]
+  },
+  "The Chinese University of Hong Kong": {
+    "abbreviation": "CUHK",
+    "papers": [
+      "EndoVLA",
+      "Fast-in-Slow",
+      "Instruct2Act",
+      "ManualVLA",
+      "Reason for Future, Act for Now",
+      "RoboMatrix",
+      "RoboNurse-VLA",
+      "RobustVLA",
+      "SurgWorld",
+      "VLA-Pilot"
+    ]
+  },
+  "The Chinese University of Hong Kong, Shenzhen": {
+    "abbreviation": "CUHK(SZ)",
+    "papers": [
+      "ATE",
+      "CycleManip",
+      "OmniJARVIS"
+    ]
+  },
+  "The Education University of Hong Kong": {
+    "abbreviation": "EdUHK",
+    "papers": [
+      "CCoL"
+    ]
+  },
+  "The Hong Kong Polytechnic University": {
+    "abbreviation": "PolyU",
+    "papers": [
+      "CCoL"
+    ]
+  },
+  "The Hong Kong University of Science and Technology": {
+    "abbreviation": "HKUST",
+    "papers": [
+      "Discover Learn and Reinforce",
+      "OmniReason",
+      "TACO"
+    ]
+  },
+  "The Hong Kong University of Science and Technology (Guangzhou)": {
+    "abbreviation": "HKUST(GZ)",
+    "papers": [
+      "OmniReason",
+      "PhysBrain",
+      "Spatial Forcing",
+      "VLA-Adapter"
+    ]
+  },
+  "The University of Austin at Texas": {
+    "abbreviation": "UATX",
+    "papers": [
+      "RT-A"
+    ]
+  },
+  "The University of British Columbia": {
+    "abbreviation": "UBC",
+    "papers": [
+      "VLAPS"
+    ]
+  },
+  "The University of Hong Kong": {
+    "abbreviation": "HKU",
+    "papers": [
+      "AdaMoE",
+      "Dream-VLA",
+      "GraspVLA",
+      "MM-ACT",
+      "RoboDual",
+      "StereoVLA",
+      "Tree-Planner",
+      "VLMimic",
+      "VST",
+      "WholeBodyVLA"
+    ]
+  },
+  "The University of Osaka": {
+    "abbreviation": "UOsaka",
+    "papers": [
+      "Bi-VLA"
+    ]
+  },
+  "The University of Sydney": {
+    "abbreviation": "USYD",
+    "papers": [
+      "AFI"
+    ]
+  },
+  "The University of Texas at Austin": {
+    "abbreviation": "UT Austin",
+    "papers": [
+      "MoMaGen",
+      "PIVOT"
+    ]
+  },
+  "The University of Tokyo": {
+    "abbreviation": "UTokyo",
+    "papers": [
+      "A2C2"
+    ]
+  },
+  "Tianjin University": {
+    "abbreviation": "TJU",
+    "papers": [
+      "MUVLA",
+      "MemoryVLA"
+    ]
+  },
+  "Tongji University": {
+    "abbreviation": "Tongji",
+    "papers": [
+      "ActDistill",
+      "AdaMoE",
+      "MiVLA",
+      "Point-VLA"
+    ]
+  },
+  "Toyota Research Institute": {
+    "abbreviation": "Toyota",
+    "papers": [
+      "Diffusion Policy",
+      "OpenVLA",
+      "R2R2R",
+      "UWM"
+    ]
+  },
+  "Tsinghua": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "VIMA"
+    ]
+  },
+  "Tsinghua Shenzhen International Graduate School": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "Hi-ORS",
+      "SSM-VLA",
+      "ThinkBot"
+    ]
+  },
+  "Tsinghua University": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "ATE",
+      "AdaMoE",
+      "AsyncVLA",
+      "CogACT",
+      "ColaVLA",
+      "ControlVLA",
+      "DeeR-VLA",
+      "DepthVLA",
+      "DiffVLA",
+      "Diffusion Transformer Policy",
+      "Discover Learn and Reinforce",
+      "DreamVLA",
+      "EBT-Policy",
+      "HiMoE-VLA",
+      "Improving Vision-Language-Action Model with Online Reinforcement Learning",
+      "KV-Efficient VLA",
+      "MAP-VLA",
+      "MemoryVLA",
+      "MimicDreamer",
+      "MoManipVLA",
+      "Motus",
+      "OC-VLA",
+      "OccVLA",
+      "OneTwoVLA",
+      "Point-VLA",
+      "RDT-1B",
+      "Reason for Future, Act for Now",
+      "Reasoning-VLA",
+      "RoboChemist",
+      "RoboFlamingo",
+      "RoboVLMs",
+      "RobustVLA",
+      "SSM-VLA",
+      "SimpleVLA-RL",
+      "Spatial Forcing",
+      "Spec-VLA",
+      "SwiftVLA",
+      "TACO",
+      "Tactile-VLA",
+      "ThinkBot",
+      "UP-VLA",
+      "VLA-OS",
+      "VLA-R1",
+      "VST",
+      "Vlaser",
+      "iRe-VLA",
+      "π_RL"
+    ]
+  },
+  "Tsinghua University, IIIS": {
+    "abbreviation": "Tsinghua",
+    "papers": [
+      "DP3"
+    ]
+  },
+  "Turing Inc.": {
+    "abbreviation": "Turing",
+    "papers": [
+      "CoVLA"
+    ]
+  },
+  "UC Berkeley": {
+    "abbreviation": "UCB",
+    "papers": [
+      "ACT",
+      "BC-Z",
+      "BayesVLA",
+      "DEAS",
+      "ECoT",
+      "FAST",
+      "LITEN",
+      "LVP",
+      "Octo",
+      "OmniVLA",
+      "OpenVLA",
+      "RETAIN",
+      "RS-CL",
+      "RoboMonkey",
+      "UniPi",
+      "V-GPS",
+      "mimic-video"
+    ]
+  },
+  "UC San Diego": {
+    "abbreviation": "UCSD",
+    "papers": [
+      "Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations",
+      "NaVILA"
+    ]
+  },
+  "UCLA": {
+    "abbreviation": "UCLA",
+    "papers": [
+      "Counterfactual VLA"
+    ]
+  },
+  "UCSI University": {
+    "abbreviation": "UCSI",
+    "papers": [
+      "Sigma"
+    ]
+  },
+  "UChicago": {
+    "abbreviation": "UChicago",
+    "papers": [
+      "NitroGen"
+    ]
+  },
+  "UESTC": {
+    "abbreviation": "UESTC",
+    "papers": [
+      "Tactile-VLA"
+    ]
+  },
+  "UIUC": {
+    "abbreviation": "UIUC",
+    "papers": [
+      "EBT-Policy"
+    ]
+  },
+  "UNC": {
+    "abbreviation": "UNC",
+    "papers": [
+      "MoH"
+    ]
+  },
+  "USC": {
+    "abbreviation": "USC",
+    "papers": [
+      "NaVILA"
+    ]
+  },
+  "USTC": {
+    "abbreviation": "USTC",
+    "papers": [
+      "CogACT",
+      "UrbanVLA"
+    ]
+  },
+  "UT Austin": {
+    "abbreviation": "UT Austin",
+    "papers": [
+      "NitroGen",
+      "VIMA"
+    ]
+  },
+  "Umeå University": {
+    "abbreviation": "UMU",
+    "papers": [
+      "GraSP-VLA"
+    ]
+  },
+  "Universidad Católica San Pablo": {
+    "abbreviation": "UCSP",
+    "papers": [
+      "RoboPoint"
+    ]
+  },
+  "University of Alberta": {
+    "abbreviation": "UAlberta",
+    "papers": [
+      "UniPi"
+    ]
+  },
+  "University of Antwerp, Queen Mary University of London": {
+    "abbreviation": "QMUL",
+    "papers": [
+      "NORA-1.5"
+    ]
+  },
+  "University of Arizona": {
+    "abbreviation": "UArizona",
+    "papers": [
+      "SQAP-VLA"
+    ]
+  },
+  "University of Arkansas": {
+    "abbreviation": "UArkansas",
+    "papers": [
+      "Embodied-SlotSSM",
+      "OBEYED-VLA"
+    ]
+  },
+  "University of California San Diego": {
+    "abbreviation": "UCSD",
+    "papers": [
+      "RT-Trajectory"
+    ]
+  },
+  "University of California, Berkeley": {
+    "abbreviation": "UCB",
+    "papers": [
+      "Hi Robot",
+      "HiRT",
+      "Improving Vision-Language-Action Model with Online Reinforcement Learning",
+      "Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations",
+      "Mechanistic Interpretability for Steering Vision-Language-Action Models",
+      "Mechanistic interpretability for steering vision-language-action models",
+      "OTTER",
+      "PhysiAgent",
+      "iRe-VLA"
+    ]
+  },
+  "University of California, Davis": {
+    "abbreviation": "UCD",
+    "papers": [
+      "ReAct"
+    ]
+  },
+  "University of California, Los Angeles": {
+    "abbreviation": "UCLA",
+    "papers": [
+      "AutoVLA",
+      "Avi"
+    ]
+  },
+  "University of Chicago": {
+    "abbreviation": "UChicago",
+    "papers": [
+      "GRAPE"
+    ]
+  },
+  "University of Chinese Academy of Sciences": {
+    "abbreviation": "UCAS",
+    "papers": [
+      "Instruct2Act",
+      "LatBot",
+      "LoLA",
+      "RoVer",
+      "RoboNeuron"
+    ]
+  },
+  "University of Chinese Academy of Sciences (UCAS)": {
+    "abbreviation": "UCAS",
+    "papers": [
+      "EmbodiedCoder"
+    ]
+  },
+  "University of Electronic Science and Technology of China": {
+    "abbreviation": "UESTC",
+    "papers": [
+      "EfficientVLA",
+      "MiVLA"
+    ]
+  },
+  "University of Freiburg": {
+    "abbreviation": "Uni Freiburg",
+    "papers": [
+      "HULC",
+      "HULC++"
+    ]
+  },
+  "University of Illinois Chicago": {
+    "abbreviation": "UIC",
+    "papers": [
+      "GLaD"
+    ]
+  },
+  "University of Illinois Urbana-Champaign": {
+    "abbreviation": "UIUC",
+    "papers": [
+      "Unified-IO 2",
+      "VoxPoser"
+    ]
+  },
+  "University of Illinois at Urbana-Champaign": {
+    "abbreviation": "UIUC",
+    "papers": [
+      "DreamVLA"
+    ]
+  },
+  "University of Macau": {
+    "abbreviation": "UM",
+    "papers": [
+      "FPC-VLA",
+      "Spec-VLA"
+    ]
+  },
+  "University of Maryland, College Park": {
+    "abbreviation": "UMD",
+    "papers": [
+      "TraceVLA"
+    ]
+  },
+  "University of New South Wales": {
+    "abbreviation": "UNSW",
+    "papers": [
+      "Reasoning-VLA"
+    ]
+  },
+  "University of Pennsylvania": {
+    "abbreviation": "UPenn",
+    "papers": [
+      "DexGraspVLA",
+      "Faithful Chain-of-Thought Reasoning",
+      "REGENT",
+      "RICL"
+    ]
+  },
+  "University of Pittsburgh": {
+    "abbreviation": "Pitt",
+    "papers": [
+      "EveryDayVLA"
+    ]
+  },
+  "University of Pittsburgh Center for Research Computing": {
+    "abbreviation": "Pitt",
+    "papers": [
+      "EveryDayVLA"
+    ]
+  },
+  "University of Queensland": {
+    "abbreviation": "UQ",
+    "papers": [
+      "AutoDrive-R2"
+    ]
+  },
+  "University of Science and Technology of China": {
+    "abbreviation": "USTC",
+    "papers": [
+      "CoC-VLA",
+      "DreamVLA",
+      "DualVLA",
+      "GraphCoT-VLA",
+      "InstructVLA",
+      "IntentionVLA",
+      "MM-ACT",
+      "OmniSAT",
+      "Reasoning-VLA",
+      "TACO",
+      "VLA-OS",
+      "VLA-Pruner",
+      "Vlaser",
+      "ManiAgent"
+    ]
+  },
+  "University of Shanghai for Science and Technology": {
+    "abbreviation": "USST",
+    "papers": [
+      "Control Your Robot"
+    ]
+  },
+  "University of Southern California": {
+    "abbreviation": "USC",
+    "papers": [
+      "Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations"
+    ]
+  },
+  "University of Sydney": {
+    "abbreviation": "USYD",
+    "papers": [
+      "PosA-VLA",
+      "VLA-Cache"
+    ]
+  },
+  "University of Technology Nuremberg": {
+    "abbreviation": "UTN",
+    "papers": [
+      "HULC",
+      "HULC++",
+      "RPD"
+    ]
+  },
+  "University of Technology Sydney": {
+    "abbreviation": "UTS",
+    "papers": [
+      "ActDistill"
+    ]
+  },
+  "University of Texas at Austin": {
+    "abbreviation": "UT Austin",
+    "papers": [
+      "DEAS",
+      "Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving"
+    ]
+  },
+  "University of Texas at Dallas": {
+    "abbreviation": "UT Dallas",
+    "papers": [
+      "ANNIE"
+    ]
+  },
+  "University of Toronto": {
+    "abbreviation": "UofT",
+    "papers": [
+      "KV-Efficient VLA"
+    ]
+  },
+  "University of Tübingen": {
+    "abbreviation": "EKUT",
+    "papers": [
+      "LCDrive"
+    ]
+  },
+  "University of Utah": {
+    "abbreviation": "U of U",
+    "papers": [
+      "Language costs",
+      "RT-RAS",
+      "SEAL"
+    ]
+  },
+  "University of Virginia": {
+    "abbreviation": "UVA",
+    "papers": [
+      "Receive, Reason, and React"
+    ]
+  },
+  "University of Warsaw": {
+    "abbreviation": "UWarsaw",
+    "papers": [
+      "ECoT"
+    ]
+  },
+  "University of Washington": {
+    "abbreviation": "UW",
+    "papers": [
+      "CLIPort",
+      "FailSafe",
+      "LAPA",
+      "Language costs",
+      "PerAct",
+      "RoboPoint",
+      "Text2Motion",
+      "Unified-IO 2"
+    ]
+  },
+  "University of Wisconsin-Madison": {
+    "abbreviation": "UW–Madison",
+    "papers": [
+      "LLaRA"
+    ]
+  },
+  "University of pennsylvania": {
+    "abbreviation": "UPenn",
+    "papers": [
+      "Avi"
+    ]
+  },
+  "Universit´e de Montr´eal": {
+    "abbreviation": "UdeM",
+    "papers": [
+      "VLAPS"
+    ]
+  },
+  "VinUniversity": {
+    "abbreviation": "VinUni",
+    "papers": [
+      "MAP-VLA"
+    ]
+  },
+  "Virginia Tech": {
+    "abbreviation": "VT",
+    "papers": [
+      "CLAW",
+      "SeqVLA"
+    ]
+  },
+  "Voyager Research, Didi Chuxing": {
+    "abbreviation": "Didi Chuxing",
+    "papers": [
+      "ColaVLA"
+    ]
+  },
+  "Waseda University": {
+    "abbreviation": "Waseda",
+    "papers": [
+      "RoboMatrix"
+    ]
+  },
+  "Wechat AI, Tencent Inc.": {
+    "abbreviation": "Tencent",
+    "papers": [
+      "DeepThinkVLA"
+    ]
+  },
+  "Wenzhou Medical University": {
+    "abbreviation": "WMU",
+    "papers": [
+      "SurgWorld"
+    ]
+  },
+  "Westlake Robotics": {
+    "abbreviation": "Westlake Robotics",
+    "papers": [
+      "HiF-VLA"
+    ]
+  },
+  "Westlake University": {
+    "abbreviation": "Westlake Univ.",
+    "papers": [
+      "GEVRM",
+      "GeRM",
+      "HiF-VLA",
+      "QUAR-VLA",
+      "Spatial Forcing",
+      "TrajBooster",
+      "UD-VLA",
+      "UnderwaterVLA",
+      "VLA-Adapter",
+      "VLA-RFT",
+      "When Alignment Fails"
+    ]
+  },
+  "Wuhan University": {
+    "abbreviation": "WHU",
+    "papers": [
+      "Discover Learn and Reinforce",
+      "MotionTrans",
+      "Video2Act"
+    ]
+  },
+  "X-Era AI Lab": {
+    "abbreviation": "X-Era",
+    "papers": [
+      "Epsilon0",
+      "FTM, FLA",
+      "MoRE",
+      "RoVer",
+      "TVVE"
+    ]
+  },
+  "X-Humanoid": {
+    "abbreviation": "X-Humanoid",
+    "papers": [
+      "SwiftVLA"
+    ]
+  },
+  "XPeng Motors": {
+    "abbreviation": "XPeng",
+    "papers": [
+      "FastDriveVLA"
+    ]
+  },
+  "Xi'an Jiaotong University": {
+    "abbreviation": "XJTU",
+    "papers": [
+      "VLAS"
+    ]
+  },
+  "Xiamen University Malaysia": {
+    "abbreviation": "XMU",
+    "papers": [
+      "StereoVLA"
+    ]
+  },
+  "Xiaomi EV": {
+    "abbreviation": "Xiaomi",
+    "papers": [
+      "FPC-VLA",
+      "MindDrive"
+    ]
+  },
+  "Xiaomi Robotics": {
+    "abbreviation": "Xiaomi",
+    "papers": [
+      "TacRefineNet"
+    ]
+  },
+  "Xidian University": {
+    "abbreviation": "XDU",
+    "papers": [
+      "When Alignment Fails"
+    ]
+  },
+  "Xi’an Jiaotong University": {
+    "abbreviation": "XJTU",
+    "papers": [
+      "EfficientVLA",
+      "ForceVLA",
+      "HiMoE-VLA",
+      "OccVLA",
+      "VideoVLA"
+    ]
+  },
+  "Xi’an Jiaotong University.": {
+    "abbreviation": "XJTU",
+    "papers": [
+      "SSM-VLA"
+    ]
+  },
+  "Yale University": {
+    "abbreviation": "Yale",
+    "papers": [
+      "INSIGHT"
+    ]
+  },
+  "Yinwang Intelligent Technology Co. Ltd.": {
+    "abbreviation": "Yinwang",
+    "papers": [
+      "DriveVLA-W0"
+    ]
+  },
+  "Yinwang Intelligent Technology Co., Ltd.": {
+    "abbreviation": "Yinwang",
+    "papers": [
+      "WAM-Flow"
+    ]
+  },
+  "Yuandao AI": {
+    "abbreviation": "Yuandao",
+    "papers": [
+      "A3VLM"
+    ]
+  },
+  "Zhejiang University": {
+    "abbreviation": "ZJU",
+    "papers": [
+      "A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter",
+      "AsyncVLA",
+      "BayesVLA",
+      "GEVRM",
+      "HiF-VLA",
+      "Humanoid-VLA",
+      "InstructVLA",
+      "Long-VLA",
+      "MM-ACT",
+      "OC-VLA",
+      "QUAR-VLA",
+      "QUART-Online",
+      "RynnVLA-002",
+      "Spatial Forcing",
+      "TrajBooster",
+      "UD-VLA",
+      "UnderwaterVLA",
+      "VER",
+      "VLA-AN",
+      "VLA-Adapter",
+      "VLA-RFT",
+      "Vlaser",
+      "WorldVLA"
+    ]
+  },
+  "Zhengzhou University": {
+    "abbreviation": "ZZU",
+    "papers": [
+      "VLA-RFT"
+    ]
+  },
+  "ZhiCheng AI": {
+    "abbreviation": "ZhiCheng",
+    "papers": [
+      "EBT-Policy"
+    ]
+  },
+  "Zhongguancun Academy": {
+    "abbreviation": "ZGCA",
+    "papers": [
+      "PhysBrain",
+      "Spec-VLA",
+      "π_RL"
+    ]
+  },
+  "Zhongguancun Institute of Artificial Intelligence": {
+    "abbreviation": "ZGCI",
+    "papers": [
+      "PhysBrain"
+    ]
+  },
+  "dblab": {
+    "abbreviation": "dblab",
+    "papers": [
+      "Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting"
+    ]
+  },
+  "iFlyTek Reasearch and Development Group": {
+    "abbreviation": "iFlyTek",
+    "papers": [
+      "iFlyBot-VLA"
+    ]
+  },
+  "mimic robotics": {
+    "abbreviation": "mimic",
+    "papers": [
+      "mimic-video"
+    ]
+  },
+  "valeo.ai": {
+    "abbreviation": "valeo",
+    "papers": [
+      "SmolVLA"
+    ]
+  },
+  "École Normale Supérieure Paris-Saclay": {
+    "abbreviation": "ENS",
+    "papers": [
+      "SmolVLA"
+    ]
+  },
+  "École normale supérieure": {
+    "abbreviation": "ENS",
+    "papers": [
+      "Hiveformer"
+    ]
+  }
+}
