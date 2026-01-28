@@ -100,6 +100,8 @@ The raw data for these visualizations are available in the `data` folder:
 
 ### VLA Development Platforms
 
+*   **LeRobot**  
+    https://github.com/huggingface/lerobot
 *   **StarVLA**  
     https://github.com/starVLA/starVLA
 *   **EmbodiChain**  
