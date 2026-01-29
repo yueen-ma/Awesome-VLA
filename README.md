@@ -116,6 +116,8 @@ There are many other lists related to Embodied AI that are actively being update
     https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
 *   **Awesome LLM Robotics**  
     https://github.com/GT-RIPL/Awesome-LLM-Robotics
+*   **Awesome Physical AI**
+    https://github.com/keon/awesome-physical-ai
 *   **Embodied AI Paper List**  
     https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
 *   **Awesome RL VLA**  
