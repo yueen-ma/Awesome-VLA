@@ -899,7 +899,7 @@
       "RT-1"
     ]
   },
-  "Kobe University,": {
+  "Kobe University": {
     "abbreviation": "Kobe Univ.",
     "papers": [
       "Bi-VLA"
@@ -3534,6 +3534,12 @@
     "abbreviation": "ENS",
     "papers": [
       "Hiveformer"
+    ]
+  },
+  "Skolkovo Institute of Science and Technology": {
+    "abbreviation": "Skoltech",
+    "papers": [
+      "Bi-VLA"
     ]
   }
 }

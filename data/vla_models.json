@@ -5059,7 +5059,7 @@
       "ee": "https://doi.org/10.1109/ICRA57147.2024.10611477",
       "url": "https://dblp.org/rec/conf/icra/ONeillRMGPLPGMJ24"
     },
-    "citations": 105,
+    "citations": 903,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/[ICRA24] (RT-X) Open X-Embodiment - Robotic Learning Datasets and RT-X Models.pdf",
     "raw": "[ICRA24] (RT-X) Open X-Embodiment - Robotic Learning Datasets and RT-X Models.pdf",
     "needs_llm_title": true
@@ -5392,13 +5392,15 @@
       "ee": "https://doi.org/10.48550/arXiv.2410.24164",
       "url": "https://dblp.org/rec/journals/corr/abs-2410-24164"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/[RSS25] π0 - A Vision-Language-Action Flow Model for General Robot Control.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/[RSS25] (pi0) π0 - A Vision-Language-Action Flow Model for General Robot Control.pdf",
     "citations": 963,
     "local_venue_name": "RSS",
     "local_venue_year": 2025,
     "venue": "RSS25",
     "venue_name": "RSS",
-    "venue_year": 2025
+    "venue_year": 2025,
+    "raw": "[RSS25] (pi0) π0 - A Vision-Language-Action Flow Model for General Robot Control.pdf",
+    "needs_llm_title": true
   },
   {
     "model": "π0.5",
@@ -5716,13 +5718,15 @@
       "ee": "https://doi.org/10.48550/arXiv.2504.16054",
       "url": "https://dblp.org/rec/journals/corr/abs-2504-16054"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/[CoRL25] π0.5 - a Vision-Language-Action Model with Open-World Generalization.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/[CoRL25] (pi0.5) π0.5 - a Vision-Language-Action Model with Open-World Generalization.pdf",
     "citations": 19,
     "local_venue_name": "CoRL",
     "local_venue_year": 2025,
     "venue": "CoRL25",
     "venue_name": "CoRL",
-    "venue_year": 2025
+    "venue_year": 2025,
+    "raw": "[CoRL25] (pi0.5) π0.5 - a Vision-Language-Action Model with Open-World Generalization.pdf",
+    "needs_llm_title": true
   },
   {
     "model": "RoboMamba",
@@ -6492,7 +6496,7 @@
       "ee": "https://doi.org/10.48550/arXiv.2506.21539",
       "url": "https://dblp.org/rec/journals/corr/abs-2506-21539"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/Quantization:VAR/[ArXiv25] WorldVLA - Towards Autoregressive Action World Model.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/Quantization:VAR/[ArXiv25] WorldVLA - Towards Autoregressive Action World Model.pdf",
     "citations": 65
   },
   {
@@ -6518,91 +6522,53 @@
       "Xinlong Wang",
       "Zhaoxiang Zhang"
     ],
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/Quantization:VAR/[ArXiv25] (UniVLA) Unified Vision-Language-Action Model.pdf",
+    "citations": 0,
     "dblp_info": {
       "authors": {
         "author": [
           {
-            "@pid": "317/0111",
-            "text": "Shichao Fan"
+            "text": "Yuqi Wang"
           },
           {
-            "@pid": "60/1724-1",
-            "text": "Kun Wu 0001"
+            "text": "Xinghang Li"
           },
           {
-            "@pid": "160/5944",
-            "text": "Zhengping Che"
+            "text": "Wenxuan Wang"
           },
           {
-            "@pid": "77/4670",
-            "text": "Xinhua Wang"
+            "text": "Junbo Zhang"
           },
           {
-            "@pid": "52/328",
-            "text": "Di Wu"
+            "text": "Yingyan Li"
           },
           {
-            "@pid": "133/3438",
-            "text": "Fei Liao"
+            "text": "Yuntao Chen"
           },
           {
-            "@pid": "83/622-7",
-            "text": "Ning Liu 0007"
+            "text": "Xinlong Wang"
           },
           {
-            "@pid": "361/4088",
-            "text": "Yixue Zhang"
-          },
-          {
-            "@pid": "29/1773",
-            "text": "Zhen Zhao"
-          },
-          {
-            "@pid": "42/2832",
-            "text": "Zhiyuan Xu"
-          },
-          {
-            "@pid": "70/1726",
-            "text": "Meng Li"
-          },
-          {
-            "@pid": "72/10584",
-            "text": "Qingjie Liu 0001"
-          },
-          {
-            "@pid": "95/11531",
-            "text": "Shanghang Zhang"
-          },
-          {
-            "@pid": "07/5005",
-            "text": "Min Wan"
-          },
-          {
-            "@pid": "181/2667-8",
-            "text": "Jian Tang 0008"
+            "text": "Zhaoxiang Zhang"
           }
         ]
       },
-      "title": "XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations",
+      "title": "Unified Vision-Language-Action Model",
       "venue": "CoRR",
-      "volume": "abs/2511.02776",
+      "volume": "abs/2506.19850",
       "year": "2025",
       "type": "Informal and Other Publications",
       "access": "open",
-      "key": "journals/corr/abs-2511-02776",
-      "doi": "10.48550/ARXIV.2511.02776",
-      "ee": "https://doi.org/10.48550/arXiv.2511.02776",
-      "url": "https://dblp.org/rec/journals/corr/abs-2511-02776"
-    },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/Quantization:VAR/[ArXiv25] (UniVLA) Unified Vision-Language-Action Model.pdf",
-    "citations": 0
+      "key": "journals/corr/abs-2506-19850",
+      "url": "https://dblp.org/rec/journals/corr/abs-2506-19850"
+    }
   },
   {
     "model": "Instruct2Act",
     "title": "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model",
     "year": 2023,
     "month": 5,
-    "type": "Large",
+    "type": "Generalized",
     "institutes": [
       "Shanghai Jiao Tong University",
       "Shanghai AI Laboratory",
@@ -7074,7 +7040,63 @@
     ],
     "dblp_not_found": true,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] HiMoE-VLA - Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies.pdf",
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "231/1912",
+            "text": "Zhiying Du"
+          },
+          {
+            "@pid": "39/3711",
+            "text": "Bei Liu"
+          },
+          {
+            "@pid": "245/8600",
+            "text": "Yaobo Liang"
+          },
+          {
+            "@pid": "147/2187-1",
+            "text": "Yichao Shen 0001"
+          },
+          {
+            "@pid": "13/1609",
+            "text": "Haidong Cao"
+          },
+          {
+            "@pid": "255/6981",
+            "text": "Xiangyu Zheng"
+          },
+          {
+            "@pid": "276/5038",
+            "text": "Zhiyuan Feng"
+          },
+          {
+            "@pid": "150/8447",
+            "text": "Zuxuan Wu"
+          },
+          {
+            "@pid": "121/6218",
+            "text": "Jiaolong Yang"
+          },
+          {
+            "@pid": "24/5818",
+            "text": "Yu-Gang Jiang 0001"
+          }
+        ]
+      },
+      "title": "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies",
+      "venue": "CoRR",
+      "volume": "abs/2512.05693",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-05693",
+      "doi": "10.48550/ARXIV.2512.05693",
+      "ee": "https://doi.org/10.48550/arXiv.2512.05693",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-05693"
+    }
   },
   {
     "model": "Mobility VLA",
@@ -8053,7 +8075,7 @@
       "ee": "https://doi.org/10.1109/CVPR52733.2024.02497",
       "url": "https://dblp.org/rec/conf/cvpr/LuCL0KMHK24"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/Quantization:VAR/Unified-IO 2 - Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/Quantization:VAR/Unified-IO 2 - Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.pdf",
     "raw": "Unified-IO 2 - Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.pdf",
     "needs_llm_title": true,
     "citations": 290
@@ -8095,7 +8117,107 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/GR-RL - Going Dexterous and Precise for Long-Horizon Robotic Manipulation.pdf",
     "raw": "GR-RL - Going Dexterous and Precise for Long-Horizon Robotic Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 3
+    "citations": 3,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "35/223",
+            "text": "Yunfei Li"
+          },
+          {
+            "@pid": "35/573",
+            "text": "Xiao Ma"
+          },
+          {
+            "@pid": "175/5124",
+            "text": "Jiafeng Xu"
+          },
+          {
+            "@pid": "08/2437",
+            "text": "Yu Cui"
+          },
+          {
+            "@pid": "412/6426",
+            "text": "Zhongren Cui"
+          },
+          {
+            "@pid": "17/8498",
+            "text": "Zhigang Han"
+          },
+          {
+            "@pid": "72/4826",
+            "text": "Liqun Huang"
+          },
+          {
+            "@pid": "01/2492",
+            "text": "Tao Kong"
+          },
+          {
+            "@pid": "207/8558",
+            "text": "Yuxiao Liu"
+          },
+          {
+            "@pid": "06/10116",
+            "text": "Hao Niu"
+          },
+          {
+            "@pid": "48/8196",
+            "text": "Wanli Peng"
+          },
+          {
+            "@pid": "417/8479",
+            "text": "Jingchao Qiao"
+          },
+          {
+            "@pid": "162/4021",
+            "text": "Zeyu Ren"
+          },
+          {
+            "@pid": "331/5873",
+            "text": "Haixin Shi"
+          },
+          {
+            "@pid": "236/8736",
+            "text": "Zhi Su"
+          },
+          {
+            "@pid": "221/3756",
+            "text": "Jiawen Tian"
+          },
+          {
+            "@pid": "262/3562",
+            "text": "Yuyang Xiao"
+          },
+          {
+            "@pid": "272/8777-1",
+            "text": "Shenyu Zhang 0001"
+          },
+          {
+            "@pid": "04/4077",
+            "text": "Liwei Zheng"
+          },
+          {
+            "@pid": "83/5560",
+            "text": "Hang Li"
+          },
+          {
+            "@pid": "26/2189",
+            "text": "Yonghui Wu"
+          }
+        ]
+      },
+      "title": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.01801",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-01801",
+      "doi": "10.48550/ARXIV.2512.01801",
+      "ee": "https://doi.org/10.48550/arXiv.2512.01801",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-01801"
+    }
   },
   {
     "model": "Epsilon0",
@@ -8183,7 +8305,7 @@
           }
         ]
       },
-      "title": "ℰ0: Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion.",
+      "title": "ℰ0: Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion",
       "venue": "CoRR",
       "volume": "abs/2511.21542",
       "year": "2025",
@@ -8796,8 +8918,8 @@
       "ee": "https://doi.org/10.48550/arXiv.2510.03342",
       "url": "https://dblp.org/rec/journals/corr/abs-2510-03342"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/Gemini Robotics 1.5 - Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer.pdf",
-    "raw": "Gemini Robotics 1.5 - Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/(GR 1.5) Gemini Robotics 1.5 - Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer.pdf",
+    "raw": "(GR 1.5) Gemini Robotics 1.5 - Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer.pdf",
     "needs_llm_title": true,
     "citations": 15
   },
@@ -8831,7 +8953,55 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/[NIPS25] VideoVLA - Video Generators Can Be Generalizable Robot Manipulators.pdf",
     "raw": "[NIPS25] VideoVLA - Video Generators Can Be Generalizable Robot Manipulators.pdf",
     "needs_llm_title": true,
-    "citations": 1
+    "citations": 1,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "147/2187-1",
+            "text": "Yichao Shen 0001"
+          },
+          {
+            "@pid": "161/2636",
+            "text": "Fangyun Wei"
+          },
+          {
+            "@pid": "231/1912",
+            "text": "Zhiying Du"
+          },
+          {
+            "@pid": "245/8600",
+            "text": "Yaobo Liang"
+          },
+          {
+            "@pid": "15/4830-1",
+            "text": "Yan Lu 0001"
+          },
+          {
+            "@pid": "121/6218",
+            "text": "Jiaolong Yang"
+          },
+          {
+            "@pid": "07/256-1",
+            "text": "Nanning Zheng 0001"
+          },
+          {
+            "@pid": "44/3946",
+            "text": "Baining Guo"
+          }
+        ]
+      },
+      "title": "VideoVLA: Video Generators Can Be Generalizable Robot Manipulators",
+      "venue": "CoRR",
+      "volume": "abs/2512.06963",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-06963",
+      "doi": "10.48550/ARXIV.2512.06963",
+      "ee": "https://doi.org/10.48550/arXiv.2512.06963",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-06963"
+    }
   },
   {
     "model": "GLaD",
@@ -8858,7 +9028,55 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] GLaD - Geometric Latent Distillation for Vision-Language-Action Models.pdf",
     "raw": "[ArXiv25] GLaD - Geometric Latent Distillation for Vision-Language-Action Models.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "145/0008",
+            "text": "Minghao Guo"
+          },
+          {
+            "@pid": "67/833-2",
+            "text": "Meng Cao 0002"
+          },
+          {
+            "@pid": "365/9222",
+            "text": "Jiachen Tao"
+          },
+          {
+            "@pid": "93/4025",
+            "text": "Rongtao Xu"
+          },
+          {
+            "@pid": "13/3953-2",
+            "text": "Yan Yan 0002"
+          },
+          {
+            "@pid": "136/0900",
+            "text": "Xiaodan Liang"
+          },
+          {
+            "@pid": "41/1854",
+            "text": "Ivan Laptev"
+          },
+          {
+            "@pid": "116/8412",
+            "text": "Xiaojun Chang"
+          }
+        ]
+      },
+      "title": "GLaD: Geometric Latent Distillation for Vision-Language-Action Models",
+      "venue": "CoRR",
+      "volume": "abs/2512.09619",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-09619",
+      "doi": "10.48550/ARXIV.2512.09619",
+      "ee": "https://doi.org/10.48550/arXiv.2512.09619",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-09619"
+    }
   },
   {
     "model": "RoboVLMs",
@@ -8942,8 +9160,8 @@
       "ee": "https://doi.org/10.48550/arXiv.2412.14058",
       "url": "https://dblp.org/rec/journals/corr/abs-2412-14058"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/![ArXiv24] (RoboVLMs) Towards Generalist Robot Policies - What Matters in Building Vision-Language-Action Models.pdf",
-    "raw": "![ArXiv24] (RoboVLMs) Towards Generalist Robot Policies - What Matters in Building Vision-Language-Action Models.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/[ArXiv24] (RoboVLMs) Towards Generalist Robot Policies - What Matters in Building Vision-Language-Action Models.pdf",
+    "raw": "[ArXiv24] (RoboVLMs) Towards Generalist Robot Policies - What Matters in Building Vision-Language-Action Models.pdf",
     "needs_llm_title": true,
     "citations": 87
   },
@@ -9307,8 +9525,8 @@
   {
     "model": "GEN-0",
     "title": "Gen-0: Embodied foundation models that scale with physical interaction",
-    "year": "NA",
-    "month": null,
+    "year": 2025,
+    "month": 11,
     "type": "Large",
     "institutes": [
       "Generalist AI"
@@ -9422,7 +9640,7 @@
       "ee": "https://doi.org/10.48550/arXiv.2508.05635",
       "url": "https://dblp.org/rec/journals/corr/abs-2508-05635"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/Genie Envisioner - A Unified World Foundation Platform for Robotic Manipulation.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/Genie Envisioner - A Unified World Foundation Platform for Robotic Manipulation.pdf",
     "raw": "Genie Envisioner - A Unified World Foundation Platform for Robotic Manipulation.pdf",
     "needs_llm_title": true,
     "citations": 26
@@ -9938,7 +10156,43 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/(FTM, FLA) VLA Models Are More Generalizable Than You Think - Revisiting Physical and Spatial Modeling.pdf",
     "raw": "(FTM, FLA) VLA Models Are More Generalizable Than You Think - Revisiting Physical and Spatial Modeling.pdf",
     "needs_llm_title": true,
-    "citations": 1
+    "citations": 1,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "28/1153",
+            "text": "Weiqi Li"
+          },
+          {
+            "@pid": "424/4774",
+            "text": "Quande Zhang"
+          },
+          {
+            "@pid": "263/1087",
+            "text": "Ruifeng Zhai"
+          },
+          {
+            "@pid": "84/7019",
+            "text": "Liang Lin"
+          },
+          {
+            "@pid": "165/1374",
+            "text": "Guangrun Wang"
+          }
+        ]
+      },
+      "title": "VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling",
+      "venue": "CoRR",
+      "volume": "abs/2512.02902",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-02902",
+      "doi": "10.48550/ARXIV.2512.02902",
+      "ee": "https://doi.org/10.48550/arXiv.2512.02902",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-02902"
+    }
   },
   {
     "model": "TriVLA",
@@ -10137,13 +10391,16 @@
   {
     "model": "Helix",
     "title": "Helix: A vision-language-action model for generalist humanoid control",
-    "year": "NA",
-    "month": null,
+    "year": 2025,
+    "month": 2,
     "type": "Large",
-    "institutes": [],
+    "institutes": 
+    [
+      "FIGURE"
+    ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/Helix - A Vision-Language-Action Model for Generalist Humanoid Control.pdf",
     "authors": [
-      "AI Figure"
+      "FIGURE"
     ],
     "dblp_not_found": true,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/Helix - A Vision-Language-Action Model for Generalist Humanoid Control.pdf",
@@ -10181,7 +10438,75 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/(ViVLA) See Once, Then Act - Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations.pdf",
     "raw": "(ViVLA) See Once, Then Act - Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "309/5775",
+            "text": "Guangyan Chen"
+          },
+          {
+            "@pid": "17/1320-2",
+            "text": "Meiling Wang 0002"
+          },
+          {
+            "@pid": "30/8347",
+            "text": "Qi Shao"
+          },
+          {
+            "@pid": "256/4635",
+            "text": "Zichen Zhou"
+          },
+          {
+            "@pid": "324/2033",
+            "text": "Weixin Mao"
+          },
+          {
+            "@pid": "362/9470",
+            "text": "Te Cui"
+          },
+          {
+            "@pid": "267/1723",
+            "text": "Minzhao Zhu"
+          },
+          {
+            "@pid": "274/4123",
+            "text": "Yinan Deng"
+          },
+          {
+            "@pid": "375/2972",
+            "text": "Luojie Yang"
+          },
+          {
+            "@pid": "272/0961",
+            "text": "Zhanqi Zhang"
+          },
+          {
+            "@pid": "33/4854-9",
+            "text": "Yi Yang 0009"
+          },
+          {
+            "@pid": "44/2144",
+            "text": "Hua Chen"
+          },
+          {
+            "@pid": "194/9143",
+            "text": "Yufeng Yue"
+          }
+        ]
+      },
+      "title": "See Once, Then Act: Vision-Language-Action Model with Task Learning from One-Shot Video Demonstrations",
+      "venue": "CoRR",
+      "volume": "abs/2512.07582",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-07582",
+      "doi": "10.48550/ARXIV.2512.07582",
+      "ee": "https://doi.org/10.48550/arXiv.2512.07582",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-07582"
+    }
   },
   {
     "model": "Bridging Language Vision and Action",
@@ -10345,7 +10670,7 @@
           }
         ]
       },
-      "title": "MM-ACT: Learn from Multimodal Parallel Generation to Act.",
+      "title": "MM-ACT: Learn from Multimodal Parallel Generation to Act",
       "venue": "CoRR",
       "volume": "abs/2512.00975",
       "year": "2025",
@@ -11336,8 +11661,8 @@
   {
     "model": "Fast-in-Slow",
     "title": "Fast-in-Slow: A Dual-System VLA Model Unifying Fast Manipulation within Slow Reasoning",
-    "year": "NA",
-    "month": null,
+    "year": 2025,
+    "month": 6,
     "type": "Large",
     "institutes": [
       "The Chinese University of Hong Kong",
@@ -13105,7 +13430,7 @@
       "ee": "https://doi.org/10.48550/arXiv.2511.17502",
       "url": "https://dblp.org/rec/journals/corr/abs-2511-17502"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/World-Model/RynnVLA-002 - A Unified Vision-Language-Action and World Model.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/RynnVLA-002 - A Unified Vision-Language-Action and World Model.pdf",
     "raw": "RynnVLA-002 - A Unified Vision-Language-Action and World Model.pdf",
     "needs_llm_title": true,
     "citations": 0
@@ -13142,10 +13467,90 @@
       "Jun Zhu"
     ],
     "dblp_not_found": true,
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/World-Model/Motus - A Unified Latent Action World Model.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/Motus - A Unified Latent Action World Model.pdf",
     "raw": "Motus - A Unified Latent Action World Model.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "345/6516",
+            "text": "Hongzhe Bi"
+          },
+          {
+            "@pid": "378/5382",
+            "text": "Hengkai Tan"
+          },
+          {
+            "@pid": "344/1787-2",
+            "text": "Shenghao Xie 0002"
+          },
+          {
+            "@pid": "12/7943",
+            "text": "Zeyuan Wang"
+          },
+          {
+            "@pid": "413/3021",
+            "text": "Shuhe Huang"
+          },
+          {
+            "@pid": "257/2799",
+            "text": "Haitian Liu"
+          },
+          {
+            "@pid": "341/1290",
+            "text": "Ruowen Zhao"
+          },
+          {
+            "@pid": "05/9861-2",
+            "text": "Yao Feng 0002"
+          },
+          {
+            "@pid": "344/2858",
+            "text": "Chendong Xiang"
+          },
+          {
+            "@pid": "409/1499",
+            "text": "Yinze Rong"
+          },
+          {
+            "@pid": "60/4661",
+            "text": "Hongyan Zhao"
+          },
+          {
+            "@pid": "52/2192",
+            "text": "Hanyu Liu"
+          },
+          {
+            "@pid": "159/1967",
+            "text": "Zhizhong Su"
+          },
+          {
+            "@pid": "20/6534-8",
+            "text": "Lei Ma 0008"
+          },
+          {
+            "@pid": "26/5371-6",
+            "text": "Hang Su 0006"
+          },
+          {
+            "@pid": "50/2644-1",
+            "text": "Jun Zhu 0001"
+          }
+        ]
+      },
+      "title": "Motus: A Unified Latent Action World Model",
+      "venue": "CoRR",
+      "volume": "abs/2512.13030",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-13030",
+      "doi": "10.48550/ARXIV.2512.13030",
+      "ee": "https://doi.org/10.48550/arXiv.2512.13030",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-13030"
+    }
   },
   {
     "model": "NORA-1.5",
@@ -13221,7 +13626,7 @@
       "ee": "https://doi.org/10.48550/arXiv.2511.14659",
       "url": "https://dblp.org/rec/journals/corr/abs-2511-14659"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/World-Model/NORA-1.5 - A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/NORA-1.5 - A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards.pdf",
     "raw": "NORA-1.5 - A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards.pdf",
     "needs_llm_title": true,
     "citations": 3
@@ -13319,7 +13724,7 @@
       "ee": "https://doi.org/10.48550/arXiv.2509.15212",
       "url": "https://dblp.org/rec/journals/corr/abs-2509-15212"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/World-Model/RynnVLA-001 - Using Human Demonstrations to Improve Robot Manipulation.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+World-Model/RynnVLA-001 - Using Human Demonstrations to Improve Robot Manipulation.pdf",
     "raw": "RynnVLA-001 - Using Human Demonstrations to Improve Robot Manipulation.pdf",
     "needs_llm_title": true,
     "citations": 9
@@ -13578,7 +13983,7 @@
       "ee": "https://doi.org/10.1109/ICRA55743.2025.11127299",
       "url": "https://dblp.org/rec/conf/icra/GuoZCJWHC25"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/VLA+RL/(iRe-VLA) Improving Vision-Language-Action Model with Online Reinforcement Learning.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+RL/(iRe-VLA) Improving Vision-Language-Action Model with Online Reinforcement Learning.pdf",
     "raw": "(iRe-VLA) Improving Vision-Language-Action Model with Online Reinforcement Learning.pdf",
     "needs_llm_title": true,
     "citations": 73
@@ -13651,7 +14056,7 @@
       "ee": "https://doi.org/10.1109/ICRA55743.2025.11128601",
       "url": "https://dblp.org/rec/conf/icra/ZhaoSWTDCG25"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/VLA+RL/[ICRA25] MoRE - Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+RL/[ICRA25] MoRE - Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models.pdf",
     "raw": "[ICRA25] MoRE - Unlocking Scalability in Reinforcement Learning for Quadruped Vision-Language-Action Models.pdf",
     "needs_llm_title": true,
     "citations": 12
@@ -13793,8 +14198,8 @@
       "ee": "https://doi.org/10.48550/arXiv.2510.25889",
       "url": "https://dblp.org/rec/journals/corr/abs-2510-25889"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/VLA+RL/π_RL - Online RL Fine-tuning for Flow-based Vision-Language-Action Models.pdf",
-    "raw": "π_RL - Online RL Fine-tuning for Flow-based Vision-Language-Action Models.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+RL/(pi_RL) π_RL - Online RL Fine-tuning for Flow-based Vision-Language-Action Models.pdf",
+    "raw": "(pi_RL) π_RL - Online RL Fine-tuning for Flow-based Vision-Language-Action Models.pdf",
     "needs_llm_title": true,
     "citations": 0
   },
@@ -13808,8 +14213,8 @@
       "Physical Intelligence"
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/VLA+RL/π0.6* - a VLA That Learns From Experience.pdf",
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/VLA+RL/π0.6* - a VLA That Learns From Experience.pdf",
-    "raw": "π0.6* - a VLA That Learns From Experience.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/VLA+RL/(pi0.6*) π0.6* - a VLA That Learns From Experience.pdf",
+    "raw": "(pi0.6*) π0.6* - a VLA That Learns From Experience.pdf",
     "needs_llm_title": true,
     "authors": [
       "Physical Intelligence"
@@ -14045,7 +14450,7 @@
           }
         ]
       },
-      "title": "π*0.6: a VLA That Learns From Experience.",
+      "title": "π*0.6: a VLA That Learns From Experience",
       "venue": "CoRR",
       "volume": "abs/2511.14759",
       "year": "2025",
@@ -15473,7 +15878,18 @@
     "venue_name": "CoRL",
     "venue_year": 2025,
     "authors": [
-      "Unknown"
+      "Xiaoqi Li",
+      "Liang Heng",
+      "Jiaming Liu",
+      "Yan Shen",
+      "Chenyang Gu",
+      "Zhuoyang Liu",
+      "Hao Chen",
+      "Nuowei Han",
+      "Renrui Zhang",
+      "Hao Tang",
+      "Shanghang Zhang",
+      "Hao Dong"
     ],
     "dblp_not_found": true,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/CoRL25-Sep/[CoRL25] 3DS-VLA - A 3D Spatial-Aware Vision Language Action Model for Robust Multi-Task Manipulation.pdf",
@@ -15563,7 +15979,39 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] STORM - Search-Guided Generative World Models for Robotic Manipulation.pdf",
     "raw": "[ArXiv25] STORM - Search-Guided Generative World Models for Robotic Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 1
+    "citations": 1,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "31/10834",
+            "text": "Wenjun Lin"
+          },
+          {
+            "@pid": "425/1500",
+            "text": "Jensen Zhang"
+          },
+          {
+            "@pid": "399/7561",
+            "text": "Kaitong Cai"
+          },
+          {
+            "@pid": "135/4889",
+            "text": "Keze Wang"
+          }
+        ]
+      },
+      "title": "STORM: Search-Guided Generative World Models for Robotic Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.18477",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-18477",
+      "doi": "10.48550/ARXIV.2512.18477",
+      "ee": "https://doi.org/10.48550/arXiv.2512.18477",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-18477"
+    }
   },
   {
     "model": "LoLA",
@@ -15591,7 +16039,55 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] LoLA - Long Horizon Latent Action Learning for General Robot Manipulation.pdf",
     "raw": "[ArXiv25] LoLA - Long Horizon Latent Action Learning for General Robot Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "181/2879",
+            "text": "Xiaofan Wang"
+          },
+          {
+            "@pid": "32/4831",
+            "text": "Xingyu Gao"
+          },
+          {
+            "@pid": "83/8692",
+            "text": "Jianlong Fu"
+          },
+          {
+            "@pid": "402/2873",
+            "text": "Zuolei Li"
+          },
+          {
+            "@pid": "424/9260",
+            "text": "Dean Fortier"
+          },
+          {
+            "@pid": "377/8651",
+            "text": "Galen Mullins"
+          },
+          {
+            "@pid": "95/3462",
+            "text": "Andrey Kolobov"
+          },
+          {
+            "@pid": "44/3946",
+            "text": "Baining Guo"
+          }
+        ]
+      },
+      "title": "LoLA: Long Horizon Latent Action Learning for General Robot Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.20166",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-20166",
+      "doi": "10.48550/ARXIV.2512.20166",
+      "ee": "https://doi.org/10.48550/arXiv.2512.20166",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-20166"
+    }
   },
   {
     "model": "StereoVLA",
@@ -15623,7 +16119,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] StereoVLA - Enhancing Vision-Language-Action Models with Stereo Vision.pdf",
     "raw": "[ArXiv25] StereoVLA - Enhancing Vision-Language-Action Models with Stereo Vision.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "83/8615",
+            "text": "Shengliang Deng"
+          },
+          {
+            "@pid": "95/4123",
+            "text": "Mi Yan"
+          },
+          {
+            "@pid": "122/9110",
+            "text": "Yixin Zheng"
+          },
+          {
+            "@pid": "298/2204",
+            "text": "Jiayi Su"
+          },
+          {
+            "@pid": "57/7458",
+            "text": "Wenhao Zhang"
+          },
+          {
+            "@pid": "50/5365",
+            "text": "Xiaoguang Zhao"
+          },
+          {
+            "@pid": "59/5565",
+            "text": "Heming Cui"
+          },
+          {
+            "@pid": "371/3963",
+            "text": "Zhizheng Zhang 0011"
+          },
+          {
+            "@pid": "01/6368-10",
+            "text": "He Wang 0010"
+          }
+        ]
+      },
+      "title": "StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision",
+      "venue": "CoRR",
+      "volume": "abs/2512.21970",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-21970",
+      "doi": "10.48550/ARXIV.2512.21970",
+      "ee": "https://doi.org/10.48550/arXiv.2512.21970",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-21970"
+    }
   },
   {
     "model": "VLA-AN",
@@ -15651,7 +16199,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] VLA-AN - An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments.pdf",
     "raw": "[ArXiv25] VLA-AN - An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "301/9135",
+            "text": "Yuze Wu"
+          },
+          {
+            "@pid": "126/4143",
+            "text": "Mo Zhu"
+          },
+          {
+            "@pid": "146/0297",
+            "text": "Xingxing Li"
+          },
+          {
+            "@pid": "133/5377",
+            "text": "Yuheng Du"
+          },
+          {
+            "@pid": "218/3103",
+            "text": "Yuxin Fan"
+          },
+          {
+            "@pid": "75/5928",
+            "text": "Wenjun Li"
+          },
+          {
+            "@pid": "424/8895",
+            "text": "Zhichao Han"
+          },
+          {
+            "@pid": "05/3403",
+            "text": "Xin Zhou"
+          },
+          {
+            "@pid": "16/722",
+            "text": "Fei Gao"
+          }
+        ]
+      },
+      "title": "VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments",
+      "venue": "CoRR",
+      "volume": "abs/2512.15258",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-15258",
+      "doi": "10.48550/ARXIV.2512.15258",
+      "ee": "https://doi.org/10.48550/arXiv.2512.15258",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-15258"
+    }
   },
   {
     "model": "DualVLA",
@@ -15772,7 +16372,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] PhysBrain - Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence.pdf",
     "raw": "[ArXiv25] PhysBrain - Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "163/5028",
+            "text": "Xiaopeng Lin"
+          },
+          {
+            "@pid": "353/4716",
+            "text": "Shijie Lian"
+          },
+          {
+            "@pid": "27/116",
+            "text": "Bin Yu"
+          },
+          {
+            "@pid": "375/9846",
+            "text": "Ruoqi Yang"
+          },
+          {
+            "@pid": "290/5625",
+            "text": "Changti Wu"
+          },
+          {
+            "@pid": "288/4279",
+            "text": "Yuzhuo Miao"
+          },
+          {
+            "@pid": "401/0611",
+            "text": "Yurun Jin"
+          },
+          {
+            "@pid": "226/2377",
+            "text": "Yukun Shi"
+          },
+          {
+            "@pid": "84/2168",
+            "text": "Cong Huang"
+          },
+          {
+            "@pid": "285/0564",
+            "text": "Bojun Cheng"
+          },
+          {
+            "@pid": "181/2839-30",
+            "text": "Kai Chen 0030"
+          }
+        ]
+      },
+      "title": "PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence",
+      "venue": "CoRR",
+      "volume": "abs/2512.16793",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-16793",
+      "doi": "10.48550/ARXIV.2512.16793",
+      "ee": "https://doi.org/10.48550/arXiv.2512.16793",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-16793"
+    }
   },
   {
     "model": "RoboNurse-VLA",
@@ -15921,12 +16581,16 @@
     "type": "Large",
     "institutes": [
       "Shanghai Jiao Tong University",
-      "Dalian University of Technology",
-      "Institute of Automation, Chinese Academy of Sciences"
+      "Institute of Automation, Chinese Academy of Sciences",
+      "Dalian University of Technology"
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (EyeVLA) Look Zoom Understand - The Robotic Eyeball for Embodied Perception.pdf",
     "authors": [
-      "Unknown"
+      "Jiashu Yang",
+      "Yifan Han",
+      "Yucheng Xie",
+      "Ning Guo",
+      "Wenzhao Lian"
     ],
     "dblp_info": {
       "authors": {
@@ -15997,7 +16661,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] WAM-Flow - Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving.pdf",
     "raw": "[ArXiv25] WAM-Flow - Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "17/11453",
+            "text": "Yifang Xu"
+          },
+          {
+            "@pid": "246/1512-3",
+            "text": "Jiahao Cui 0003"
+          },
+          {
+            "@pid": "190/2621",
+            "text": "Feipeng Cai"
+          },
+          {
+            "@pid": "223/4729",
+            "text": "Zhihao Zhu"
+          },
+          {
+            "@pid": "379/9946",
+            "text": "Hanlin Shang"
+          },
+          {
+            "@pid": "282/8756",
+            "text": "Shan Luan"
+          },
+          {
+            "@pid": "337/1859",
+            "text": "Mingwang Xu"
+          },
+          {
+            "@pid": "128/4245",
+            "text": "Neng Zhang"
+          },
+          {
+            "@pid": "172/0882",
+            "text": "Yaoyi Li"
+          },
+          {
+            "@pid": "66/8082",
+            "text": "Jia Cai"
+          },
+          {
+            "@pid": "81/8842-1",
+            "text": "Siyu Zhu 0001"
+          }
+        ]
+      },
+      "title": "WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving",
+      "venue": "CoRR",
+      "volume": "abs/2512.06112",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-06112",
+      "doi": "10.48550/ARXIV.2512.06112",
+      "ee": "https://doi.org/10.48550/arXiv.2512.06112",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-06112"
+    }
   },
   {
     "model": "OmniVLA",
@@ -16138,7 +16862,55 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Mind to Hand - Purposeful Robotic Control via Embodied Reasoning.pdf",
     "raw": "[ArXiv25] Mind to Hand - Purposeful Robotic Control via Embodied Reasoning.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "278/7462",
+            "text": "Peijun Tang"
+          },
+          {
+            "@pid": "324/6323",
+            "text": "Shangjin Xie"
+          },
+          {
+            "@pid": "424/6044",
+            "text": "Binyan Sun"
+          },
+          {
+            "@pid": "227/6844",
+            "text": "Baifu Huang"
+          },
+          {
+            "@pid": "359/7820",
+            "text": "Kuncheng Luo"
+          },
+          {
+            "@pid": "153/8953",
+            "text": "Haotian Yang"
+          },
+          {
+            "@pid": "97/1795",
+            "text": "Weiqi Jin"
+          },
+          {
+            "@pid": "49/6053",
+            "text": "Jianan Wang"
+          }
+        ]
+      },
+      "title": "Mind to Hand: Purposeful Robotic Control via Embodied Reasoning",
+      "venue": "CoRR",
+      "volume": "abs/2512.08580",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-08580",
+      "doi": "10.48550/ARXIV.2512.08580",
+      "ee": "https://doi.org/10.48550/arXiv.2512.08580",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-08580"
+    }
   },
   {
     "model": "MemER",
@@ -16274,7 +17046,31 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Towards Accessible Physical AI - LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control.pdf",
     "raw": "[ArXiv25] Towards Accessible Physical AI - LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "420/0735",
+            "text": "Abdullah Yahya Abdullah Omaisan"
+          },
+          {
+            "@pid": "357/8359",
+            "text": "Ibrahim Sheikh Mohamed"
+          }
+        ]
+      },
+      "title": "Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control",
+      "venue": "CoRR",
+      "volume": "abs/2512.11921",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-11921",
+      "doi": "10.48550/ARXIV.2512.11921",
+      "ee": "https://doi.org/10.48550/arXiv.2512.11921",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-11921"
+    }
   },
   {
     "model": "Sigma",
@@ -16301,7 +17097,7 @@
           "text": "Libo Wang"
         }
       },
-      "title": "Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment.",
+      "title": "Sigma: The Key for Vision-Language-Action Models toward Telepathic Alignment",
       "venue": "CoRR",
       "volume": "abs/2512.00783",
       "year": "2025",
@@ -16343,7 +17139,63 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Video2Act - A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling.pdf",
     "raw": "[ArXiv25] Video2Act - A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "372/4863",
+            "text": "Yueru Jia"
+          },
+          {
+            "@pid": "325/5391-3",
+            "text": "Jiaming Liu 0003"
+          },
+          {
+            "@pid": "421/1295",
+            "text": "Shengbang Liu"
+          },
+          {
+            "@pid": "133/0537",
+            "text": "Rui Zhou"
+          },
+          {
+            "@pid": "424/7051",
+            "text": "Wanhe Yu"
+          },
+          {
+            "@pid": "348/1622",
+            "text": "Yuyang Yan"
+          },
+          {
+            "@pid": "293/7984",
+            "text": "Xiaowei Chi"
+          },
+          {
+            "@pid": "28/4272",
+            "text": "Yandong Guo"
+          },
+          {
+            "@pid": "69/783",
+            "text": "Boxin Shi"
+          },
+          {
+            "@pid": "95/11531",
+            "text": "Shanghang Zhang"
+          }
+        ]
+      },
+      "title": "Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling",
+      "venue": "CoRR",
+      "volume": "abs/2512.03044",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-03044",
+      "doi": "10.48550/ARXIV.2512.03044",
+      "ee": "https://doi.org/10.48550/arXiv.2512.03044",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-03044"
+    }
   },
   {
     "model": "ReflectDrive",
@@ -16697,31 +17549,6 @@
     "citations": 2
   },
   {
-    "model": "mimic-video",
-    "title": "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs",
-    "year": 2025,
-    "month": 12,
-    "type": "Large",
-    "institutes": [
-      "mimic robotics",
-      "Microsoft Zurich",
-      "ETH Zurich",
-      "ETH AI Center",
-      "UC Berkeley"
-    ],
-    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (VAM) mimic-video - Video-Action Models for Generalizable Robot Control Beyond VLAs.pdf",
-    "authors": [
-      "Jonas Pai",
-      "Liam Achenbach",
-      "Victoriano Montesinos",
-      "Benedek Forrai",
-      "Oier Mees",
-      "Elvis Nava"
-    ],
-    "dblp_not_found": true,
-    "citations": 1
-  },
-  {
     "model": "Diagnose Correct and Learn from Manipulation Failures via Visual Symbols",
     "title": "Diagnose Correct and Learn from Manipulation Failures via Visual Symbols",
     "year": 2025,
@@ -16735,13 +17562,68 @@
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Diagnose Correct and Learn from Manipulation Failures via Visual Symbols.pdf",
     "authors": [
-      "Unknown"
+      "Xianchao Zeng",
+      "Xinyu Zhou",
+      "Youcheng Li",
+      "Jiayou Shi",
+      "Tianle Li",
+      "Liangming Chen",
+      "Lei Ren",
+      "Yong-Lu Li"
     ],
     "dblp_not_found": true,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Diagnose Correct and Learn from Manipulation Failures via Visual Symbols.pdf",
     "raw": "[ArXiv25] Diagnose Correct and Learn from Manipulation Failures via Visual Symbols.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "368/0296",
+            "text": "Xianchao Zeng"
+          },
+          {
+            "@pid": "27/3481",
+            "text": "Xinyu Zhou"
+          },
+          {
+            "@pid": "83/2677",
+            "text": "Youcheng Li"
+          },
+          {
+            "@pid": "342/4352",
+            "text": "Jiayou Shi"
+          },
+          {
+            "@pid": "242/0053",
+            "text": "Tianle Li"
+          },
+          {
+            "@pid": "211/8250",
+            "text": "Liangming Chen"
+          },
+          {
+            "@pid": "01/1313",
+            "text": "Lei Ren"
+          },
+          {
+            "@pid": "198/9345",
+            "text": "Yong-Lu Li 0001"
+          }
+        ]
+      },
+      "title": "Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols",
+      "venue": "CoRR",
+      "volume": "abs/2512.02787",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-02787",
+      "doi": "10.48550/ARXIV.2512.02787",
+      "ee": "https://doi.org/10.48550/arXiv.2512.02787",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-02787"
+    }
   },
   {
     "model": "RoboNeuron",
@@ -16768,7 +17650,47 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] RoboNeuron - A Modular Framework Linking Foundation Models and ROS for Embodied AI.pdf",
     "raw": "[ArXiv25] RoboNeuron - A Modular Framework Linking Foundation Models and ROS for Embodied AI.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "375/0361",
+            "text": "Weifan Guan"
+          },
+          {
+            "@pid": "424/7154",
+            "text": "Huasen Xi"
+          },
+          {
+            "@pid": "130/5756",
+            "text": "Chenxiao Zhang"
+          },
+          {
+            "@pid": "420/0938",
+            "text": "Aosheng Li"
+          },
+          {
+            "@pid": "169/3407",
+            "text": "Qinghao Hu"
+          },
+          {
+            "@pid": "14/6145",
+            "text": "Jian Cheng"
+          }
+        ]
+      },
+      "title": "RoboNeuron: A Modular Framework Linking Foundation Models and ROS for Embodied AI",
+      "venue": "CoRR",
+      "volume": "abs/2512.10394",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-10394",
+      "doi": "10.48550/ARXIV.2512.10394",
+      "ee": "https://doi.org/10.48550/arXiv.2512.10394",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-10394"
+    }
   },
   {
     "model": "VINE",
@@ -16798,7 +17720,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (VINE) Hierarchical Vision Language Action Model Using Success and Failure Demonstrations.pdf",
     "raw": "[ArXiv25] (VINE) Hierarchical Vision Language Action Model Using Success and Failure Demonstrations.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "207/0240-2",
+            "text": "Jeongeun Park 0002"
+          },
+          {
+            "@pid": "220/1135",
+            "text": "Jihwan Yoon"
+          },
+          {
+            "@pid": "396/6989",
+            "text": "Byungwoo Jeon"
+          },
+          {
+            "@pid": "343/6913",
+            "text": "Juhan Park"
+          },
+          {
+            "@pid": "31/7062",
+            "text": "Jinwoo Shin"
+          },
+          {
+            "@pid": "180/6283",
+            "text": "Namhoon Cho"
+          },
+          {
+            "@pid": "13/7265-1",
+            "text": "Kyungjae Lee 0001"
+          },
+          {
+            "@pid": "124/3009",
+            "text": "Sangdoo Yun"
+          },
+          {
+            "@pid": "81/618",
+            "text": "Sungjoon Choi"
+          }
+        ]
+      },
+      "title": "Hierarchical Vision Language Action Model Using Success and Failure Demonstrations",
+      "venue": "CoRR",
+      "volume": "abs/2512.03913",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-03913",
+      "doi": "10.48550/ARXIV.2512.03913",
+      "ee": "https://doi.org/10.48550/arXiv.2512.03913",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-03913"
+    }
   },
   {
     "model": "SwiftVLA",
@@ -16901,7 +17875,7 @@
           }
         ]
       },
-      "title": "SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead.",
+      "title": "SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead",
       "venue": "CoRR",
       "volume": "abs/2512.00903",
       "year": "2025",
@@ -16966,7 +17940,7 @@
           }
         ]
       },
-      "title": "Transforming Monolithic Foundation Models into Embodied Multi-Agent Architectures for Human-Robot Collaboration.",
+      "title": "Transforming Monolithic Foundation Models into Embodied Multi-Agent Architectures for Human-Robot Collaboration",
       "venue": "CoRR",
       "volume": "abs/2512.00797",
       "year": "2025",
@@ -17117,14 +18091,14 @@
     "citations": 1
   },
   {
-    "model": "Bi-VLA",
+    "model": "Bi-VLA 2025",
     "title": "Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation",
     "year": 2025,
     "month": 9,
     "type": "Large",
     "institutes": [
       "The University of Osaka",
-      "Kobe University,"
+      "Kobe University"
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Bi-VLA - Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation.pdf",
     "authors": [
@@ -17155,8 +18129,8 @@
       "ee": "https://doi.org/10.48550/arXiv.2509.18865",
       "url": "https://dblp.org/rec/journals/corr/abs-2509-18865"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Bi-VLA - Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation.pdf",
-    "raw": "[ArXiv25] Bi-VLA - Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (Bi-VLA 2025) Bi-VLA - Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation.pdf",
+    "raw": "[ArXiv25] (Bi-VLA 2025) Bi-VLA - Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation.pdf",
     "needs_llm_title": true,
     "citations": 0
   },
@@ -17389,7 +18363,63 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] VLASH - Real-Time VLAs via Future-State-Aware Asynchronous Inference.pdf",
     "raw": "[ArXiv25] VLASH - Real-Time VLAs via Future-State-Aware Asynchronous Inference.pdf",
     "needs_llm_title": true,
-    "citations": 2
+    "citations": 2,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "277/8890",
+            "text": "Jiaming Tang"
+          },
+          {
+            "@pid": "60/3914",
+            "text": "Yufei Sun"
+          },
+          {
+            "@pid": "152/7119",
+            "text": "Yilong Zhao"
+          },
+          {
+            "@pid": "79/9960",
+            "text": "Shang Yang"
+          },
+          {
+            "@pid": "121/1067-1",
+            "text": "Yujun Lin 0001"
+          },
+          {
+            "@pid": "336/3416",
+            "text": "Zhuoyang Zhang"
+          },
+          {
+            "@pid": "159/9287",
+            "text": "James Hou"
+          },
+          {
+            "@pid": "26/5662-6",
+            "text": "Yao Lu 0006"
+          },
+          {
+            "@pid": "04/2040",
+            "text": "Zhijian Liu"
+          },
+          {
+            "@pid": "80/806-3",
+            "text": "Song Han 0003"
+          }
+        ]
+      },
+      "title": "VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference",
+      "venue": "CoRR",
+      "volume": "abs/2512.01031",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-01031",
+      "doi": "10.48550/ARXIV.2512.01031",
+      "ee": "https://doi.org/10.48550/arXiv.2512.01031",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-01031"
+    }
   },
   {
     "model": "FlowVLA",
@@ -17839,7 +18869,51 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] STARE-VLA - Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models.pdf",
     "raw": "[ArXiv25] STARE-VLA - Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "03/2611",
+            "text": "Feng Xu"
+          },
+          {
+            "@pid": "243/2753",
+            "text": "Guangyao Zhai"
+          },
+          {
+            "@pid": "126/5666",
+            "text": "Xin Kong"
+          },
+          {
+            "@pid": "231/6851",
+            "text": "Tingzhong Fu"
+          },
+          {
+            "@pid": "227/8213",
+            "text": "Daniel F. N. Gordon"
+          },
+          {
+            "@pid": "66/155",
+            "text": "Xueli An"
+          },
+          {
+            "@pid": "168/5446",
+            "text": "Benjamin Busam"
+          }
+        ]
+      },
+      "title": "STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models",
+      "venue": "CoRR",
+      "volume": "abs/2512.05107",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-05107",
+      "doi": "10.48550/ARXIV.2512.05107",
+      "ee": "https://doi.org/10.48550/arXiv.2512.05107",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-05107"
+    }
   },
   {
     "model": "Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model",
@@ -18380,7 +19454,43 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (RETAIN) Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging.pdf",
     "raw": "[ArXiv25] (RETAIN) Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "415/5013",
+            "text": "Yajat Yadav"
+          },
+          {
+            "@pid": "39/10816",
+            "text": "Zhiyuan Zhou"
+          },
+          {
+            "@pid": "195/1036",
+            "text": "Andrew Wagenmaker"
+          },
+          {
+            "@pid": "211/7137",
+            "text": "Karl Pertsch"
+          },
+          {
+            "@pid": "80/7594",
+            "text": "Sergey Levine"
+          }
+        ]
+      },
+      "title": "Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging",
+      "venue": "CoRR",
+      "volume": "abs/2512.08333",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-08333",
+      "doi": "10.48550/ARXIV.2512.08333",
+      "ee": "https://doi.org/10.48550/arXiv.2512.08333",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-08333"
+    }
   },
   {
     "model": "FreezeVLA",
@@ -18763,7 +19873,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] ActionFlow - A Pipelined Action Acceleration for Vision Language Models on Edge.pdf",
     "raw": "[ArXiv25] ActionFlow - A Pipelined Action Acceleration for Vision Language Models on Edge.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "07/7698",
+            "text": "Yuntao Dai"
+          },
+          {
+            "@pid": "326/7359",
+            "text": "Hang Gu"
+          },
+          {
+            "@pid": "49/9",
+            "text": "Teng Wang"
+          },
+          {
+            "@pid": "295/9597",
+            "text": "Qianyu Cheng"
+          },
+          {
+            "@pid": "140/6117",
+            "text": "Yifei Zheng"
+          },
+          {
+            "@pid": "75/6265",
+            "text": "Zhiyong Qiu"
+          },
+          {
+            "@pid": "01/805",
+            "text": "Lei Gong"
+          },
+          {
+            "@pid": "211/7977",
+            "text": "Wenqi Lou"
+          },
+          {
+            "@pid": "53/2969",
+            "text": "Xuehai Zhou"
+          }
+        ]
+      },
+      "title": "ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge",
+      "venue": "CoRR",
+      "volume": "abs/2512.20276",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-20276",
+      "doi": "10.48550/ARXIV.2512.20276",
+      "ee": "https://doi.org/10.48550/arXiv.2512.20276",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-20276"
+    }
   },
   {
     "model": "RoboOS-NeXT",
@@ -18964,7 +20126,127 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (GR-Dexter) GR-Dexter Technical Report.pdf",
     "raw": "[ArXiv25] (GR-Dexter) GR-Dexter Technical Report.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "248/9800",
+            "text": "Ruoshi Wen"
+          },
+          {
+            "@pid": "216/8301",
+            "text": "Guangzeng Chen"
+          },
+          {
+            "@pid": "412/6426",
+            "text": "Zhongren Cui"
+          },
+          {
+            "@pid": "78/1658",
+            "text": "Min Du"
+          },
+          {
+            "@pid": "353/2585",
+            "text": "Yang Gou"
+          },
+          {
+            "@pid": "17/8498",
+            "text": "Zhigang Han"
+          },
+          {
+            "@pid": "72/4826",
+            "text": "Liqun Huang"
+          },
+          {
+            "@pid": "215/0379",
+            "text": "Mingyu Lei"
+          },
+          {
+            "@pid": "35/223",
+            "text": "Yunfei Li"
+          },
+          {
+            "@pid": "253/9727",
+            "text": "Zhuohang Li"
+          },
+          {
+            "@pid": "182/1036",
+            "text": "Wenlei Liu"
+          },
+          {
+            "@pid": "207/8558",
+            "text": "Yuxiao Liu"
+          },
+          {
+            "@pid": "35/573",
+            "text": "Xiao Ma"
+          },
+          {
+            "@pid": "06/10116",
+            "text": "Hao Niu"
+          },
+          {
+            "@pid": "344/2123",
+            "text": "Yutao Ouyang"
+          },
+          {
+            "@pid": "162/4021",
+            "text": "Zeyu Ren"
+          },
+          {
+            "@pid": "331/5873",
+            "text": "Haixin Shi"
+          },
+          {
+            "@pid": "32/1213",
+            "text": "Wei Xu"
+          },
+          {
+            "@pid": "07/1059",
+            "text": "Haoxiang Zhang"
+          },
+          {
+            "@pid": "71/6950",
+            "text": "Jiajun Zhang"
+          },
+          {
+            "@pid": "49/4478",
+            "text": "Xiao Zhang"
+          },
+          {
+            "@pid": "04/4077",
+            "text": "Liwei Zheng"
+          },
+          {
+            "@pid": "317/2141",
+            "text": "Weiheng Zhong"
+          },
+          {
+            "@pid": "50/7699",
+            "text": "Yifei Zhou"
+          },
+          {
+            "@pid": "412/6890",
+            "text": "Zhengming Zhu"
+          },
+          {
+            "@pid": "83/5560",
+            "text": "Hang Li"
+          }
+        ]
+      },
+      "title": "GR-Dexter Technical Report",
+      "venue": "CoRR",
+      "volume": "abs/2512.24210",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-24210",
+      "doi": "10.48550/ARXIV.2512.24210",
+      "ee": "https://doi.org/10.48550/arXiv.2512.24210",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-24210"
+    }
   },
   {
     "model": "HiRT",
@@ -19073,7 +20355,99 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (Moxin-VLA) Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA.pdf",
     "raw": "[ArXiv25] (Moxin-VLA) Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "75/8475-1",
+            "text": "Pu Zhao 0001"
+          },
+          {
+            "@pid": "151/6915",
+            "text": "Xuan Shen"
+          },
+          {
+            "@pid": "211/6323",
+            "text": "Zhenglun Kong"
+          },
+          {
+            "@pid": "222/6915",
+            "text": "Yixin Shen"
+          },
+          {
+            "@pid": "203/4468",
+            "text": "Sung-En Chang"
+          },
+          {
+            "@pid": "412/8824",
+            "text": "Arash Akbari"
+          },
+          {
+            "@pid": "327/6442",
+            "text": "Timothy Rupprecht"
+          },
+          {
+            "@pid": "46/140",
+            "text": "Lei Lu"
+          },
+          {
+            "@pid": "385/1298",
+            "text": "Enfu Nan"
+          },
+          {
+            "@pid": "352/8666",
+            "text": "Changdi Yang"
+          },
+          {
+            "@pid": "28/8601",
+            "text": "Yumei He"
+          },
+          {
+            "@pid": "218/5722",
+            "text": "Weiyan Shi"
+          },
+          {
+            "@pid": "224/9814",
+            "text": "Xingchen Xu"
+          },
+          {
+            "@pid": "39/6301",
+            "text": "Yu Huang"
+          },
+          {
+            "@pid": "21/3839-1",
+            "text": "Wei Jiang 0001"
+          },
+          {
+            "@pid": "35/7092-311",
+            "text": "Wei Wang 0311"
+          },
+          {
+            "@pid": "79/5815",
+            "text": "Yue Chen"
+          },
+          {
+            "@pid": "15/2841",
+            "text": "Yong He"
+          },
+          {
+            "@pid": "45/7737-1",
+            "text": "Yanzhi Wang 0001"
+          }
+        ]
+      },
+      "title": "Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA",
+      "venue": "CoRR",
+      "volume": "abs/2512.22208",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-22208",
+      "doi": "10.48550/ARXIV.2512.22208",
+      "ee": "https://doi.org/10.48550/arXiv.2512.22208",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-22208"
+    }
   },
   {
     "model": "UD-VLA",
@@ -19374,7 +20748,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] WholeBodyVLA - Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control.pdf",
     "raw": "[ArXiv25] WholeBodyVLA - Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "121/4083",
+            "text": "Haoran Jiang"
+          },
+          {
+            "@pid": "03/5287",
+            "text": "Jin Chen"
+          },
+          {
+            "@pid": "326/7970",
+            "text": "Qingwen Bu"
+          },
+          {
+            "@pid": "181/2847",
+            "text": "Li Chen"
+          },
+          {
+            "@pid": "372/3150",
+            "text": "Modi Shi"
+          },
+          {
+            "@pid": "33/2488",
+            "text": "Yanjie Zhang"
+          },
+          {
+            "@pid": "81/7423",
+            "text": "Delong Li"
+          },
+          {
+            "@pid": "232/2398",
+            "text": "Chuanzhe Suo"
+          },
+          {
+            "@pid": "39/2813",
+            "text": "Chuang Wang"
+          },
+          {
+            "@pid": "189/6836",
+            "text": "Zhihui Peng"
+          },
+          {
+            "@pid": "95/8433",
+            "text": "Hongyang Li"
+          }
+        ]
+      },
+      "title": "WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control",
+      "venue": "CoRR",
+      "volume": "abs/2512.11047",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-11047",
+      "doi": "10.48550/ARXIV.2512.11047",
+      "ee": "https://doi.org/10.48550/arXiv.2512.11047",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-11047"
+    }
   },
   {
     "model": "IRL-VLA",
@@ -19723,7 +21157,47 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] VLA-RAIL - A Real-Time Asynchronous Inference Linker for VLA Models and Robots.pdf",
     "raw": "[ArXiv25] VLA-RAIL - A Real-Time Asynchronous Inference Linker for VLA Models and Robots.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "23/5108",
+            "text": "Yongsheng Zhao"
+          },
+          {
+            "@pid": "87/734",
+            "text": "Lei Zhao"
+          },
+          {
+            "@pid": "275/8368",
+            "text": "Baoping Cheng"
+          },
+          {
+            "@pid": "310/1881",
+            "text": "Gongxin Yao"
+          },
+          {
+            "@pid": "424/9821",
+            "text": "Xuanzhang Wen"
+          },
+          {
+            "@pid": "56/1065",
+            "text": "Han Gao"
+          }
+        ]
+      },
+      "title": "VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots",
+      "venue": "CoRR",
+      "volume": "abs/2512.24673",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-24673",
+      "doi": "10.48550/ARXIV.2512.24673",
+      "ee": "https://doi.org/10.48550/arXiv.2512.24673",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-24673"
+    }
   },
   {
     "model": "ExpReS-VLA",
@@ -19864,7 +21338,71 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (Point-VLA) Point What You Mean - Visually Grounded Instruction Policy.pdf",
     "raw": "[ArXiv25] (Point-VLA) Point What You Mean - Visually Grounded Instruction Policy.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "74/2568",
+            "text": "Hang Yu"
+          },
+          {
+            "@pid": "384/6645",
+            "text": "Juntu Zhao"
+          },
+          {
+            "@pid": "07/6778",
+            "text": "Yufeng Liu"
+          },
+          {
+            "@pid": "131/2839",
+            "text": "Kaiyu Li"
+          },
+          {
+            "@pid": "44/546",
+            "text": "Cheng Ma"
+          },
+          {
+            "@pid": "80/3482",
+            "text": "Di Zhang"
+          },
+          {
+            "@pid": "219/8916",
+            "text": "Yingdong Hu"
+          },
+          {
+            "@pid": "09/4891-1",
+            "text": "Guang Chen 0001"
+          },
+          {
+            "@pid": "62/1418",
+            "text": "Junyuan Xie"
+          },
+          {
+            "@pid": "209/9674",
+            "text": "Junliang Guo"
+          },
+          {
+            "@pid": "27/7856",
+            "text": "Junqiao Zhao"
+          },
+          {
+            "@pid": "89/4402-1",
+            "text": "Yang Gao 0001"
+          }
+        ]
+      },
+      "title": "Point What You Mean: Visually Grounded Instruction Policy",
+      "venue": "CoRR",
+      "volume": "abs/2512.18933",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-18933",
+      "doi": "10.48550/ARXIV.2512.18933",
+      "ee": "https://doi.org/10.48550/arXiv.2512.18933",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-18933"
+    }
   },
   {
     "model": "OC-VLA",
@@ -20327,7 +21865,71 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] ManualVLA - A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation.pdf",
     "raw": "[ArXiv25] ManualVLA - A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 2
+    "citations": 2,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "239/5631",
+            "text": "Chenyang Gu"
+          },
+          {
+            "@pid": "325/5391-3",
+            "text": "Jiaming Liu 0003"
+          },
+          {
+            "@pid": "86/475-11",
+            "text": "Hao Chen 0011"
+          },
+          {
+            "@pid": "424/7330",
+            "text": "Runzhong Huang"
+          },
+          {
+            "@pid": "378/4027",
+            "text": "Qingpo Wuwu"
+          },
+          {
+            "@pid": "330/0206",
+            "text": "Zhuoyang Liu"
+          },
+          {
+            "@pid": "357/1937",
+            "text": "Xiaoqi Li 0020"
+          },
+          {
+            "@pid": "22/1805-128",
+            "text": "Ying Li 0128"
+          },
+          {
+            "@pid": "244/1748",
+            "text": "Renrui Zhang"
+          },
+          {
+            "@pid": "02/5530",
+            "text": "Peng Jia"
+          },
+          {
+            "@pid": "52/2889",
+            "text": "Pheng-Ann Heng"
+          },
+          {
+            "@pid": "95/11531",
+            "text": "Shanghang Zhang"
+          }
+        ]
+      },
+      "title": "ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.02013",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-02013",
+      "doi": "10.48550/ARXIV.2512.02013",
+      "ee": "https://doi.org/10.48550/arXiv.2512.02013",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-02013"
+    }
   },
   {
     "model": "Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping",
@@ -20655,7 +22257,51 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (DreamTacVLA) Learning to Feel the Future - DreamTacVLA for Contact-Rich Manipulation.pdf",
     "raw": "[ArXiv25] (DreamTacVLA) Learning to Feel the Future - DreamTacVLA for Contact-Rich Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "16/1440",
+            "text": "Guo Ye"
+          },
+          {
+            "@pid": "168/5654",
+            "text": "Zexi Zhang"
+          },
+          {
+            "@pid": "37/3580",
+            "text": "Xu Zhao"
+          },
+          {
+            "@pid": "119/6727",
+            "text": "Shang Wu"
+          },
+          {
+            "@pid": "122/4355",
+            "text": "Haoran Lu"
+          },
+          {
+            "@pid": "215/8828",
+            "text": "Shihan Lu"
+          },
+          {
+            "@pid": "35/2899",
+            "text": "Han Liu"
+          }
+        ]
+      },
+      "title": "Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.23864",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-23864",
+      "doi": "10.48550/ARXIV.2512.23864",
+      "ee": "https://doi.org/10.48550/arXiv.2512.23864",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-23864"
+    }
   },
   {
     "model": "UrbanVLA",
@@ -21208,7 +22854,71 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (LVP) Large Video Planner Enables Generalizable Robot Control.pdf",
     "raw": "[ArXiv25] (LVP) Large Video Planner Enables Generalizable Robot Control.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "193/7174-3",
+            "text": "Boyuan Chen 0003"
+          },
+          {
+            "@pid": "145/6286",
+            "text": "Tianyuan Zhang"
+          },
+          {
+            "@pid": "295/7112",
+            "text": "Haoran Geng"
+          },
+          {
+            "@pid": "390/0848",
+            "text": "Kiwhan Song"
+          },
+          {
+            "@pid": "334/3452",
+            "text": "Caiyi Zhang"
+          },
+          {
+            "@pid": "193/6528",
+            "text": "Peihao Li"
+          },
+          {
+            "@pid": "86/6650",
+            "text": "William T. Freeman"
+          },
+          {
+            "@pid": "58/2944",
+            "text": "Jitendra Malik"
+          },
+          {
+            "@pid": "a/PieterAbbeel",
+            "text": "Pieter Abbeel"
+          },
+          {
+            "@pid": "73/1296",
+            "text": "Russ Tedrake"
+          },
+          {
+            "@pid": "192/1958",
+            "text": "Vincent Sitzmann"
+          },
+          {
+            "@pid": "204/4379",
+            "text": "Yilun Du"
+          }
+        ]
+      },
+      "title": "Large Video Planner Enables Generalizable Robot Control",
+      "venue": "CoRR",
+      "volume": "abs/2512.15840",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-15840",
+      "doi": "10.48550/ARXIV.2512.15840",
+      "ee": "https://doi.org/10.48550/arXiv.2512.15840",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-15840"
+    }
   },
   {
     "model": "ManiAgent",
@@ -21304,7 +23014,51 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] UniUGP - Unifying Understanding Generation and Planing For End-to-end Autonomous Driving.pdf",
     "raw": "[ArXiv25] UniUGP - Unifying Understanding Generation and Planing For End-to-end Autonomous Driving.pdf",
     "needs_llm_title": true,
-    "citations": 1
+    "citations": 1,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "72/5422-9",
+            "text": "Hao Lu 0009"
+          },
+          {
+            "@pid": "85/5485",
+            "text": "Ziyang Liu"
+          },
+          {
+            "@pid": "200/2732",
+            "text": "Guangfeng Jiang"
+          },
+          {
+            "@pid": "169/3379",
+            "text": "Yuanfei Luo"
+          },
+          {
+            "@pid": "97/10424",
+            "text": "Sheng Chen"
+          },
+          {
+            "@pid": "41/5592",
+            "text": "Yangang Zhang"
+          },
+          {
+            "@pid": "137/6578",
+            "text": "Ying-Cong Chen"
+          }
+        ]
+      },
+      "title": "UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving",
+      "venue": "CoRR",
+      "volume": "abs/2512.09864",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-09864",
+      "doi": "10.48550/ARXIV.2512.09864",
+      "ee": "https://doi.org/10.48550/arXiv.2512.09864",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-09864"
+    }
   },
   {
     "model": "AVA-VLA",
@@ -21883,7 +23637,43 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] ColaVLA - Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving.pdf",
     "raw": "[ArXiv25] ColaVLA - Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "09/8141",
+            "text": "Qihang Peng"
+          },
+          {
+            "@pid": "33/205",
+            "text": "Xuesong Chen"
+          },
+          {
+            "@pid": "240/0177",
+            "text": "Chenye Yang"
+          },
+          {
+            "@pid": "202/5922",
+            "text": "Shaoshuai Shi"
+          },
+          {
+            "@pid": "27/7402",
+            "text": "Hongsheng Li"
+          }
+        ]
+      },
+      "title": "ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving",
+      "venue": "CoRR",
+      "volume": "abs/2512.22939",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-22939",
+      "doi": "10.48550/ARXIV.2512.22939",
+      "ee": "https://doi.org/10.48550/arXiv.2512.22939",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-22939"
+    }
   },
   {
     "model": "OBEYED-VLA",
@@ -21912,7 +23702,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (OBEYED-VLA) Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding.pdf",
     "raw": "[ArXiv25] (OBEYED-VLA) Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "224/1953",
+            "text": "Khoa Vo 0001"
+          },
+          {
+            "@pid": "349/3532",
+            "text": "Taisei Hanyu"
+          },
+          {
+            "@pid": "393/1131",
+            "text": "Yuki Ikebe"
+          },
+          {
+            "@pid": "271/7083",
+            "text": "Trong-Thang Pham"
+          },
+          {
+            "@pid": "395/1295",
+            "text": "Nhat Chung"
+          },
+          {
+            "@pid": "204/6820",
+            "text": "Minh Nhat Vu"
+          },
+          {
+            "@pid": "422/0787",
+            "text": "Duy Nguyen Ho Minh"
+          },
+          {
+            "@pid": "52/5285-3",
+            "text": "Anh Nguyen 0003"
+          },
+          {
+            "@pid": "422/1424",
+            "text": "Anthony Gunderman"
+          },
+          {
+            "@pid": "57/6270",
+            "text": "Chase Rainwater"
+          },
+          {
+            "@pid": "37/245",
+            "text": "Ngan Le"
+          }
+        ]
+      },
+      "title": "Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding",
+      "venue": "CoRR",
+      "volume": "abs/2512.22519",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-22519",
+      "doi": "10.48550/ARXIV.2512.22519",
+      "ee": "https://doi.org/10.48550/arXiv.2512.22519",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-22519"
+    }
   },
   {
     "model": "MiVLA",
@@ -21942,7 +23792,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] MiVLA - Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training.pdf",
     "raw": "[ArXiv25] MiVLA - Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "424/9400",
+            "text": "Zhenhan Yin"
+          },
+          {
+            "@pid": "197/8367",
+            "text": "Xuanhan Wang"
+          },
+          {
+            "@pid": "199/8369",
+            "text": "Jiahao Jiang"
+          },
+          {
+            "@pid": "252/1337",
+            "text": "Kaiyuan Deng"
+          },
+          {
+            "@pid": "424/9108",
+            "text": "Pengqi Chen"
+          },
+          {
+            "@pid": "361/2598",
+            "text": "Shuangle Li"
+          },
+          {
+            "@pid": "47/2929",
+            "text": "Chong Liu"
+          },
+          {
+            "@pid": "76/834-1",
+            "text": "Xing Xu 0001"
+          },
+          {
+            "@pid": "70/10575",
+            "text": "Jingkuan Song"
+          },
+          {
+            "@pid": "123/9849",
+            "text": "Lianli Gao"
+          },
+          {
+            "@pid": "s/HTShen",
+            "text": "Heng Tao Shen"
+          }
+        ]
+      },
+      "title": "MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training",
+      "venue": "CoRR",
+      "volume": "abs/2512.15411",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-15411",
+      "doi": "10.48550/ARXIV.2512.15411",
+      "ee": "https://doi.org/10.48550/arXiv.2512.15411",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-15411"
+    }
   },
   {
     "model": "AutoDrive-R2",
@@ -22510,7 +24420,79 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] SurgWorld - Learning Surgical Robot Policies from Videos via World Modeling.pdf",
     "raw": "[ArXiv25] SurgWorld - Learning Surgical Robot Policies from Videos via World Modeling.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "167/4028",
+            "text": "Yufan He"
+          },
+          {
+            "@pid": "76/7058",
+            "text": "Pengfei Guo"
+          },
+          {
+            "@pid": "289/1917",
+            "text": "Mengya Xu"
+          },
+          {
+            "@pid": "221/4280",
+            "text": "Zhaoshuo Li"
+          },
+          {
+            "@pid": "26/1146",
+            "text": "Andriy Myronenko"
+          },
+          {
+            "@pid": "425/1668",
+            "text": "Dillan Imans"
+          },
+          {
+            "@pid": "21/3046",
+            "text": "Bingjie Liu"
+          },
+          {
+            "@pid": "424/9525",
+            "text": "Dongren Yang"
+          },
+          {
+            "@pid": "368/1971",
+            "text": "Mingxue Gu"
+          },
+          {
+            "@pid": "20/2112",
+            "text": "Yongnan Ji"
+          },
+          {
+            "@pid": "183/6320",
+            "text": "Yueming Jin"
+          },
+          {
+            "@pid": "26/7698",
+            "text": "Ren Zhao"
+          },
+          {
+            "@pid": "417/3021",
+            "text": "Baiyong Shen"
+          },
+          {
+            "@pid": "140/3604",
+            "text": "Daguang Xu"
+          }
+        ]
+      },
+      "title": "SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling",
+      "venue": "CoRR",
+      "volume": "abs/2512.23162",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-23162",
+      "doi": "10.48550/ARXIV.2512.23162",
+      "ee": "https://doi.org/10.48550/arXiv.2512.23162",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-23162"
+    }
   },
   {
     "model": "DLR",
@@ -22760,7 +24742,7 @@
           }
         ]
       },
-      "title": "EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control.",
+      "title": "EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control",
       "venue": "CoRR",
       "volume": "abs/2508.21112",
       "year": "2025",
@@ -22876,8 +24858,8 @@
     "citations": 1
   },
   {
-    "model": "Dont Blind Your VLA",
-    "title": "Dont Blind Your VLA",
+    "model": "Don't Blind Your VLA",
+    "title": "Don't Blind Your VLA",
     "year": 2025,
     "month": 10,
     "type": "Large",
@@ -22885,15 +24867,56 @@
       "Cognitive AI Lab",
       "IAI MIPT"
     ],
-    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Dont Blind Your VLA - Aligning Visual Representations for OOD Generalization.pdf",
+    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Don't Blind Your VLA - Aligning Visual Representations for OOD Generalization.pdf",
     "authors": [
-      "Unknown"
+      "Andrey Kurenkov",
+      "Mikhail Pavlov",
+      "Ivan Nazarov",
+      "Alexander Novikov",
+      "Alexey Gruzdev",
+      "Evgeny Burnaev"
     ],
     "dblp_not_found": true,
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Dont Blind Your VLA - Aligning Visual Representations for OOD Generalization.pdf",
-    "raw": "[ArXiv25] Dont Blind Your VLA - Aligning Visual Representations for OOD Generalization.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Don't Blind Your VLA - Aligning Visual Representations for OOD Generalization.pdf",
+    "raw": "[ArXiv25] Don't Blind Your VLA - Aligning Visual Representations for OOD Generalization.pdf",
     "needs_llm_title": true,
-    "citations": 1
+    "citations": 1,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "394/9756",
+            "text": "Nikita Kachaev"
+          },
+          {
+            "@pid": "420/3822",
+            "text": "Mikhail Kolosov"
+          },
+          {
+            "@pid": "415/3497",
+            "text": "Daniil Zelezetsky"
+          },
+          {
+            "@pid": "245/7675",
+            "text": "Alexey K. Kovalev"
+          },
+          {
+            "@pid": "177/9975",
+            "text": "Aleksandr I. Panov"
+          }
+        ]
+      },
+      "title": "Don&apos;t Blind Your VLA: Aligning Visual Representations for OOD Generalization",
+      "venue": "CoRR",
+      "volume": "abs/2510.25616",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2510-25616",
+      "doi": "10.48550/ARXIV.2510.25616",
+      "ee": "https://doi.org/10.48550/arXiv.2510.25616",
+      "url": "https://dblp.org/rec/journals/corr/abs-2510-25616"
+    }
   },
   {
     "model": "VLAPS",
@@ -23267,7 +25290,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] MindDrive - A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning.pdf",
     "raw": "[ArXiv25] MindDrive - A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "196/2930",
+            "text": "Haoyu Fu"
+          },
+          {
+            "@pid": "305/3775",
+            "text": "Diankun Zhang"
+          },
+          {
+            "@pid": "402/3830",
+            "text": "Zongchuang Zhao"
+          },
+          {
+            "@pid": "20/5748",
+            "text": "Jianfeng Cui"
+          },
+          {
+            "@pid": "37/1678",
+            "text": "Hongwei Xie"
+          },
+          {
+            "@pid": "06/1909",
+            "text": "Bing Wang"
+          },
+          {
+            "@pid": "09/4891",
+            "text": "Guang Chen"
+          },
+          {
+            "@pid": "255/6274",
+            "text": "Dingkang Liang"
+          },
+          {
+            "@pid": "59/2741",
+            "text": "Xiang Bai"
+          }
+        ]
+      },
+      "title": "MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning",
+      "venue": "CoRR",
+      "volume": "abs/2512.13636",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-13636",
+      "doi": "10.48550/ARXIV.2512.13636",
+      "ee": "https://doi.org/10.48550/arXiv.2512.13636",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-13636"
+    }
   },
   {
     "model": "Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting",
@@ -23291,7 +25366,35 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting.pdf",
     "raw": "[ArXiv25] Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "374/7354",
+            "text": "Sangoh Lee"
+          },
+          {
+            "@pid": "198/0432",
+            "text": "Sangwoo Mo"
+          },
+          {
+            "@pid": "62/2450",
+            "text": "Wook-Shin Han"
+          }
+        ]
+      },
+      "title": "Bring My Cup Personalizing Vision-Language-Action Models with Visual Attentive Prompting",
+      "venue": "CoRR",
+      "volume": "abs/2512.20014",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-20014",
+      "doi": "10.48550/ARXIV.2512.20014",
+      "ee": "https://doi.org/10.48550/arXiv.2512.20014",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-20014"
+    }
   },
   {
     "model": "RobustVLA",
@@ -24320,7 +26423,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Dream-VLA - Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone.pdf",
     "raw": "[ArXiv25] Dream-VLA - Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "249/2706",
+            "text": "Jiacheng Ye"
+          },
+          {
+            "@pid": "320/4745",
+            "text": "Shansan Gong"
+          },
+          {
+            "@pid": "253/4040",
+            "text": "Jiahui Gao"
+          },
+          {
+            "@pid": "172/3038",
+            "text": "Junming Fan"
+          },
+          {
+            "@pid": "85/3231",
+            "text": "Shuang Wu"
+          },
+          {
+            "@pid": "38/1163",
+            "text": "Wei Bi"
+          },
+          {
+            "@pid": "195/9712",
+            "text": "Haoli Bai"
+          },
+          {
+            "@pid": "70/4288",
+            "text": "Lifeng Shang"
+          },
+          {
+            "@pid": "144/7656",
+            "text": "Lingpeng Kong"
+          }
+        ]
+      },
+      "title": "Dream-VL &amp; Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone",
+      "venue": "CoRR",
+      "volume": "abs/2512.22615",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-22615",
+      "doi": "10.48550/ARXIV.2512.22615",
+      "ee": "https://doi.org/10.48550/arXiv.2512.22615",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-22615"
+    }
   },
   {
     "model": "UPA-RFAS",
@@ -24385,7 +26540,7 @@
           }
         ]
       },
-      "title": "When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models.",
+      "title": "When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models",
       "venue": "CoRR",
       "volume": "abs/2511.21192",
       "year": "2025",
@@ -24797,7 +26952,59 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (DuoCore-FS) Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation.pdf",
     "raw": "[ArXiv25] (DuoCore-FS) Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "352/9371",
+            "text": "Teqiang Zou"
+          },
+          {
+            "@pid": "381/0343",
+            "text": "Hongliang Zeng"
+          },
+          {
+            "@pid": "384/7713",
+            "text": "Yuxuan Nong"
+          },
+          {
+            "@pid": "43/5611",
+            "text": "Yifan Li"
+          },
+          {
+            "@pid": "142/5291",
+            "text": "Kehui Liu"
+          },
+          {
+            "@pid": "153/8953",
+            "text": "Haotian Yang"
+          },
+          {
+            "@pid": "424/9543",
+            "text": "Xinyang Ling"
+          },
+          {
+            "@pid": "09/1365",
+            "text": "Xin Li"
+          },
+          {
+            "@pid": "28/4327",
+            "text": "Lianyang Ma"
+          }
+        ]
+      },
+      "title": "Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.20188",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-20188",
+      "doi": "10.48550/ARXIV.2512.20188",
+      "ee": "https://doi.org/10.48550/arXiv.2512.20188",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-20188"
+    }
   },
   {
     "model": "DiffVLA",
@@ -25507,7 +27714,15 @@
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (GLUESTICK) Dont Run with Scissors - Pruning Breaks VLA Models but They Can Be Recovered.pdf",
     "authors": [
-      "Unknown"
+      "Jason Jabbour",
+      "Dong-Ki Kim",
+      "Max Smith",
+      "Jay Patrikar",
+      "Radhika Ghosal",
+      "Youhui Wang",
+      "Ali Agha",
+      "Vijay Janapa Reddi",
+      "Shayegan Omidshafiei"
     ],
     "dblp_not_found": true,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (GLUESTICK) Dont Run with Scissors - Pruning Breaks VLA Models but They Can Be Recovered.pdf",
@@ -25540,7 +27755,55 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Emergence of Human to Robot Transfer in Vision-Language-Action Models.pdf",
     "raw": "[ArXiv25] Emergence of Human to Robot Transfer in Vision-Language-Action Models.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "332/0794",
+            "text": "Simar Kareer"
+          },
+          {
+            "@pid": "211/7137",
+            "text": "Karl Pertsch"
+          },
+          {
+            "@pid": "405/6929",
+            "text": "James Darpinian"
+          },
+          {
+            "@pid": "45/10336",
+            "text": "Judy Hoffman"
+          },
+          {
+            "@pid": "135/8443",
+            "text": "Danfei Xu"
+          },
+          {
+            "@pid": "80/7594",
+            "text": "Sergey Levine"
+          },
+          {
+            "@pid": "131/1783",
+            "text": "Chelsea Finn"
+          },
+          {
+            "@pid": "52/5152-3",
+            "text": "Suraj Nair 0003"
+          }
+        ]
+      },
+      "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+      "venue": "CoRR",
+      "volume": "abs/2512.22414",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-22414",
+      "doi": "10.48550/ARXIV.2512.22414",
+      "ee": "https://doi.org/10.48550/arXiv.2512.22414",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-22414"
+    }
   },
   {
     "model": "OmniReason",
@@ -25740,7 +28003,51 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] CycleManip - Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding.pdf",
     "raw": "[ArXiv25] CycleManip - Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "376/2518",
+            "text": "Yi-Lin Wei"
+          },
+          {
+            "@pid": "328/0871",
+            "text": "Haoran Liao"
+          },
+          {
+            "@pid": "207/4665",
+            "text": "Yuhao Lin"
+          },
+          {
+            "@pid": "229/8675",
+            "text": "Pengyue Wang"
+          },
+          {
+            "@pid": "364/7743",
+            "text": "Zhizhao Liang"
+          },
+          {
+            "@pid": "220/5411",
+            "text": "Guiliang Liu"
+          },
+          {
+            "@pid": "30/8399",
+            "text": "Wei-Shi Zheng 0001"
+          }
+        ]
+      },
+      "title": "CycleManip: Enabling Cyclic Task Manipulation via Effective Historical Perception and Understanding",
+      "venue": "CoRR",
+      "volume": "abs/2512.01022",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-01022",
+      "doi": "10.48550/ARXIV.2512.01022",
+      "ee": "https://doi.org/10.48550/arXiv.2512.01022",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-01022"
+    }
   },
   {
     "model": "TVVE",
@@ -26113,7 +28420,79 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Counterfactual VLA - Self-Reflective Vision-Language-Action Model with Adaptive Reasoning.pdf",
     "raw": "[ArXiv25] Counterfactual VLA - Self-Reflective Vision-Language-Action Model with Adaptive Reasoning.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "425/1197",
+            "text": "Zhenghao &quot;Mark&quot; Peng"
+          },
+          {
+            "@pid": "215/3667",
+            "text": "Wenhao Ding"
+          },
+          {
+            "@pid": "199/1968",
+            "text": "Yurong You"
+          },
+          {
+            "@pid": "317/6795",
+            "text": "Yuxiao Chen 0008"
+          },
+          {
+            "@pid": "39/6028",
+            "text": "Wenjie Luo"
+          },
+          {
+            "@pid": "358/6241",
+            "text": "Thomas Tian"
+          },
+          {
+            "@pid": "207/6576",
+            "text": "Yulong Cao"
+          },
+          {
+            "@pid": "181/4231",
+            "text": "Apoorva Sharma"
+          },
+          {
+            "@pid": "135/8443",
+            "text": "Danfei Xu"
+          },
+          {
+            "@pid": "203/8356",
+            "text": "Boris Ivanovic"
+          },
+          {
+            "@pid": "131/1124",
+            "text": "Boyi Li"
+          },
+          {
+            "@pid": "46/8066",
+            "text": "Bolei Zhou"
+          },
+          {
+            "@pid": "59/2227-51",
+            "text": "Yan Wang 0051"
+          },
+          {
+            "@pid": "91/3382-1",
+            "text": "Marco Pavone 0001"
+          }
+        ]
+      },
+      "title": "Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning",
+      "venue": "CoRR",
+      "volume": "abs/2512.24426",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-24426",
+      "doi": "10.48550/ARXIV.2512.24426",
+      "ee": "https://doi.org/10.48550/arXiv.2512.24426",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-24426"
+    }
   },
   {
     "model": "Vlaser",
@@ -26337,7 +28716,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] PosA-VLA - Enhancing Action Generation via Pose-Conditioned Anchor Attention.pdf",
     "raw": "[ArXiv25] PosA-VLA - Enhancing Action Generation via Pose-Conditioned Anchor Attention.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "239/4671",
+            "text": "Ziwen Li"
+          },
+          {
+            "@pid": "10/5630",
+            "text": "Xin Wang"
+          },
+          {
+            "@pid": "382/1286",
+            "text": "Hanlue Zhang"
+          },
+          {
+            "@pid": "232/1849",
+            "text": "Runnan Chen"
+          },
+          {
+            "@pid": "359/1108",
+            "text": "Runqi Lin"
+          },
+          {
+            "@pid": "02/2315",
+            "text": "Xiao He"
+          },
+          {
+            "@pid": "15/6159",
+            "text": "Han Huang"
+          },
+          {
+            "@pid": "28/4272",
+            "text": "Yandong Guo"
+          },
+          {
+            "@pid": "k/FakhriKarray",
+            "text": "Fakhri Karray"
+          },
+          {
+            "@pid": "150/6667",
+            "text": "Tongliang Liu"
+          },
+          {
+            "@pid": "98/8479",
+            "text": "Mingming Gong"
+          }
+        ]
+      },
+      "title": "PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention",
+      "venue": "CoRR",
+      "volume": "abs/2512.03724",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-03724",
+      "doi": "10.48550/ARXIV.2512.03724",
+      "ee": "https://doi.org/10.48550/arXiv.2512.03724",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-03724"
+    }
   },
   {
     "model": "GraphCoT-VLA",
@@ -26441,7 +28880,7 @@
           }
         ]
       },
-      "title": "CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving.",
+      "title": "CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving",
       "venue": "CoRR",
       "volume": "abs/2511.22532",
       "year": "2025",
@@ -27115,7 +29554,7 @@
           }
         ]
       },
-      "title": "Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention.",
+      "title": "Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention",
       "venue": "CoRR",
       "volume": "abs/2511.22555",
       "year": "2025",
@@ -27637,7 +30076,67 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (LCDrive) Latent Chain-of-Thought World Modeling for End-to-End Driving.pdf",
     "raw": "[ArXiv25] (LCDrive) Latent Chain-of-Thought World Modeling for End-to-End Driving.pdf",
     "needs_llm_title": true,
-    "citations": 2
+    "citations": 2,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "239/8698",
+            "text": "Shuhan Tan"
+          },
+          {
+            "@pid": "220/3765",
+            "text": "Kashyap Chitta"
+          },
+          {
+            "@pid": "317/6795",
+            "text": "Yuxiao Chen 0008"
+          },
+          {
+            "@pid": "43/5842",
+            "text": "Ran Tian"
+          },
+          {
+            "@pid": "199/1968",
+            "text": "Yurong You"
+          },
+          {
+            "@pid": "59/2227-51",
+            "text": "Yan Wang 0051"
+          },
+          {
+            "@pid": "39/6028",
+            "text": "Wenjie Luo"
+          },
+          {
+            "@pid": "207/6576",
+            "text": "Yulong Cao"
+          },
+          {
+            "@pid": "43/7592",
+            "text": "Philipp Krähenbühl"
+          },
+          {
+            "@pid": "91/3382-1",
+            "text": "Marco Pavone 0001"
+          },
+          {
+            "@pid": "203/8356",
+            "text": "Boris Ivanovic"
+          }
+        ]
+      },
+      "title": "Latent Chain-of-Thought World Modeling for End-to-End Driving",
+      "venue": "CoRR",
+      "volume": "abs/2512.10226",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-10226",
+      "doi": "10.48550/ARXIV.2512.10226",
+      "ee": "https://doi.org/10.48550/arXiv.2512.10226",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-10226"
+    }
   },
   {
     "model": "Control Your Robot",
@@ -27705,9 +30204,9 @@
   },
   {
     "model": "HiF-VLA",
-    "title": "HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances",
-    "year": "2022",
-    "month": null,
+    "title": "HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models",
+    "year": 2025,
+    "month": 12,
     "type": "Large",
     "institutes": [
       "Westlake University",
@@ -27717,62 +30216,80 @@
       "Westlake Robotics"
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] HiF-VLA - Hindsight Insight and Foresight through Motion Representation for Vision-Language-Action Models.pdf",
-    "venue": "BMVC 2022",
-    "venue_name": "BMVC",
-    "venue_year": "2022",
+    "venue": "CoRR",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] HiF-VLA - Hindsight Insight and Foresight through Motion Representation for Vision-Language-Action Models.pdf",
+    "raw": "[ArXiv25] HiF-VLA - Hindsight Insight and Foresight through Motion Representation for Vision-Language-Action Models.pdf",
+    "needs_llm_title": true,
+    "citations": 1,
     "authors": [
-      {
-        "@pid": "89/6600",
-        "text": "Yue Jiang"
-      },
-      {
-        "@pid": "227/2744",
-        "text": "Marc Habermann"
-      },
-      {
-        "@pid": "180/6438",
-        "text": "Vladislav Golyanik"
-      },
-      {
-        "@pid": "55/3346",
-        "text": "Christian Theobalt"
-      }
+      "Minghui Lin",
+      "Pengxiang Ding",
+      "Shu Wang",
+      "Zifeng Zhuang",
+      "Yang Liu",
+      "Xinyang Tong",
+      "Wenxuan Song",
+      "Shangke Lyu",
+      "Siteng Huang",
+      "Donglin Wang"
     ],
+    "journal": null,
     "dblp_info": {
       "authors": {
         "author": [
           {
-            "@pid": "89/6600",
-            "text": "Yue Jiang"
+            "@pid": "65/3092",
+            "text": "Minghui Lin"
           },
           {
-            "@pid": "227/2744",
-            "text": "Marc Habermann"
+            "@pid": "293/7538",
+            "text": "Pengxiang Ding"
           },
           {
-            "@pid": "180/6438",
-            "text": "Vladislav Golyanik"
+            "@pid": "32/5536",
+            "text": "Shu Wang"
           },
           {
-            "@pid": "55/3346",
-            "text": "Christian Theobalt"
+            "@pid": "276/5034",
+            "text": "Zifeng Zhuang"
+          },
+          {
+            "@pid": "51/3710-358",
+            "text": "Yang Liu 0358"
+          },
+          {
+            "@pid": "354/5795",
+            "text": "Xinyang Tong"
+          },
+          {
+            "@pid": "372/3054",
+            "text": "Wenxuan Song"
+          },
+          {
+            "@pid": "226/6149",
+            "text": "Shangke Lyu"
+          },
+          {
+            "@pid": "251/9544",
+            "text": "Siteng Huang"
+          },
+          {
+            "@pid": "80/7163",
+            "text": "Donglin Wang"
           }
         ]
       },
-      "title": "HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances",
-      "venue": "BMVC",
-      "pages": "826",
-      "year": "2022",
-      "type": "Conference and Workshop Papers",
+      "title": "HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models",
+      "venue": "CoRR",
+      "volume": "abs/2512.09928",
+      "year": "2025",
+      "type": "Informal and Other Publications",
       "access": "open",
-      "key": "conf/bmvc/JiangHGT22",
-      "ee": "https://bmvc2022.mpi-inf.mpg.de/826/",
-      "url": "https://dblp.org/rec/conf/bmvc/JiangHGT22"
-    },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] HiF-VLA - Hindsight Insight and Foresight through Motion Representation for Vision-Language-Action Models.pdf",
-    "raw": "[ArXiv25] HiF-VLA - Hindsight Insight and Foresight through Motion Representation for Vision-Language-Action Models.pdf",
-    "needs_llm_title": true,
-    "citations": 12
+      "key": "journals/corr/abs-2512-09928",
+      "doi": "10.48550/ARXIV.2512.09928",
+      "ee": "https://doi.org/10.48550/arXiv.2512.09928",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-09928"
+    }
   },
   {
     "model": "OccVLA",
@@ -27843,13 +30360,78 @@
     ],
     "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (BayesVLA) Seeing to Act Prompting to Specify - A Bayesian Factorization of Vision Language Action Policy.pdf",
     "authors": [
-      "Unknown"
+      "Kechun Xu",
+      "Zhenjie Zhu",
+      "Anzhe Chen",
+      "Shuqi Zhao",
+      "Qing Huang",
+      "Yifei Yang",
+      "Haojian Lu",
+      "Rong Xiong",
+      "Masayoshi Tomizuka",
+      "Yue Wang"
     ],
     "dblp_not_found": true,
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (BayesVLA) Seeing to Act Prompting to Specify - A Bayesian Factorization of Vision Language Action Policy.pdf",
     "raw": "[ArXiv25] (BayesVLA) Seeing to Act Prompting to Specify - A Bayesian Factorization of Vision Language Action Policy.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "287/4172",
+            "text": "Kechun Xu"
+          },
+          {
+            "@pid": "289/5072",
+            "text": "Zhenjie Zhu"
+          },
+          {
+            "@pid": "287/9832",
+            "text": "Anzhe Chen"
+          },
+          {
+            "@pid": "45/6764",
+            "text": "Shuqi Zhao"
+          },
+          {
+            "@pid": "12/2491",
+            "text": "Qing Huang"
+          },
+          {
+            "@pid": "133/7657",
+            "text": "Yifei Yang"
+          },
+          {
+            "@pid": "161/8130",
+            "text": "Haojian Lu"
+          },
+          {
+            "@pid": "49/4627",
+            "text": "Rong Xiong"
+          },
+          {
+            "@pid": "10/4434",
+            "text": "Masayoshi Tomizuka"
+          },
+          {
+            "@pid": "33/4822-20",
+            "text": "Yue Wang 0020"
+          }
+        ]
+      },
+      "title": "Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy",
+      "venue": "CoRR",
+      "volume": "abs/2512.11218",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-11218",
+      "doi": "10.48550/ARXIV.2512.11218",
+      "ee": "https://doi.org/10.48550/arXiv.2512.11218",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-11218"
+    }
   },
   {
     "model": "ERIQ",
@@ -27882,7 +30464,75 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (ERIQ) Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training.pdf",
     "raw": "[ArXiv25] (ERIQ) Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training.pdf",
     "needs_llm_title": true,
-    "citations": 1
+    "citations": 1,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "97/4626",
+            "text": "Yi Liu"
+          },
+          {
+            "@pid": "216/8242",
+            "text": "Sukai Wang"
+          },
+          {
+            "@pid": "291/8791",
+            "text": "Dafeng Wei"
+          },
+          {
+            "@pid": "205/5574",
+            "text": "Xiaowei Cai"
+          },
+          {
+            "@pid": "380/7479",
+            "text": "Linqing Zhong"
+          },
+          {
+            "@pid": "340/4152",
+            "text": "Jiange Yang"
+          },
+          {
+            "@pid": "42/2707",
+            "text": "Guanghui Ren"
+          },
+          {
+            "@pid": "27/2339",
+            "text": "Jinyu Zhang"
+          },
+          {
+            "@pid": "320/3677",
+            "text": "Maoqing Yao"
+          },
+          {
+            "@pid": "227/2952",
+            "text": "Chuankang Li"
+          },
+          {
+            "@pid": "125/9539",
+            "text": "Xindong He"
+          },
+          {
+            "@pid": "324/8974",
+            "text": "Liliang Chen"
+          },
+          {
+            "@pid": "161/1838",
+            "text": "Jianlan Luo"
+          }
+        ]
+      },
+      "title": "Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training",
+      "venue": "CoRR",
+      "volume": "abs/2512.24125",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-24125",
+      "doi": "10.48550/ARXIV.2512.24125",
+      "ee": "https://doi.org/10.48550/arXiv.2512.24125",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-24125"
+    }
   },
   {
     "model": "Robotic VLA Benefits from Joint Learning with Motion Image Diffusion",
@@ -27914,7 +30564,75 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] Robotic VLA Benefits from Joint Learning with Motion Image Diffusion.pdf",
     "raw": "[ArXiv25] Robotic VLA Benefits from Joint Learning with Motion Image Diffusion.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "88/3790",
+            "text": "Yu Fang"
+          },
+          {
+            "@pid": "211/4048",
+            "text": "Kanchana Ranasinghe"
+          },
+          {
+            "@pid": "304/2195",
+            "text": "Le Xue"
+          },
+          {
+            "@pid": "184/9372",
+            "text": "Honglu Zhou"
+          },
+          {
+            "@pid": "272/0641",
+            "text": "Juntao Tan"
+          },
+          {
+            "@pid": "71/1270-1",
+            "text": "Ran Xu 0001"
+          },
+          {
+            "@pid": "235/5576",
+            "text": "Shelby Heinecke"
+          },
+          {
+            "@pid": "80/7282",
+            "text": "Caiming Xiong"
+          },
+          {
+            "@pid": "50/3578",
+            "text": "Silvio Savarese"
+          },
+          {
+            "@pid": "97/11299",
+            "text": "Daniel Szafir"
+          },
+          {
+            "@pid": "188/5243",
+            "text": "Mingyu Ding"
+          },
+          {
+            "@pid": "r/MichaelSRyoo",
+            "text": "Michael S. Ryoo"
+          },
+          {
+            "@pid": "26/647",
+            "text": "Juan Carlos Niebles"
+          }
+        ]
+      },
+      "title": "Robotic VLA Benefits from Joint Learning with Motion Image Diffusion",
+      "venue": "CoRR",
+      "volume": "abs/2512.18007",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-18007",
+      "doi": "10.48550/ARXIV.2512.18007",
+      "ee": "https://doi.org/10.48550/arXiv.2512.18007",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-18007"
+    }
   },
   {
     "model": "VLA-R",
@@ -28320,7 +31038,7 @@
     "citations": 11
   },
   {
-    "model": "VLM See Robot Do",
+    "model": "SeeDo",
     "title": "VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model",
     "year": "2025",
     "month": null,
@@ -28328,7 +31046,7 @@
     "institutes": [
       "New York University"
     ],
-    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/IROS25/[IROS25] VLM See Robot Do - Human Demo Video to Robot Action Plan via Vision Language Model.pdf",
+    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/IROS25/[IROS25] (SeeDo) VLM See, Robot Do - Human Demo Video to Robot Action Plan via Vision Language Model.pdf",
     "venue": "IROS25",
     "venue_name": "IROS",
     "venue_year": 2025,
@@ -28390,8 +31108,8 @@
       "ee": "https://doi.org/10.1109/IROS60139.2025.11246682",
       "url": "https://dblp.org/rec/conf/iros/WangZDFF25"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/IROS25/[IROS25] VLM See Robot Do - Human Demo Video to Robot Action Plan via Vision Language Model.pdf",
-    "raw": "[IROS25] VLM See Robot Do - Human Demo Video to Robot Action Plan via Vision Language Model.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/IROS25/[IROS25] (SeeDo) VLM See, Robot Do - Human Demo Video to Robot Action Plan via Vision Language Model.pdf",
+    "raw": "[IROS25] (SeeDo) VLM See, Robot Do - Human Demo Video to Robot Action Plan via Vision Language Model.pdf",
     "needs_llm_title": true,
     "citations": 47
   },
@@ -28450,7 +31168,7 @@
     "venue": "ACL 2025",
     "venue_name": "ACL",
     "venue_year": 2025,
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/others/JARVIS-VLA - Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/others/JARVIS-VLA - Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse.pdf",
     "raw": "JARVIS-VLA - Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse.pdf",
     "needs_llm_title": true,
     "citations": 16
@@ -28543,7 +31261,7 @@
       "ee": "https://doi.org/10.48550/arXiv.2503.09527",
       "url": "https://dblp.org/rec/journals/corr/abs-2503-09527"
     },
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/others/CombatVLA - An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/others/CombatVLA - An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games.pdf",
     "raw": "CombatVLA - An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games.pdf",
     "needs_llm_title": true,
     "citations": 17
@@ -28890,7 +31608,39 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/Humanoid/X-Humanoid - Robotize Human Videos to Generate Humanoid Videos at Scale.pdf",
     "raw": "X-Humanoid - Robotize Human Videos to Generate Humanoid Videos at Scale.pdf",
     "needs_llm_title": true,
-    "citations": 2
+    "citations": 2,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "51/6008-5",
+            "text": "Pei Yang 0005"
+          },
+          {
+            "@pid": "227/4707",
+            "text": "Hai Ci"
+          },
+          {
+            "@pid": "318/1708",
+            "text": "Yiren Song"
+          },
+          {
+            "@pid": "284/0807",
+            "text": "Mike Zheng Shou"
+          }
+        ]
+      },
+      "title": "X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale",
+      "venue": "CoRR",
+      "volume": "abs/2512.04537",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-04537",
+      "doi": "10.48550/ARXIV.2512.04537",
+      "ee": "https://doi.org/10.48550/arXiv.2512.04537",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-04537"
+    }
   },
   {
     "model": "Humanoid-VLA",
@@ -29870,7 +32620,7 @@
           }
         ]
       },
-      "title": "Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion.",
+      "title": "Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion",
       "venue": "CoRR",
       "volume": "abs/2511.14178",
       "year": "2025",
@@ -29950,7 +32700,7 @@
           }
         ]
       },
-      "title": "Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.",
+      "title": "Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
       "venue": "CoRR",
       "volume": "abs/2502.05171",
       "year": "2025",
@@ -30071,7 +32821,47 @@
     "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Components/Steering/[ArXiv25] (AFI) Affordance Field Intervention - Enabling VLAs to Escape Memory Traps in Robotic Manipulation.pdf",
     "raw": "[ArXiv25] (AFI) Affordance Field Intervention - Enabling VLAs to Escape Memory Traps in Robotic Manipulation.pdf",
     "needs_llm_title": true,
-    "citations": 0
+    "citations": 0,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "200/8245",
+            "text": "Siyu Xu"
+          },
+          {
+            "@pid": "03/4540",
+            "text": "Zijian Wang"
+          },
+          {
+            "@pid": "165/9106",
+            "text": "Yunke Wang"
+          },
+          {
+            "@pid": "336/0383",
+            "text": "Chenghao Xia"
+          },
+          {
+            "@pid": "34/808",
+            "text": "Tao Huang"
+          },
+          {
+            "@pid": "97/2966",
+            "text": "Chang Xu"
+          }
+        ]
+      },
+      "title": "Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation",
+      "venue": "CoRR",
+      "volume": "abs/2512.07472",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-07472",
+      "doi": "10.48550/ARXIV.2512.07472",
+      "ee": "https://doi.org/10.48550/arXiv.2512.07472",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-07472"
+    }
   },
   {
     "model": "SEAL",
@@ -30511,17 +33301,57 @@
       "ETH Zurich",
       "ETH AI Center",
       "UC Berkeley"
-    ]
+    ],
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "410/3168",
+            "text": "Jonas Pai"
+          },
+          {
+            "@pid": "380/9693",
+            "text": "Liam Achenbach"
+          },
+          {
+            "@pid": "215/8756",
+            "text": "Victoriano Montesinos"
+          },
+          {
+            "@pid": "344/1941",
+            "text": "Benedek Forrai"
+          },
+          {
+            "@pid": "190/8659",
+            "text": "Oier Mees"
+          },
+          {
+            "@pid": "303/0379",
+            "text": "Elvis Nava"
+          }
+        ]
+      },
+      "title": "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs",
+      "venue": "CoRR",
+      "volume": "abs/2512.15692",
+      "year": "2025",
+      "type": "Informal and Other Publications",
+      "access": "open",
+      "key": "journals/corr/abs-2512-15692",
+      "doi": "10.48550/ARXIV.2512.15692",
+      "ee": "https://doi.org/10.48550/arXiv.2512.15692",
+      "url": "https://dblp.org/rec/journals/corr/abs-2512-15692"
+    }
   },
   {
-    "model": "CoMOK",
+    "model": "ImaginationPolicy",
     "title": "ImaginationPolicy: Towards Generalizable, Precise and Reliable End-to-End Policy for Robotic Manipulation",
     "type": "Large",
-    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (CoMOK) ImaginationPolicy - Towards Generalizable Precise and Reliable End-to-End Policy for Robotic Manipulation.pdf",
-    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] (CoMOK) ImaginationPolicy - Towards Generalizable Precise and Reliable End-to-End Policy for Robotic Manipulation.pdf",
+    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] ImaginationPolicy - Towards Generalizable Precise and Reliable End-to-End Policy for Robotic Manipulation.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv25] ImaginationPolicy - Towards Generalizable Precise and Reliable End-to-End Policy for Robotic Manipulation.pdf",
     "needs_llm_title": true,
     "needs_short_name": false,
-    "raw": "[ArXiv25] (CoMOK) ImaginationPolicy - Towards Generalizable Precise and Reliable End-to-End Policy for Robotic Manipulation.pdf",
+    "raw": "[ArXiv25] ImaginationPolicy - Towards Generalizable Precise and Reliable End-to-End Policy for Robotic Manipulation.pdf",
     "year": 2025,
     "month": 9,
     "authors": [
@@ -30559,5 +33389,73 @@
       "ee": "https://doi.org/10.48550/arXiv.2509.20841",
       "url": "https://dblp.org/rec/journals/corr/abs-2509-20841"
     }
+  },
+  {
+    "model": "Bi-VLA",
+    "title": "Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations",
+    "type": "Large",
+    "source": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv24] Bi-VLA - Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations.pdf",
+    "pdf_path": "/Users/ianma/My Drive/RESEARCH/---RELATED/Embodied-AI/Control-Policy/LVLA/(latest)/ArXiv_crawl/[ArXiv24] Bi-VLA - Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations.pdf",
+    "needs_llm_title": true,
+    "needs_short_name": false,
+    "raw": "[ArXiv24] Bi-VLA - Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations.pdf",
+    "year": 2024,
+    "month": 5,
+    "authors": [
+      "Koffivi Fidèle Gbagbe",
+      "Miguel Altamirano Cabrera",
+      "Ali Alabbas",
+      "Oussama Alyunes",
+      "Artem Lykov",
+      "Dzmitry Tsetserukou"
+    ],
+    "institutes": [
+      "Skolkovo Institute of Science and Technology"
+    ],
+    "journal": null,
+    "citations": 37,
+    "dblp_info": {
+      "authors": {
+        "author": [
+          {
+            "@pid": "367/5001",
+            "text": "Koffivi Fidèle Gbagbe"
+          },
+          {
+            "@pid": "213/7883",
+            "text": "Miguel Altamirano Cabrera"
+          },
+          {
+            "@pid": "352/3948",
+            "text": "Ali Alabbas"
+          },
+          {
+            "@pid": "352/4763",
+            "text": "Oussama Alyunes"
+          },
+          {
+            "@pid": "332/1788",
+            "text": "Artem Lykov"
+          },
+          {
+            "@pid": "62/6503",
+            "text": "Dzmitry Tsetserukou"
+          }
+        ]
+      },
+      "title": "Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations",
+      "venue": "SMC",
+      "pages": "2864-2869",
+      "year": "2024",
+      "type": "Conference and Workshop Papers",
+      "access": "closed",
+      "key": "conf/smc/GbagbeCAALT24",
+      "doi": "10.1109/SMC54092.2024.10831380",
+      "ee": "https://doi.org/10.1109/SMC54092.2024.10831380",
+      "url": "https://dblp.org/rec/conf/smc/GbagbeCAALT24"
+    },
+    "venue": "SMC 2024",
+    "venue_name": "SMC",
+    "venue_year": 2024
   }
 ]

@@ -337,6 +337,8 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 <!-- DBLP:conf/corl/GuhurCPTLS22, Instruction-driven history-aware policies for robotic manipulations -->
 * **Hiveformer**: "Instruction-driven history-aware policies for robotic manipulations", *CoRL, 2022* [[Paper](http://arxiv.org/abs/2209.04899v3)][[Website](https://vlc-robot.github.io/hiveformer-corl/)][[Code](https://github.com/vlc-robot/hiveformer)]
 
+* **Instruct2Act**: "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, 2023* [[Paper](https://arxiv.org/abs/2305.11176)][[Code](https://github.com/OpenGVLab/Instruct2Act)]
+
 ### Control Policies for Multimodal Instructions
 <!-- DBLP:journals/corr/abs-2210-03094, VIMA: General Robot Manipulation with Multimodal Prompts -->
 * **VIMA**: "VIMA: General Robot Manipulation with Multimodal Prompts", *arXiv, Oct 2022* [[Paper](http://arxiv.org/abs/2210.03094v2)]
@@ -428,8 +430,6 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * **WorldVLA**: "WorldVLA: Towards Autoregressive Action World Model", *arXiv, Jun 2025* [[Paper](https://arxiv.org/abs/2506.21539)][[Code](https://github.com/alibaba-damo-academy/WorldVLA)]
 
 * **UniVLA**: "Unified Vision-Language-Action Model", *arXiv, Jun 2025* [[Paper](https://arxiv.org/abs/2506.19850)][[Website](https://robertwyq.github.io/univla.github.io/)][[Code](https://github.com/baaivision/UniVLA)]
-
-* **Instruct2Act**: "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model", *arXiv, 2023* [[Paper](https://arxiv.org/abs/2305.11176)][[Code](https://github.com/OpenGVLab/Instruct2Act)]
 
 <!-- v5-TODO -->
 * **VLA-Adapter**: "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model", *arXiv, 2025* [[Paper](https://arxiv.org/abs/2509.09372)][[Website](https://vla-adapter.github.io)][[Code](https://github.com/OpenHelix-Team/VLA-Adapter)]
