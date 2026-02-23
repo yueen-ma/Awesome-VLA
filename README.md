@@ -124,8 +124,10 @@ There are many other lists related to Embodied AI that are actively being update
     https://github.com/Denghaoyuan123/Awesome-RL-VLA
 *   **3D Gaussian Splatting Papers**  
     https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers
-*   **VLM Survey**  
+*   **VLM Survey**
     https://github.com/jingyi0000/VLM_survey
+*   **Awesome VLA Study**
+    https://github.com/MilkClouds/awesome-vla-study
 
 ### Related Surveys
 A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
