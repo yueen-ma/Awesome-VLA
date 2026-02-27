@@ -445,7 +445,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * **HiMoE-VLA**: "HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies", *arXiv, Jul 2025* [[Paper](https://www.arxiv.org/abs/2512.05693)][[Code](https://github.com/ZhiyingDu/HiMoE-VLA)]
 <!-- v5-TODO -->
 * **InternVLA-M1**: "InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy", *arXiv, Oct 2025* [[Paper](https://arxiv.org/abs/2510.13778)][[Website](https://internrobotics.github.io/internvla-m1.github.io/)][[Code](https://github.com/InternRobotics/InternVLA-M1)]
-
+* **ABot-M0**: "ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning", *arXiv, Feb 2026* [[Paper](https://arxiv.org/abs/2602.11236)][[Website](https://amap-cvlab.github.io/ABot-Manipulation/)][[Code](https://github.com/amap-cvlab/ABot-Manipulation)]
 
 ## High-level Task Planners
 
