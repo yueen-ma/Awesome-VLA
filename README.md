@@ -2,6 +2,9 @@
 
 ## A Survey on Vision-Language-Action Models for Embodied AI
 
+#### 📰 Published in IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+[![TNNLS](https://img.shields.io/badge/TNNLS-10.1109%2FTNNLS.2025.3650584-blue.svg)](https://doi.org/10.1109/TNNLS.2025.3650584)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093)
 <img alt="License" src="https://img.shields.io/badge/License-CC%20BY%204.0-blue">
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
