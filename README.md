@@ -296,6 +296,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 ### Policy Steering
 * **V-GPS**: "Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance", *CoRL, 2024* [[Paper](https://arxiv.org/abs/2410.13816)][[Website](https://nakamotoo.github.io/V-GPS)][[Code](https://github.com/nakamotoo/V-GPS)]
 * **RoboMonkey**: "RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models", *arXiv, Oct 2024* [[Paper](https://arxiv.org/abs/2506.17811)][[Website](https://robomonkey-vla.github.io)][[Code](https://github.com/robomonkey-vla/RoboMonkey)]
+* **VLA-Corrector**: "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon", *arXiv, Jul 2026* [[Paper](https://arxiv.org/abs/2607.01804)][[Website](https://zju-omniai.github.io/vla-corrector/)][[Code](https://github.com/ZJU-OmniAI/vla-corrector)]
 
 
 ## Low-level Control Policies
