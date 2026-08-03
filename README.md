@@ -562,15 +562,17 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 ## Citation
 Thank you for your interest! If you find our work helpful, please consider citing us with:
 ```bibtex
-@article{DBLP:journals/corr/abs-2405-14093,
+@article{DBLP:journals/tnn/MaSZHK26,
   author       = {Yueen Ma and
                   Zixing Song and
                   Yuzheng Zhuang and
                   Jianye Hao and
                   Irwin King},
   title        = {A Survey on Vision-Language-Action Models for Embodied {AI}},
-  journal      = {CoRR},
-  volume       = {abs/2405.14093},
-  year         = {2024}
+  journal      = {{IEEE} Trans. Neural Networks Learn. Syst.},
+  volume       = {37},
+  number       = {7},
+  pages        = {3031--3051},
+  year         = {2026}
 }
 ```
