@@ -131,6 +131,8 @@ There are many other lists related to Embodied AI that are actively being update
     https://github.com/jingyi0000/VLM_survey
 *   **Awesome VLA Study**  
     https://github.com/MilkClouds/awesome-vla-study
+*   **Physical AI Atlas**  
+    https://github.com/PlbKin190/physical-ai-atlas-data
 
 ### Related Surveys
 A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
