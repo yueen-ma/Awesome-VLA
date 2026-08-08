@@ -558,9 +558,6 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 <!-- v5-TODO -->
 * **DexGraspVLA**: "DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping", *arXiv, Feb 2025* [[Paper](https://arxiv.org/abs/2502.20900)][[Website](https://dexgraspvla.github.io)][[Code](https://github.com/Psi-Robot/DexGraspVLA)]
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=yueen-ma/Awesome-VLA&type=Date)](https://star-history.com/#yueen-ma/Awesome-VLA&Date)
-
 ## Citation
 Thank you for your interest! If you find our work helpful, please consider citing us with:
 ```bibtex
