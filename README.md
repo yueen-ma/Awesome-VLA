@@ -273,6 +273,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * **LLM-DM**: "Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning", *NeurIPS, 2023* [[Paper](http://arxiv.org/abs/2305.14909v2)][[Website](https://guansuns.github.io/pages/llm-dm/)][[Code](https://github.com/GuanSuns/LLMs-World-Models-for-Planning)]
 
 ### Visual World Models
+* **ST-WAM**: "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts", *arXiv, 2026* [[Paper](https://arxiv.org/abs/2607.28993)][[Website](https://thu-wangmx.github.io/st-wam/)][[Code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model)]
 <!-- DBLP:conf/nips/XiangTGSWYH23, Language Models Meet World Models: Embodied Experiences Enhance Language Models -->
 * **E2WM**: "Language Models Meet World Models: Embodied Experiences Enhance Language Models", *NeurIPS, 2023* [[Paper](http://arxiv.org/abs/2305.10626v3)][[Code](https://github.com/Sfedfcv/redesigned-pancake)]
 <!-- DBLP:conf/icml/BruceDEPS0LMSAA24, Genie: Generative Interactive Environments -->
