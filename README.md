@@ -138,6 +138,7 @@ There are many other lists related to Embodied AI that are actively being update
 A number of other survey papers on VLA models, embodied AI, robotics, etc. are also available:
 
 #### VLA
+* "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms", *Apr 2026* [[Paper](https://arxiv.org/abs/2604.23775)]
 * "Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future", *Dec 2025* [[Paper](https://arxiv.org/abs/2512.16760)]
 * "A Survey on Reinforcement Learning of Vision-Language-Action Models for Robotic Manipulation", *Dec 2025* [[Paper](https://www.techrxiv.org/users/934012/articles/1366553-a-survey-on-reinforcement-learning-of-vision-language-action-models-for-robotic-manipulation)]
 * "An Anatomy of Vision-Language-Action Models- From Modules to Milestones and Challenges", *Dec 2025* [[Paper](https://arxiv.org/abs/2512.11362)]
