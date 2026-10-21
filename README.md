@@ -305,6 +305,7 @@ A number of other survey papers on VLA models, embodied AI, robotics, etc. are a
 * **RoboMonkey**: "RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models", *arXiv, Oct 2024* [[Paper](https://arxiv.org/abs/2506.17811)][[Website](https://robomonkey-vla.github.io)][[Code](https://github.com/robomonkey-vla/RoboMonkey)]
 * **VLA-Corrector**: "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon", *arXiv, Jul 2026* [[Paper](https://arxiv.org/abs/2607.01804)][[Website](https://zju-omniai.github.io/vla-corrector/)][[Code](https://github.com/ZJU-OmniAI/vla-corrector)]
 * **RL2-VLA**: "RL2-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models", *arXiv, Jul 2026* [[Paper](https://arxiv.org/abs/2607.26991)][[Website](https://rl2-vla.github.io)][[Code](https://github.com/marmotlab/RL2-VLA)]
+* **ReStruct**: "Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure", *CoRL, 2026* [[Paper](https://arxiv.org/abs/2606.26588)][[Website](https://pyywill.github.io/restruct-corl2026/)]
 
 
 ## Low-level Control Policies
