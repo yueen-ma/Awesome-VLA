@@ -109,6 +109,8 @@ The raw data for these visualizations are available in the `data` folder:
     https://github.com/starVLA/starVLA
 *   **EmbodiChain**  
     https://github.com/DexForce/EmbodiChain
+*   **DDBR (robo_vlm_qc)**  
+    https://github.com/LVultimatefun/DDBR
 
 ### Related Repositories
 There are many other lists related to Embodied AI that are actively being updated. You may also want to check them out:
